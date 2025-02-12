@@ -1,0 +1,7911 @@
+alpha_3,name,scope,type
+aaa,Ghotuo,I,L
+aab,Alumu-Tesu,I,L
+aac,Ari,I,L
+aad,Amal,I,L
+aae,Arbëreshë Albanian,I,L
+aaf,Aranadan,I,L
+aag,Ambrak,I,L
+aah,Abu' Arapesh,I,L
+aai,Arifama-Miniafia,I,L
+aak,Ankave,I,L
+aal,Afade,I,L
+aan,Anambé,I,L
+aao,Algerian Saharan Arabic,I,L
+aap,Pará Arára,I,L
+aaq,Eastern Abnaki,I,E
+aar,Afar,I,L
+aas,Aasáx,I,L
+aat,Arvanitika Albanian,I,L
+aau,Abau,I,L
+aaw,Solong,I,L
+aax,Mandobo Atas,I,L
+aaz,Amarasi,I,L
+aba,Abé,I,L
+abb,Bankon,I,L
+abc,Ambala Ayta,I,L
+abd,Manide,I,L
+abe,Western Abnaki,I,L
+abf,Abai Sungai,I,L
+abg,Abaga,I,L
+abh,Tajiki Arabic,I,L
+abi,Abidji,I,L
+abj,Aka-Bea,I,E
+abk,Abkhazian,I,L
+abl,Lampung Nyo,I,L
+abm,Abanyom,I,L
+abn,Abua,I,L
+abo,Abon,I,L
+abp,Abellen Ayta,I,L
+abq,Abaza,I,L
+abr,Abron,I,L
+abs,Ambonese Malay,I,L
+abt,Ambulas,I,L
+abu,Abure,I,L
+abv,Baharna Arabic,I,L
+abw,Pal,I,L
+abx,Inabaknon,I,L
+aby,Aneme Wake,I,L
+abz,Abui,I,L
+aca,Achagua,I,L
+acb,Áncá,I,L
+acd,Gikyode,I,L
+ace,Achinese,I,L
+acf,Saint Lucian Creole French,I,L
+ach,Acoli,I,L
+aci,Aka-Cari,I,E
+ack,Aka-Kora,I,E
+acl,Akar-Bale,I,E
+acm,Mesopotamian Arabic,I,L
+acn,Achang,I,L
+acp,Eastern Acipa,I,L
+acq,Ta'izzi-Adeni Arabic,I,L
+acr,Achi,I,L
+acs,Acroá,I,E
+act,Achterhoeks,I,L
+acu,Achuar-Shiwiar,I,L
+acv,Achumawi,I,L
+acw,Hijazi Arabic,I,L
+acx,Omani Arabic,I,L
+acy,Cypriot Arabic,I,L
+acz,Acheron,I,L
+ada,Adangme,I,L
+adb,Atauran,I,L
+add,Lidzonka,I,L
+ade,Adele,I,L
+adf,Dhofari Arabic,I,L
+adg,Andegerebinha,I,L
+adh,Adhola,I,L
+adi,Adi,I,L
+adj,Adioukrou,I,L
+adl,Galo,I,L
+adn,Adang,I,L
+ado,Abu,I,L
+adq,Adangbe,I,L
+adr,Adonara,I,L
+ads,Adamorobe Sign Language,I,L
+adt,Adnyamathanha,I,L
+adu,Aduge,I,L
+adw,Amundava,I,L
+adx,Amdo Tibetan,I,L
+ady,Adyghe,I,L
+adz,Adzera,I,L
+aea,Areba,I,E
+aeb,Tunisian Arabic,I,L
+aec,Saidi Arabic,I,L
+aed,Argentine Sign Language,I,L
+aee,Northeast Pashai,I,L
+aek,Haeke,I,L
+ael,Ambele,I,L
+aem,Arem,I,L
+aen,Armenian Sign Language,I,L
+aeq,Aer,I,L
+aer,Eastern Arrernte,I,L
+aes,Alsea,I,E
+aeu,Akeu,I,L
+aew,Ambakich,I,L
+aey,Amele,I,L
+aez,Aeka,I,L
+afb,Gulf Arabic,I,L
+afd,Andai,I,L
+afe,Putukwam,I,L
+afg,Afghan Sign Language,I,L
+afh,Afrihili,I,C
+afi,Akrukay,I,L
+afk,Nanubae,I,L
+afn,Defaka,I,L
+afo,Eloyi,I,L
+afp,Tapei,I,L
+afr,Afrikaans,I,L
+afs,Afro-Seminole Creole,I,L
+aft,Afitti,I,L
+afu,Awutu,I,L
+afz,Obokuitai,I,L
+aga,Aguano,I,E
+agb,Legbo,I,L
+agc,Agatu,I,L
+agd,Agarabi,I,L
+age,Angal,I,L
+agf,Arguni,I,L
+agg,Angor,I,L
+agh,Ngelima,I,L
+agi,Agariya,I,L
+agj,Argobba,I,L
+agk,Isarog Agta,I,L
+agl,Fembe,I,L
+agm,Angaataha,I,L
+agn,Agutaynen,I,L
+ago,Tainae,I,L
+agq,Aghem,I,L
+agr,Aguaruna,I,L
+ags,Esimbi,I,L
+agt,Central Cagayan Agta,I,L
+agu,Aguacateco,I,L
+agv,Remontado Dumagat,I,L
+agw,Kahua,I,L
+agx,Aghul,I,L
+agy,Southern Alta,I,L
+agz,Mt. Iriga Agta,I,L
+aha,Ahanta,I,L
+ahb,Axamb,I,L
+ahg,Qimant,I,L
+ahh,Aghu,I,L
+ahi,Tiagbamrin Aizi,I,L
+ahk,Akha,I,L
+ahl,Igo,I,L
+ahm,Mobumrin Aizi,I,L
+ahn,Àhàn,I,L
+aho,Ahom,I,E
+ahp,Aproumu Aizi,I,L
+ahr,Ahirani,I,L
+ahs,Ashe,I,L
+aht,Ahtena,I,L
+aia,Arosi,I,L
+aib,Ainu (China),I,L
+aic,Ainbai,I,L
+aid,Alngith,I,E
+aie,Amara,I,L
+aif,Agi,I,L
+aig,Antigua and Barbuda Creole English,I,L
+aih,Ai-Cham,I,L
+aii,Assyrian Neo-Aramaic,I,L
+aij,Lishanid Noshan,I,L
+aik,Ake,I,L
+ail,Aimele,I,L
+aim,Aimol,I,L
+ain,Ainu (Japan),I,L
+aio,Aiton,I,L
+aip,Burumakok,I,L
+aiq,Aimaq,I,L
+air,Airoran,I,L
+ait,Arikem,I,E
+aiw,Aari,I,L
+aix,Aighon,I,L
+aiy,Ali,I,L
+aja,Aja (South Sudan),I,L
+ajg,Aja (Benin),I,L
+aji,Ajië,I,L
+ajn,Andajin,I,L
+ajp,South Levantine Arabic,I,L
+ajs,Algerian Jewish Sign Language,I,L
+aju,Judeo-Moroccan Arabic,I,L
+ajw,Ajawa,I,E
+ajz,Amri Karbi,I,L
+aka,Akan,M,L
+akb,Batak Angkola,I,L
+akc,Mpur,I,L
+akd,Ukpet-Ehom,I,L
+ake,Akawaio,I,L
+akf,Akpa,I,L
+akg,Anakalangu,I,L
+akh,Angal Heneng,I,L
+aki,Aiome,I,L
+akj,Aka-Jeru,I,E
+akk,Akkadian,I,A
+akl,Aklanon,I,L
+akm,Aka-Bo,I,E
+ako,Akurio,I,L
+akp,Siwu,I,L
+akq,Ak,I,L
+akr,Araki,I,L
+aks,Akaselem,I,L
+akt,Akolet,I,L
+aku,Akum,I,L
+akv,Akhvakh,I,L
+akw,Akwa,I,L
+akx,Aka-Kede,I,E
+aky,Aka-Kol,I,E
+akz,Alabama,I,L
+ala,Alago,I,L
+alc,Qawasqar,I,L
+ald,Alladian,I,L
+ale,Aleut,I,L
+alf,Alege,I,L
+alh,Alawa,I,L
+ali,Amaimon,I,L
+alj,Alangan,I,L
+alk,Alak,I,L
+all,Allar,I,L
+alm,Amblong,I,L
+aln,Gheg Albanian,I,L
+alo,Larike-Wakasihu,I,L
+alp,Alune,I,L
+alq,Algonquin,I,L
+alr,Alutor,I,L
+als,Tosk Albanian,I,L
+alt,Southern Altai,I,L
+alu,'Are'are,I,L
+alw,Alaba-K’abeena,I,L
+alx,Amol,I,L
+aly,Alyawarr,I,L
+alz,Alur,I,L
+ama,Amanayé,I,E
+amb,Ambo,I,L
+amc,Amahuaca,I,L
+ame,Yanesha',I,L
+amf,Hamer-Banna,I,L
+amg,Amurdak,I,L
+amh,Amharic,I,L
+ami,Amis,I,L
+amj,Amdang,I,L
+amk,Ambai,I,L
+aml,War-Jaintia,I,L
+amm,Ama (Papua New Guinea),I,L
+amn,Amanab,I,L
+amo,Amo,I,L
+amp,Alamblak,I,L
+amq,Amahai,I,L
+amr,Amarakaeri,I,L
+ams,Southern Amami-Oshima,I,L
+amt,Amto,I,L
+amu,Guerrero Amuzgo,I,L
+amv,Ambelau,I,L
+amw,Western Neo-Aramaic,I,L
+amx,Anmatyerre,I,L
+amy,Ami,I,L
+amz,Atampaya,I,E
+ana,Andaqui,I,E
+anb,Andoa,I,E
+anc,Ngas,I,L
+and,Ansus,I,L
+ane,Xârâcùù,I,L
+anf,Animere,I,L
+ang,Old English (ca. 450-1100),I,H
+anh,Nend,I,L
+ani,Andi,I,L
+anj,Anor,I,L
+ank,Goemai,I,L
+anl,Anu-Hkongso Chin,I,L
+anm,Anal,I,L
+ann,Obolo,I,L
+ano,Andoque,I,L
+anp,Angika,I,L
+anq,Jarawa (India),I,L
+anr,Andh,I,L
+ans,Anserma,I,E
+ant,Antakarinya,I,L
+anu,Anuak,I,L
+anv,Denya,I,L
+anw,Anaang,I,L
+anx,Andra-Hus,I,L
+any,Anyin,I,L
+anz,Anem,I,L
+aoa,Angolar,I,L
+aob,Abom,I,L
+aoc,Pemon,I,L
+aod,Andarum,I,L
+aoe,Angal Enen,I,L
+aof,Bragat,I,L
+aog,Angoram,I,L
+aoi,Anindilyakwa,I,L
+aoj,Mufian,I,L
+aok,Arhö,I,L
+aol,Alor,I,L
+aom,Ömie,I,L
+aon,Bumbita Arapesh,I,L
+aor,Aore,I,E
+aos,Taikat,I,L
+aot,Atong (India),I,L
+aou,A'ou,I,L
+aox,Atorada,I,L
+aoz,Uab Meto,I,L
+apb,Sa'a,I,L
+apc,North Levantine Arabic,I,L
+apd,Sudanese Arabic,I,L
+ape,Bukiyip,I,L
+apf,Pahanan Agta,I,L
+apg,Ampanang,I,L
+aph,Athpariya,I,L
+api,Apiaká,I,L
+apj,Jicarilla Apache,I,L
+apk,Kiowa Apache,I,L
+apl,Lipan Apache,I,L
+apm,Mescalero-Chiricahua Apache,I,L
+apn,Apinayé,I,L
+apo,Ambul,I,L
+app,Apma,I,L
+apq,A-Pucikwar,I,L
+apr,Arop-Lokep,I,L
+aps,Arop-Sissano,I,L
+apt,Apatani,I,L
+apu,Apurinã,I,L
+apv,Alapmunte,I,E
+apw,Western Apache,I,L
+apx,Aputai,I,L
+apy,Apalaí,I,L
+apz,Safeyoka,I,L
+aqc,Archi,I,L
+aqd,Ampari Dogon,I,L
+aqg,Arigidi,I,L
+aqk,Aninka,I,L
+aqm,Atohwaim,I,L
+aqn,Northern Alta,I,L
+aqp,Atakapa,I,E
+aqr,Arhâ,I,L
+aqt,Angaité,I,L
+aqz,Akuntsu,I,L
+ara,Arabic,M,L
+arb,Standard Arabic,I,L
+arc,Official Aramaic (700-300 BCE),I,A
+ard,Arabana,I,E
+are,Western Arrarnta,I,L
+arg,Aragonese,I,L
+arh,Arhuaco,I,L
+ari,Arikara,I,L
+arj,Arapaso,I,E
+ark,Arikapú,I,L
+arl,Arabela,I,L
+arn,Mapudungun,I,L
+aro,Araona,I,L
+arp,Arapaho,I,L
+arq,Algerian Arabic,I,L
+arr,Karo (Brazil),I,L
+ars,Najdi Arabic,I,L
+aru,Aruá (Amazonas State),I,E
+arv,Arbore,I,L
+arw,Arawak,I,L
+arx,Aruá (Rodonia State),I,L
+ary,Moroccan Arabic,I,L
+arz,Egyptian Arabic,I,L
+asa,Asu (Tanzania),I,L
+asb,Assiniboine,I,L
+asc,Casuarina Coast Asmat,I,L
+ase,American Sign Language,I,L
+asf,Auslan,I,L
+asg,Cishingini,I,L
+ash,Abishira,I,E
+asi,Buruwai,I,L
+asj,Sari,I,L
+ask,Ashkun,I,L
+asl,Asilulu,I,L
+asm,Assamese,I,L
+asn,Xingú Asuriní,I,L
+aso,Dano,I,L
+asp,Algerian Sign Language,I,L
+asq,Austrian Sign Language,I,L
+asr,Asuri,I,L
+ass,Ipulo,I,L
+ast,Asturian,I,L
+asu,Tocantins Asurini,I,L
+asv,Asoa,I,L
+asw,Australian Aborigines Sign Language,I,L
+asx,Muratayak,I,L
+asy,Yaosakor Asmat,I,L
+asz,As,I,L
+ata,Pele-Ata,I,L
+atb,Zaiwa,I,L
+atc,Atsahuaca,I,E
+atd,Ata Manobo,I,L
+ate,Atemble,I,L
+atg,Ivbie North-Okpela-Arhe,I,L
+ati,Attié,I,L
+atj,Atikamekw,I,L
+atk,Ati,I,L
+atl,Mt. Iraya Agta,I,L
+atm,Ata,I,L
+atn,Ashtiani,I,L
+ato,Atong (Cameroon),I,L
+atp,Pudtol Atta,I,L
+atq,Aralle-Tabulahan,I,L
+atr,Waimiri-Atroari,I,L
+ats,Gros Ventre,I,L
+att,Pamplona Atta,I,L
+atu,Reel,I,L
+atv,Northern Altai,I,L
+atw,Atsugewi,I,L
+atx,Arutani,I,L
+aty,Aneityum,I,L
+atz,Arta,I,L
+aua,Asumboa,I,L
+aub,Alugu,I,L
+auc,Waorani,I,L
+aud,Anuta,I,L
+aug,Aguna,I,L
+auh,Aushi,I,L
+aui,Anuki,I,L
+auj,Awjilah,I,L
+auk,Heyo,I,L
+aul,Aulua,I,L
+aum,Asu (Nigeria),I,L
+aun,Molmo One,I,L
+auo,Auyokawa,I,E
+aup,Makayam,I,L
+auq,Anus,I,L
+aur,Aruek,I,L
+aut,Austral,I,L
+auu,Auye,I,L
+auw,Awyi,I,L
+aux,Aurá,I,E
+auy,Awiyaana,I,L
+auz,Uzbeki Arabic,I,L
+ava,Avaric,I,L
+avb,Avau,I,L
+avd,Alviri-Vidari,I,L
+ave,Avestan,I,A
+avi,Avikam,I,L
+avk,Kotava,I,C
+avl,Eastern Egyptian Bedawi Arabic,I,L
+avm,Angkamuthi,I,E
+avn,Avatime,I,L
+avo,Agavotaguerra,I,E
+avs,Aushiri,I,E
+avt,Au,I,L
+avu,Avokaya,I,L
+avv,Avá-Canoeiro,I,L
+awa,Awadhi,I,L
+awb,Awa (Papua New Guinea),I,L
+awc,Cicipu,I,L
+awe,Awetí,I,L
+awg,Anguthimri,I,E
+awh,Awbono,I,L
+awi,Aekyom,I,L
+awk,Awabakal,I,E
+awm,Arawum,I,L
+awn,Awngi,I,L
+awo,Awak,I,L
+awr,Awera,I,L
+aws,South Awyu,I,L
+awt,Araweté,I,L
+awu,Central Awyu,I,L
+awv,Jair Awyu,I,L
+aww,Awun,I,L
+awx,Awara,I,L
+awy,Edera Awyu,I,L
+axb,Abipon,I,E
+axe,Ayerrerenge,I,E
+axg,Mato Grosso Arára,I,E
+axk,Yaka (Central African Republic),I,L
+axl,Lower Southern Aranda,I,E
+axm,Middle Armenian,I,H
+axx,Xârâgurè,I,L
+aya,Awar,I,L
+ayb,Ayizo Gbe,I,L
+ayc,Southern Aymara,I,L
+ayd,Ayabadhu,I,E
+aye,Ayere,I,L
+ayg,Ginyanga,I,L
+ayh,Hadrami Arabic,I,L
+ayi,Leyigha,I,L
+ayk,Akuku,I,L
+ayl,Libyan Arabic,I,L
+aym,Aymara,M,L
+ayn,Sanaani Arabic,I,L
+ayo,Ayoreo,I,L
+ayp,North Mesopotamian Arabic,I,L
+ayq,Ayi (Papua New Guinea),I,L
+ayr,Central Aymara,I,L
+ays,Sorsogon Ayta,I,L
+ayt,Magbukun Ayta,I,L
+ayu,Ayu,I,L
+ayz,Mai Brat,I,L
+aza,Azha,I,L
+azb,South Azerbaijani,I,L
+azd,Eastern Durango Nahuatl,I,L
+aze,Azerbaijani,M,L
+azg,San Pedro Amuzgos Amuzgo,I,L
+azj,North Azerbaijani,I,L
+azm,Ipalapa Amuzgo,I,L
+azn,Western Durango Nahuatl,I,L
+azo,Awing,I,L
+azt,Faire Atta,I,L
+azz,Highland Puebla Nahuatl,I,L
+baa,Babatana,I,L
+bab,Bainouk-Gunyuño,I,L
+bac,Badui,I,L
+bae,Baré,I,E
+baf,Nubaca,I,L
+bag,Tuki,I,L
+bah,Bahamas Creole English,I,L
+baj,Barakai,I,L
+bak,Bashkir,I,L
+bal,Baluchi,M,L
+bam,Bambara,I,L
+ban,Balinese,I,L
+bao,Waimaha,I,L
+bap,Bantawa,I,L
+bar,Bavarian,I,L
+bas,Basa (Cameroon),I,L
+bau,Bada (Nigeria),I,L
+bav,Vengo,I,L
+baw,Bambili-Bambui,I,L
+bax,Bamun,I,L
+bay,Batuley,I,L
+bba,Baatonum,I,L
+bbb,Barai,I,L
+bbc,Batak Toba,I,L
+bbd,Bau,I,L
+bbe,Bangba,I,L
+bbf,Baibai,I,L
+bbg,Barama,I,L
+bbh,Bugan,I,L
+bbi,Barombi,I,L
+bbj,Ghomálá',I,L
+bbk,Babanki,I,L
+bbl,Bats,I,L
+bbm,Babango,I,L
+bbn,Uneapa,I,L
+bbo,Northern Bobo Madaré,I,L
+bbp,West Central Banda,I,L
+bbq,Bamali,I,L
+bbr,Girawa,I,L
+bbs,Bakpinka,I,L
+bbt,Mburku,I,L
+bbu,Kulung (Nigeria),I,L
+bbv,Karnai,I,L
+bbw,Baba,I,L
+bbx,Bubia,I,L
+bby,Befang,I,L
+bca,Central Bai,I,L
+bcb,Bainouk-Samik,I,L
+bcc,Southern Balochi,I,L
+bcd,North Babar,I,L
+bce,Bamenyam,I,L
+bcf,Bamu,I,L
+bcg,Baga Pokur,I,L
+bch,Bariai,I,L
+bci,Baoulé,I,L
+bcj,Bardi,I,L
+bck,Bunuba,I,L
+bcl,Central Bikol,I,L
+bcm,Bannoni,I,L
+bcn,Bali (Nigeria),I,L
+bco,Kaluli,I,L
+bcp,Bali (Democratic Republic of Congo),I,L
+bcq,Bench,I,L
+bcr,Babine,I,L
+bcs,Kohumono,I,L
+bct,Bendi,I,L
+bcu,Awad Bing,I,L
+bcv,Shoo-Minda-Nye,I,L
+bcw,Bana,I,L
+bcy,Bacama,I,L
+bcz,Bainouk-Gunyaamolo,I,L
+bda,Bayot,I,L
+bdb,Basap,I,L
+bdc,Emberá-Baudó,I,L
+bdd,Bunama,I,L
+bde,Bade,I,L
+bdf,Biage,I,L
+bdg,Bonggi,I,L
+bdh,Baka (South Sudan),I,L
+bdi,Burun,I,L
+bdj,Bai (South Sudan),I,L
+bdk,Budukh,I,L
+bdl,Indonesian Bajau,I,L
+bdm,Buduma,I,L
+bdn,Baldemu,I,L
+bdo,Morom,I,L
+bdp,Bende,I,L
+bdq,Bahnar,I,L
+bdr,West Coast Bajau,I,L
+bds,Burunge,I,L
+bdt,Bokoto,I,L
+bdu,Oroko,I,L
+bdv,Bodo Parja,I,L
+bdw,Baham,I,L
+bdx,Budong-Budong,I,L
+bdy,Bandjalang,I,L
+bdz,Badeshi,I,L
+bea,Beaver,I,L
+beb,Bebele,I,L
+bec,Iceve-Maci,I,L
+bed,Bedoanas,I,L
+bee,Byangsi,I,L
+bef,Benabena,I,L
+beg,Belait,I,L
+beh,Biali,I,L
+bei,Bekati',I,L
+bej,Beja,I,L
+bek,Bebeli,I,L
+bel,Belarusian,I,L
+bem,Bemba (Zambia),I,L
+ben,Bengali,I,L
+beo,Beami,I,L
+bep,Besoa,I,L
+beq,Beembe,I,L
+bes,Besme,I,L
+bet,Guiberoua Béte,I,L
+beu,Blagar,I,L
+bev,Daloa Bété,I,L
+bew,Betawi,I,L
+bex,Jur Modo,I,L
+bey,Beli (Papua New Guinea),I,L
+bez,Bena (Tanzania),I,L
+bfa,Bari,I,L
+bfb,Pauri Bareli,I,L
+bfc,Panyi Bai,I,L
+bfd,Bafut,I,L
+bfe,Betaf,I,L
+bff,Bofi,I,L
+bfg,Busang Kayan,I,L
+bfh,Blafe,I,L
+bfi,British Sign Language,I,L
+bfj,Bafanji,I,L
+bfk,Ban Khor Sign Language,I,L
+bfl,Banda-Ndélé,I,L
+bfm,Mmen,I,L
+bfn,Bunak,I,L
+bfo,Malba Birifor,I,L
+bfp,Beba,I,L
+bfq,Badaga,I,L
+bfr,Bazigar,I,L
+bfs,Southern Bai,I,L
+bft,Balti,I,L
+bfu,Gahri,I,L
+bfw,Bondo,I,L
+bfx,Bantayanon,I,L
+bfy,Bagheli,I,L
+bfz,Mahasu Pahari,I,L
+bga,Gwamhi-Wuri,I,L
+bgb,Bobongko,I,L
+bgc,Haryanvi,I,L
+bgd,Rathwi Bareli,I,L
+bge,Bauria,I,L
+bgf,Bangandu,I,L
+bgg,Bugun,I,L
+bgi,Giangan,I,L
+bgj,Bangolan,I,L
+bgk,Bit,I,L
+bgl,Bo (Laos),I,L
+bgn,Western Balochi,I,L
+bgo,Baga Koga,I,L
+bgp,Eastern Balochi,I,L
+bgq,Bagri,I,L
+bgr,Bawm Chin,I,L
+bgs,Tagabawa,I,L
+bgt,Bughotu,I,L
+bgu,Mbongno,I,L
+bgv,Warkay-Bipim,I,L
+bgw,Bhatri,I,L
+bgx,Balkan Gagauz Turkish,I,L
+bgy,Benggoi,I,L
+bgz,Banggai,I,L
+bha,Bharia,I,L
+bhb,Bhili,I,L
+bhc,Biga,I,L
+bhd,Bhadrawahi,I,L
+bhe,Bhaya,I,L
+bhf,Odiai,I,L
+bhg,Binandere,I,L
+bhh,Bukharic,I,L
+bhi,Bhilali,I,L
+bhj,Bahing,I,L
+bhl,Bimin,I,L
+bhm,Bathari,I,L
+bhn,Bohtan Neo-Aramaic,I,L
+bho,Bhojpuri,I,L
+bhp,Bima,I,L
+bhq,Tukang Besi South,I,L
+bhr,Bara Malagasy,I,L
+bhs,Buwal,I,L
+bht,Bhattiyali,I,L
+bhu,Bhunjia,I,L
+bhv,Bahau,I,L
+bhw,Biak,I,L
+bhx,Bhalay,I,L
+bhy,Bhele,I,L
+bhz,Bada (Indonesia),I,L
+bia,Badimaya,I,L
+bib,Bissa,I,L
+bid,Bidiyo,I,L
+bie,Bepour,I,L
+bif,Biafada,I,L
+big,Biangai,I,L
+bik,Bikol,M,L
+bil,Bile,I,L
+bim,Bimoba,I,L
+bin,Bini,I,L
+bio,Nai,I,L
+bip,Bila,I,L
+biq,Bipi,I,L
+bir,Bisorio,I,L
+bis,Bislama,I,L
+bit,Berinomo,I,L
+biu,Biete,I,L
+biv,Southern Birifor,I,L
+biw,Kol (Cameroon),I,L
+bix,Bijori,I,L
+biy,Birhor,I,L
+biz,Baloi,I,L
+bja,Budza,I,L
+bjb,Banggarla,I,E
+bjc,Bariji,I,L
+bje,Biao-Jiao Mien,I,L
+bjf,Barzani Jewish Neo-Aramaic,I,L
+bjg,Bidyogo,I,L
+bjh,Bahinemo,I,L
+bji,Burji,I,L
+bjj,Kanauji,I,L
+bjk,Barok,I,L
+bjl,Bulu (Papua New Guinea),I,L
+bjm,Bajelani,I,L
+bjn,Banjar,I,L
+bjo,Mid-Southern Banda,I,L
+bjp,Fanamaket,I,L
+bjr,Binumarien,I,L
+bjs,Bajan,I,L
+bjt,Balanta-Ganja,I,L
+bju,Busuu,I,L
+bjv,Bedjond,I,L
+bjw,Bakwé,I,L
+bjx,Banao Itneg,I,L
+bjy,Bayali,I,E
+bjz,Baruga,I,L
+bka,Kyak,I,L
+bkc,Baka (Cameroon),I,L
+bkd,Binukid,I,L
+bkf,Beeke,I,L
+bkg,Buraka,I,L
+bkh,Bakoko,I,L
+bki,Baki,I,L
+bkj,Pande,I,L
+bkk,Brokskat,I,L
+bkl,Berik,I,L
+bkm,Kom (Cameroon),I,L
+bkn,Bukitan,I,L
+bko,Kwa',I,L
+bkp,Boko (Democratic Republic of Congo),I,L
+bkq,Bakairí,I,L
+bkr,Bakumpai,I,L
+bks,Northern Sorsoganon,I,L
+bkt,Boloki,I,L
+bku,Buhid,I,L
+bkv,Bekwarra,I,L
+bkw,Bekwel,I,L
+bkx,Baikeno,I,L
+bky,Bokyi,I,L
+bkz,Bungku,I,L
+bla,Siksika,I,L
+blb,Bilua,I,L
+blc,Bella Coola,I,L
+bld,Bolango,I,L
+ble,Balanta-Kentohe,I,L
+blf,Buol,I,L
+blh,Kuwaa,I,L
+bli,Bolia,I,L
+blj,Bolongan,I,L
+blk,Pa'o Karen,I,L
+bll,Biloxi,I,E
+blm,Beli (South Sudan),I,L
+bln,Southern Catanduanes Bikol,I,L
+blo,Anii,I,L
+blp,Blablanga,I,L
+blq,Baluan-Pam,I,L
+blr,Blang,I,L
+bls,Balaesang,I,L
+blt,Tai Dam,I,L
+blv,Kibala,I,L
+blw,Balangao,I,L
+blx,Mag-Indi Ayta,I,L
+bly,Notre,I,L
+blz,Balantak,I,L
+bma,Lame,I,L
+bmb,Bembe,I,L
+bmc,Biem,I,L
+bmd,Baga Manduri,I,L
+bme,Limassa,I,L
+bmf,Bom-Kim,I,L
+bmg,Bamwe,I,L
+bmh,Kein,I,L
+bmi,Bagirmi,I,L
+bmj,Bote-Majhi,I,L
+bmk,Ghayavi,I,L
+bml,Bomboli,I,L
+bmm,Northern Betsimisaraka Malagasy,I,L
+bmn,Bina (Papua New Guinea),I,E
+bmo,Bambalang,I,L
+bmp,Bulgebi,I,L
+bmq,Bomu,I,L
+bmr,Muinane,I,L
+bms,Bilma Kanuri,I,L
+bmt,Biao Mon,I,L
+bmu,Somba-Siawari,I,L
+bmv,Bum,I,L
+bmw,Bomwali,I,L
+bmx,Baimak,I,L
+bmz,Baramu,I,L
+bna,Bonerate,I,L
+bnb,Bookan,I,L
+bnc,Bontok,M,L
+bnd,Banda (Indonesia),I,L
+bne,Bintauna,I,L
+bnf,Masiwang,I,L
+bng,Benga,I,L
+bni,Bangi,I,L
+bnj,Eastern Tawbuid,I,L
+bnk,Bierebo,I,L
+bnl,Boon,I,L
+bnm,Batanga,I,L
+bnn,Bunun,I,L
+bno,Bantoanon,I,L
+bnp,Bola,I,L
+bnq,Bantik,I,L
+bnr,Butmas-Tur,I,L
+bns,Bundeli,I,L
+bnu,Bentong,I,L
+bnv,Bonerif,I,L
+bnw,Bisis,I,L
+bnx,Bangubangu,I,L
+bny,Bintulu,I,L
+bnz,Beezen,I,L
+boa,Bora,I,L
+bob,Aweer,I,L
+bod,Tibetan,I,L
+boe,Mundabli,I,L
+bof,Bolon,I,L
+bog,Bamako Sign Language,I,L
+boh,Boma,I,L
+boi,Barbareño,I,E
+boj,Anjam,I,L
+bok,Bonjo,I,L
+bol,Bole,I,L
+bom,Berom,I,L
+bon,Bine,I,L
+boo,Tiemacèwè Bozo,I,L
+bop,Bonkiman,I,L
+boq,Bogaya,I,L
+bor,Borôro,I,L
+bos,Bosnian,I,L
+bot,Bongo,I,L
+bou,Bondei,I,L
+bov,Tuwuli,I,L
+bow,Rema,I,E
+box,Buamu,I,L
+boy,Bodo (Central African Republic),I,L
+boz,Tiéyaxo Bozo,I,L
+bpa,Daakaka,I,L
+bpc,Mbuk,I,L
+bpd,Banda-Banda,I,L
+bpe,Bauni,I,L
+bpg,Bonggo,I,L
+bph,Botlikh,I,L
+bpi,Bagupi,I,L
+bpj,Binji,I,L
+bpk,Orowe,I,L
+bpl,Broome Pearling Lugger Pidgin,I,L
+bpm,Biyom,I,L
+bpn,Dzao Min,I,L
+bpo,Anasi,I,L
+bpp,Kaure,I,L
+bpq,Banda Malay,I,L
+bpr,Koronadal Blaan,I,L
+bps,Sarangani Blaan,I,L
+bpt,Barrow Point,I,E
+bpu,Bongu,I,L
+bpv,Bian Marind,I,L
+bpw,Bo (Papua New Guinea),I,L
+bpx,Palya Bareli,I,L
+bpy,Bishnupriya,I,L
+bpz,Bilba,I,L
+bqa,Tchumbuli,I,L
+bqb,Bagusa,I,L
+bqc,Boko (Benin),I,L
+bqd,Bung,I,L
+bqf,Baga Kaloum,I,E
+bqg,Bago-Kusuntu,I,L
+bqh,Baima,I,L
+bqi,Bakhtiari,I,L
+bqj,Bandial,I,L
+bqk,Banda-Mbrès,I,L
+bql,Bilakura,I,L
+bqm,Wumboko,I,L
+bqn,Bulgarian Sign Language,I,L
+bqo,Balo,I,L
+bqp,Busa,I,L
+bqq,Biritai,I,L
+bqr,Burusu,I,L
+bqs,Bosngun,I,L
+bqt,Bamukumbit,I,L
+bqu,Boguru,I,L
+bqv,Koro Wachi,I,L
+bqw,Buru (Nigeria),I,L
+bqx,Baangi,I,L
+bqy,Bengkala Sign Language,I,L
+bqz,Bakaka,I,L
+bra,Braj,I,L
+brb,Brao,I,L
+brc,Berbice Creole Dutch,I,E
+brd,Baraamu,I,L
+bre,Breton,I,L
+brf,Bira,I,L
+brg,Baure,I,L
+brh,Brahui,I,L
+bri,Mokpwe,I,L
+brj,Bieria,I,L
+brk,Birked,I,E
+brl,Birwa,I,L
+brm,Barambu,I,L
+brn,Boruca,I,L
+bro,Brokkat,I,L
+brp,Barapasi,I,L
+brq,Breri,I,L
+brr,Birao,I,L
+brs,Baras,I,L
+brt,Bitare,I,L
+bru,Eastern Bru,I,L
+brv,Western Bru,I,L
+brw,Bellari,I,L
+brx,Bodo (India),I,L
+bry,Burui,I,L
+brz,Bilbil,I,L
+bsa,Abinomn,I,L
+bsb,Brunei Bisaya,I,L
+bsc,Bassari,I,L
+bse,Wushi,I,L
+bsf,Bauchi,I,L
+bsg,Bashkardi,I,L
+bsh,Kati,I,L
+bsi,Bassossi,I,L
+bsj,Bangwinji,I,L
+bsk,Burushaski,I,L
+bsl,Basa-Gumna,I,E
+bsm,Busami,I,L
+bsn,Barasana-Eduria,I,L
+bso,Buso,I,L
+bsp,Baga Sitemu,I,L
+bsq,Bassa,I,L
+bsr,Bassa-Kontagora,I,L
+bss,Akoose,I,L
+bst,Basketo,I,L
+bsu,Bahonsuai,I,L
+bsv,Baga Sobané,I,E
+bsw,Baiso,I,L
+bsx,Yangkam,I,L
+bsy,Sabah Bisaya,I,L
+bta,Bata,I,L
+btc,Bati (Cameroon),I,L
+btd,Batak Dairi,I,L
+bte,Gamo-Ningi,I,E
+btf,Birgit,I,L
+btg,Gagnoa Bété,I,L
+bth,Biatah Bidayuh,I,L
+bti,Burate,I,L
+btj,Bacanese Malay,I,L
+btm,Batak Mandailing,I,L
+btn,Ratagnon,I,L
+bto,Rinconada Bikol,I,L
+btp,Budibud,I,L
+btq,Batek,I,L
+btr,Baetora,I,L
+bts,Batak Simalungun,I,L
+btt,Bete-Bendi,I,L
+btu,Batu,I,L
+btv,Bateri,I,L
+btw,Butuanon,I,L
+btx,Batak Karo,I,L
+bty,Bobot,I,L
+btz,Batak Alas-Kluet,I,L
+bua,Buriat,M,L
+bub,Bua,I,L
+buc,Bushi,I,L
+bud,Ntcham,I,L
+bue,Beothuk,I,E
+buf,Bushoong,I,L
+bug,Buginese,I,L
+buh,Younuo Bunu,I,L
+bui,Bongili,I,L
+buj,Basa-Gurmana,I,L
+buk,Bugawac,I,L
+bul,Bulgarian,I,L
+bum,Bulu (Cameroon),I,L
+bun,Sherbro,I,L
+buo,Terei,I,L
+bup,Busoa,I,L
+buq,Brem,I,L
+bus,Bokobaru,I,L
+but,Bungain,I,L
+buu,Budu,I,L
+buv,Bun,I,L
+buw,Bubi,I,L
+bux,Boghom,I,L
+buy,Bullom So,I,L
+buz,Bukwen,I,L
+bva,Barein,I,L
+bvb,Bube,I,L
+bvc,Baelelea,I,L
+bvd,Baeggu,I,L
+bve,Berau Malay,I,L
+bvf,Boor,I,L
+bvg,Bonkeng,I,L
+bvh,Bure,I,L
+bvi,Belanda Viri,I,L
+bvj,Baan,I,L
+bvk,Bukat,I,L
+bvl,Bolivian Sign Language,I,L
+bvm,Bamunka,I,L
+bvn,Buna,I,L
+bvo,Bolgo,I,L
+bvp,Bumang,I,L
+bvq,Birri,I,L
+bvr,Burarra,I,L
+bvt,Bati (Indonesia),I,L
+bvu,Bukit Malay,I,L
+bvv,Baniva,I,E
+bvw,Boga,I,L
+bvx,Dibole,I,L
+bvy,Baybayanon,I,L
+bvz,Bauzi,I,L
+bwa,Bwatoo,I,L
+bwb,Namosi-Naitasiri-Serua,I,L
+bwc,Bwile,I,L
+bwd,Bwaidoka,I,L
+bwe,Bwe Karen,I,L
+bwf,Boselewa,I,L
+bwg,Barwe,I,L
+bwh,Bishuo,I,L
+bwi,Baniwa,I,L
+bwj,Láá Láá Bwamu,I,L
+bwk,Bauwaki,I,L
+bwl,Bwela,I,L
+bwm,Biwat,I,L
+bwn,Wunai Bunu,I,L
+bwo,Boro (Ethiopia),I,L
+bwp,Mandobo Bawah,I,L
+bwq,Southern Bobo Madaré,I,L
+bwr,Bura-Pabir,I,L
+bws,Bomboma,I,L
+bwt,Bafaw-Balong,I,L
+bwu,Buli (Ghana),I,L
+bww,Bwa,I,L
+bwx,Bu-Nao Bunu,I,L
+bwy,Cwi Bwamu,I,L
+bwz,Bwisi,I,L
+bxa,Tairaha,I,L
+bxb,Belanda Bor,I,L
+bxc,Molengue,I,L
+bxd,Pela,I,L
+bxe,Birale,I,L
+bxf,Bilur,I,L
+bxg,Bangala,I,L
+bxh,Buhutu,I,L
+bxi,Pirlatapa,I,E
+bxj,Bayungu,I,L
+bxk,Bukusu,I,L
+bxl,Jalkunan,I,L
+bxm,Mongolia Buriat,I,L
+bxn,Burduna,I,L
+bxo,Barikanchi,I,L
+bxp,Bebil,I,L
+bxq,Beele,I,L
+bxr,Russia Buriat,I,L
+bxs,Busam,I,L
+bxu,China Buriat,I,L
+bxv,Berakou,I,L
+bxw,Bankagooma,I,L
+bxz,Binahari,I,L
+bya,Batak,I,L
+byb,Bikya,I,L
+byc,Ubaghara,I,L
+byd,Benyadu',I,L
+bye,Pouye,I,L
+byf,Bete,I,L
+byg,Baygo,I,E
+byh,Bhujel,I,L
+byi,Buyu,I,L
+byj,Bina (Nigeria),I,L
+byk,Biao,I,L
+byl,Bayono,I,L
+bym,Bidjara,I,L
+byn,Bilin,I,L
+byo,Biyo,I,L
+byp,Bumaji,I,L
+byq,Basay,I,E
+byr,Baruya,I,L
+bys,Burak,I,L
+byt,Berti,I,E
+byv,Medumba,I,L
+byw,Belhariya,I,L
+byx,Qaqet,I,L
+byz,Banaro,I,L
+bza,Bandi,I,L
+bzb,Andio,I,L
+bzc,Southern Betsimisaraka Malagasy,I,L
+bzd,Bribri,I,L
+bze,Jenaama Bozo,I,L
+bzf,Boikin,I,L
+bzg,Babuza,I,L
+bzh,Mapos Buang,I,L
+bzi,Bisu,I,L
+bzj,Belize Kriol English,I,L
+bzk,Nicaragua Creole English,I,L
+bzl,Boano (Sulawesi),I,L
+bzm,Bolondo,I,L
+bzn,Boano (Maluku),I,L
+bzo,Bozaba,I,L
+bzp,Kemberano,I,L
+bzq,Buli (Indonesia),I,L
+bzr,Biri,I,E
+bzs,Brazilian Sign Language,I,L
+bzt,Brithenig,I,C
+bzu,Burmeso,I,L
+bzv,Naami,I,L
+bzw,Basa (Nigeria),I,L
+bzx,Kɛlɛngaxo Bozo,I,L
+bzy,Obanliku,I,L
+bzz,Evant,I,L
+caa,Chortí,I,L
+cab,Garifuna,I,L
+cac,Chuj,I,L
+cad,Caddo,I,L
+cae,Lehar,I,L
+caf,Southern Carrier,I,L
+cag,Nivaclé,I,L
+cah,Cahuarano,I,L
+caj,Chané,I,E
+cak,Kaqchikel,I,L
+cal,Carolinian,I,L
+cam,Cemuhî,I,L
+can,Chambri,I,L
+cao,Chácobo,I,L
+cap,Chipaya,I,L
+caq,Car Nicobarese,I,L
+car,Galibi Carib,I,L
+cas,Tsimané,I,L
+cat,Catalan,I,L
+cav,Cavineña,I,L
+caw,Callawalla,I,L
+cax,Chiquitano,I,L
+cay,Cayuga,I,L
+caz,Canichana,I,E
+cbb,Cabiyarí,I,L
+cbc,Carapana,I,L
+cbd,Carijona,I,L
+cbg,Chimila,I,L
+cbi,Chachi,I,L
+cbj,Ede Cabe,I,L
+cbk,Chavacano,I,L
+cbl,Bualkhaw Chin,I,L
+cbn,Nyahkur,I,L
+cbo,Izora,I,L
+cbq,Tsucuba,I,L
+cbr,Cashibo-Cacataibo,I,L
+cbs,Cashinahua,I,L
+cbt,Chayahuita,I,L
+cbu,Candoshi-Shapra,I,L
+cbv,Cacua,I,L
+cbw,Kinabalian,I,L
+cby,Carabayo,I,L
+ccc,Chamicuro,I,L
+ccd,Cafundo Creole,I,L
+cce,Chopi,I,L
+ccg,Samba Daka,I,L
+cch,Atsam,I,L
+ccj,Kasanga,I,L
+ccl,Cutchi-Swahili,I,L
+ccm,Malaccan Creole Malay,I,L
+cco,Comaltepec Chinantec,I,L
+ccp,Chakma,I,L
+ccr,Cacaopera,I,E
+cda,Choni,I,L
+cde,Chenchu,I,L
+cdf,Chiru,I,L
+cdh,Chambeali,I,L
+cdi,Chodri,I,L
+cdj,Churahi,I,L
+cdm,Chepang,I,L
+cdn,Chaudangsi,I,L
+cdo,Min Dong Chinese,I,L
+cdr,Cinda-Regi-Tiyal,I,L
+cds,Chadian Sign Language,I,L
+cdy,Chadong,I,L
+cdz,Koda,I,L
+cea,Lower Chehalis,I,E
+ceb,Cebuano,I,L
+ceg,Chamacoco,I,L
+cek,Eastern Khumi Chin,I,L
+cen,Cen,I,L
+ces,Czech,I,L
+cet,Centúúm,I,L
+cey,Ekai Chin,I,L
+cfa,Dijim-Bwilim,I,L
+cfd,Cara,I,L
+cfg,Como Karim,I,L
+cfm,Falam Chin,I,L
+cga,Changriwa,I,L
+cgc,Kagayanen,I,L
+cgg,Chiga,I,L
+cgk,Chocangacakha,I,L
+cha,Chamorro,I,L
+chb,Chibcha,I,E
+chc,Catawba,I,E
+chd,Highland Oaxaca Chontal,I,L
+che,Chechen,I,L
+chf,Tabasco Chontal,I,L
+chg,Chagatai,I,E
+chh,Chinook,I,E
+chj,Ojitlán Chinantec,I,L
+chk,Chuukese,I,L
+chl,Cahuilla,I,L
+chm,Mari (Russia),M,L
+chn,Chinook jargon,I,L
+cho,Choctaw,I,L
+chp,Chipewyan,I,L
+chq,Quiotepec Chinantec,I,L
+chr,Cherokee,I,L
+cht,Cholón,I,E
+chu,Church Slavic,I,A
+chv,Chuvash,I,L
+chw,Chuwabu,I,L
+chx,Chantyal,I,L
+chy,Cheyenne,I,L
+chz,Ozumacín Chinantec,I,L
+cia,Cia-Cia,I,L
+cib,Ci Gbe,I,L
+cic,Chickasaw,I,L
+cid,Chimariko,I,E
+cie,Cineni,I,L
+cih,Chinali,I,L
+cik,Chitkuli Kinnauri,I,L
+cim,Cimbrian,I,L
+cin,Cinta Larga,I,L
+cip,Chiapanec,I,L
+cir,Tiri,I,L
+ciw,Chippewa,I,L
+ciy,Chaima,I,L
+cja,Western Cham,I,L
+cje,Chru,I,L
+cjh,Upper Chehalis,I,E
+cji,Chamalal,I,L
+cjk,Chokwe,I,L
+cjm,Eastern Cham,I,L
+cjn,Chenapian,I,L
+cjo,Ashéninka Pajonal,I,L
+cjp,Cabécar,I,L
+cjs,Shor,I,L
+cjv,Chuave,I,L
+cjy,Jinyu Chinese,I,L
+ckb,Central Kurdish,I,L
+ckh,Chak,I,L
+ckl,Cibak,I,L
+ckm,Chakavian,I,L
+ckn,Kaang Chin,I,L
+cko,Anufo,I,L
+ckq,Kajakse,I,L
+ckr,Kairak,I,L
+cks,Tayo,I,L
+ckt,Chukot,I,L
+cku,Koasati,I,L
+ckv,Kavalan,I,L
+ckx,Caka,I,L
+cky,Cakfem-Mushere,I,L
+ckz,Cakchiquel-Quiché Mixed Language,I,L
+cla,Ron,I,L
+clc,Chilcotin,I,L
+cld,Chaldean Neo-Aramaic,I,L
+cle,Lealao Chinantec,I,L
+clh,Chilisso,I,L
+cli,Chakali,I,L
+clj,Laitu Chin,I,L
+clk,Idu-Mishmi,I,L
+cll,Chala,I,L
+clm,Clallam,I,L
+clo,Lowland Oaxaca Chontal,I,L
+clt,Lautu Chin,I,L
+clu,Caluyanun,I,L
+clw,Chulym,I,L
+cly,Eastern Highland Chatino,I,L
+cma,Maa,I,L
+cme,Cerma,I,L
+cmg,Classical Mongolian,I,H
+cmi,Emberá-Chamí,I,L
+cml,Campalagian,I,L
+cmm,Michigamea,I,E
+cmn,Mandarin Chinese,I,L
+cmo,Central Mnong,I,L
+cmr,Mro-Khimi Chin,I,L
+cms,Messapic,I,A
+cmt,Camtho,I,L
+cna,Changthang,I,L
+cnb,Chinbon Chin,I,L
+cnc,Côông,I,L
+cng,Northern Qiang,I,L
+cnh,Hakha Chin,I,L
+cni,Asháninka,I,L
+cnk,Khumi Chin,I,L
+cnl,Lalana Chinantec,I,L
+cno,Con,I,L
+cnp,Northern Ping Chinese,I,L
+cnq,Chung,I,L
+cnr,Montenegrin,I,L
+cns,Central Asmat,I,L
+cnt,Tepetotutla Chinantec,I,L
+cnu,Chenoua,I,L
+cnw,Ngawn Chin,I,L
+cnx,Middle Cornish,I,H
+coa,Cocos Islands Malay,I,L
+cob,Chicomuceltec,I,E
+coc,Cocopa,I,L
+cod,Cocama-Cocamilla,I,L
+coe,Koreguaje,I,L
+cof,Colorado,I,L
+cog,Chong,I,L
+coh,Chonyi-Dzihana-Kauma,I,L
+coj,Cochimi,I,E
+cok,Santa Teresa Cora,I,L
+col,Columbia-Wenatchi,I,L
+com,Comanche,I,L
+con,Cofán,I,L
+coo,Comox,I,L
+cop,Coptic,I,E
+coq,Coquille,I,E
+cor,Cornish,I,L
+cos,Corsican,I,L
+cot,Caquinte,I,L
+cou,Wamey,I,L
+cov,Cao Miao,I,L
+cow,Cowlitz,I,E
+cox,Nanti,I,L
+coz,Chochotec,I,L
+cpa,Palantla Chinantec,I,L
+cpb,Ucayali-Yurúa Ashéninka,I,L
+cpc,Ajyíninka Apurucayali,I,L
+cpg,Cappadocian Greek,I,E
+cpi,Chinese Pidgin English,I,L
+cpn,Cherepon,I,L
+cpo,Kpeego,I,L
+cps,Capiznon,I,L
+cpu,Pichis Ashéninka,I,L
+cpx,Pu-Xian Chinese,I,L
+cpy,South Ucayali Ashéninka,I,L
+cqd,Chuanqiandian Cluster Miao,I,L
+cra,Chara,I,L
+crb,Island Carib,I,E
+crc,Lonwolwol,I,L
+crd,Coeur d'Alene,I,L
+cre,Cree,M,L
+crf,Caramanta,I,E
+crg,Michif,I,L
+crh,Crimean Tatar,I,L
+cri,Sãotomense,I,L
+crj,Southern East Cree,I,L
+crk,Plains Cree,I,L
+crl,Northern East Cree,I,L
+crm,Moose Cree,I,L
+crn,El Nayar Cora,I,L
+cro,Crow,I,L
+crq,Iyo'wujwa Chorote,I,L
+crr,Carolina Algonquian,I,E
+crs,Seselwa Creole French,I,L
+crt,Iyojwa'ja Chorote,I,L
+crv,Chaura,I,L
+crw,Chrau,I,L
+crx,Carrier,I,L
+cry,Cori,I,L
+crz,Cruzeño,I,E
+csa,Chiltepec Chinantec,I,L
+csb,Kashubian,I,L
+csc,Catalan Sign Language,I,L
+csd,Chiangmai Sign Language,I,L
+cse,Czech Sign Language,I,L
+csf,Cuba Sign Language,I,L
+csg,Chilean Sign Language,I,L
+csh,Asho Chin,I,L
+csi,Coast Miwok,I,E
+csj,Songlai Chin,I,L
+csk,Jola-Kasa,I,L
+csl,Chinese Sign Language,I,L
+csm,Central Sierra Miwok,I,L
+csn,Colombian Sign Language,I,L
+cso,Sochiapam Chinantec,I,L
+csp,Southern Ping Chinese,I,L
+csq,Croatia Sign Language,I,L
+csr,Costa Rican Sign Language,I,L
+css,Southern Ohlone,I,E
+cst,Northern Ohlone,I,L
+csv,Sumtu Chin,I,L
+csw,Swampy Cree,I,L
+csx,Cambodian Sign Language,I,L
+csy,Siyin Chin,I,L
+csz,Coos,I,L
+cta,Tataltepec Chatino,I,L
+ctc,Chetco,I,E
+ctd,Tedim Chin,I,L
+cte,Tepinapa Chinantec,I,L
+ctg,Chittagonian,I,L
+cth,Thaiphum Chin,I,L
+ctl,Tlacoatzintepec Chinantec,I,L
+ctm,Chitimacha,I,E
+ctn,Chhintange,I,L
+cto,Emberá-Catío,I,L
+ctp,Western Highland Chatino,I,L
+cts,Northern Catanduanes Bikol,I,L
+ctt,Wayanad Chetti,I,L
+ctu,Chol,I,L
+cty,Moundadan Chetty,I,L
+ctz,Zacatepec Chatino,I,L
+cua,Cua,I,L
+cub,Cubeo,I,L
+cuc,Usila Chinantec,I,L
+cuh,Chuka,I,L
+cui,Cuiba,I,L
+cuj,Mashco Piro,I,L
+cuk,San Blas Kuna,I,L
+cul,Culina,I,L
+cuo,Cumanagoto,I,E
+cup,Cupeño,I,E
+cuq,Cun,I,L
+cur,Chhulung,I,L
+cut,Teutila Cuicatec,I,L
+cuu,Tai Ya,I,L
+cuv,Cuvok,I,L
+cuw,Chukwa,I,L
+cux,Tepeuxila Cuicatec,I,L
+cuy,Cuitlatec,I,L
+cvg,Chug,I,L
+cvn,Valle Nacional Chinantec,I,L
+cwa,Kabwa,I,L
+cwb,Maindo,I,L
+cwd,Woods Cree,I,L
+cwe,Kwere,I,L
+cwg,Chewong,I,L
+cwt,Kuwaataay,I,L
+cya,Nopala Chatino,I,L
+cyb,Cayubaba,I,E
+cym,Welsh,I,L
+cyo,Cuyonon,I,L
+czh,Huizhou Chinese,I,L
+czk,Knaanic,I,E
+czn,Zenzontepec Chatino,I,L
+czo,Min Zhong Chinese,I,L
+czt,Zotung Chin,I,L
+daa,Dangaléat,I,L
+dac,Dambi,I,L
+dad,Marik,I,L
+dae,Duupa,I,L
+dag,Dagbani,I,L
+dah,Gwahatike,I,L
+dai,Day,I,L
+daj,Dar Fur Daju,I,L
+dak,Dakota,I,L
+dal,Dahalo,I,L
+dam,Damakawa,I,L
+dan,Danish,I,L
+dao,Daai Chin,I,L
+daq,Dandami Maria,I,L
+dar,Dargwa,I,L
+das,Daho-Doo,I,L
+dau,Dar Sila Daju,I,L
+dav,Taita,I,L
+daw,Davawenyo,I,L
+dax,Dayi,I,L
+daz,Dao,I,L
+dba,Bangime,I,L
+dbb,Deno,I,L
+dbd,Dadiya,I,L
+dbe,Dabe,I,L
+dbf,Edopi,I,L
+dbg,Dogul Dom Dogon,I,L
+dbi,Doka,I,L
+dbj,Ida'an,I,L
+dbl,Dyirbal,I,L
+dbm,Duguri,I,L
+dbn,Duriankere,I,L
+dbo,Dulbu,I,L
+dbp,Duwai,I,L
+dbq,Daba,I,L
+dbr,Dabarre,I,L
+dbt,Ben Tey Dogon,I,L
+dbu,Bondum Dom Dogon,I,L
+dbv,Dungu,I,L
+dbw,Bankan Tey Dogon,I,L
+dby,Dibiyaso,I,L
+dcc,Deccan,I,L
+dcr,Negerhollands,I,E
+dda,Dadi Dadi,I,E
+ddd,Dongotono,I,L
+dde,Doondo,I,L
+ddg,Fataluku,I,L
+ddi,West Goodenough,I,L
+ddj,Jaru,I,L
+ddn,Dendi (Benin),I,L
+ddo,Dido,I,L
+ddr,Dhudhuroa,I,E
+dds,Donno So Dogon,I,L
+ddw,Dawera-Daweloor,I,L
+dec,Dagik,I,L
+ded,Dedua,I,L
+dee,Dewoin,I,L
+def,Dezfuli,I,L
+deg,Degema,I,L
+deh,Dehwari,I,L
+dei,Demisa,I,L
+dek,Dek,I,L
+del,Delaware,M,L
+dem,Dem,I,L
+den,Slave (Athapascan),M,L
+dep,Pidgin Delaware,I,E
+deq,Dendi (Central African Republic),I,L
+der,Deori,I,L
+des,Desano,I,L
+deu,German,I,L
+dev,Domung,I,L
+dez,Dengese,I,L
+dga,Southern Dagaare,I,L
+dgb,Bunoge Dogon,I,L
+dgc,Casiguran Dumagat Agta,I,L
+dgd,Dagaari Dioula,I,L
+dge,Degenan,I,L
+dgg,Doga,I,L
+dgh,Dghwede,I,L
+dgi,Northern Dagara,I,L
+dgk,Dagba,I,L
+dgl,Andaandi,I,L
+dgn,Dagoman,I,E
+dgo,Dogri (individual language),I,L
+dgr,Dogrib,I,L
+dgs,Dogoso,I,L
+dgt,Ndra'ngith,I,E
+dgw,Daungwurrung,I,E
+dgx,Doghoro,I,L
+dgz,Daga,I,L
+dhd,Dhundari,I,L
+dhg,Dhangu-Djangu,I,L
+dhi,Dhimal,I,L
+dhl,Dhalandji,I,L
+dhm,Zemba,I,L
+dhn,Dhanki,I,L
+dho,Dhodia,I,L
+dhr,Dhargari,I,L
+dhs,Dhaiso,I,L
+dhu,Dhurga,I,E
+dhv,Dehu,I,L
+dhw,Dhanwar (Nepal),I,L
+dhx,Dhungaloo,I,L
+dia,Dia,I,L
+dib,South Central Dinka,I,L
+dic,Lakota Dida,I,L
+did,Didinga,I,L
+dif,Dieri,I,E
+dig,Digo,I,L
+dih,Kumiai,I,L
+dii,Dimbong,I,L
+dij,Dai,I,L
+dik,Southwestern Dinka,I,L
+dil,Dilling,I,L
+dim,Dime,I,L
+din,Dinka,M,L
+dio,Dibo,I,L
+dip,Northeastern Dinka,I,L
+diq,Dimli (individual language),I,L
+dir,Dirim,I,L
+dis,Dimasa,I,L
+diu,Diriku,I,L
+div,Dhivehi,I,L
+diw,Northwestern Dinka,I,L
+dix,Dixon Reef,I,L
+diy,Diuwe,I,L
+diz,Ding,I,L
+dja,Djadjawurrung,I,E
+djb,Djinba,I,L
+djc,Dar Daju Daju,I,L
+djd,Djamindjung,I,L
+dje,Zarma,I,L
+djf,Djangun,I,E
+dji,Djinang,I,L
+djj,Djeebbana,I,L
+djk,Eastern Maroon Creole,I,L
+djm,Jamsay Dogon,I,L
+djn,Jawoyn,I,L
+djo,Jangkang,I,L
+djr,Djambarrpuyngu,I,L
+dju,Kapriman,I,L
+djw,Djawi,I,E
+dka,Dakpakha,I,L
+dkg,Kadung,I,L
+dkk,Dakka,I,L
+dkr,Kuijau,I,L
+dks,Southeastern Dinka,I,L
+dkx,Mazagway,I,L
+dlg,Dolgan,I,L
+dlk,Dahalik,I,L
+dlm,Dalmatian,I,E
+dln,Darlong,I,L
+dma,Duma,I,L
+dmb,Mombo Dogon,I,L
+dmc,Gavak,I,L
+dmd,Madhi Madhi,I,E
+dme,Dugwor,I,L
+dmf,Medefaidrin,I,E
+dmg,Upper Kinabatangan,I,L
+dmk,Domaaki,I,L
+dml,Dameli,I,L
+dmm,Dama,I,L
+dmo,Kemedzung,I,L
+dmr,East Damar,I,L
+dms,Dampelas,I,L
+dmu,Dubu,I,L
+dmv,Dumpas,I,L
+dmw,Mudburra,I,L
+dmx,Dema,I,L
+dmy,Demta,I,L
+dna,Upper Grand Valley Dani,I,L
+dnd,Daonda,I,L
+dne,Ndendeule,I,L
+dng,Dungan,I,L
+dni,Lower Grand Valley Dani,I,L
+dnj,Dan,I,L
+dnk,Dengka,I,L
+dnn,Dzùùngoo,I,L
+dno,Ndrulo,I,L
+dnr,Danaru,I,L
+dnt,Mid Grand Valley Dani,I,L
+dnu,Danau,I,L
+dnv,Danu,I,L
+dnw,Western Dani,I,L
+dny,Dení,I,L
+doa,Dom,I,L
+dob,Dobu,I,L
+doc,Northern Dong,I,L
+doe,Doe,I,L
+dof,Domu,I,L
+doh,Dong,I,L
+doi,Dogri (macrolanguage),M,L
+dok,Dondo,I,L
+dol,Doso,I,L
+don,Toura (Papua New Guinea),I,L
+doo,Dongo,I,L
+dop,Lukpa,I,L
+doq,Dominican Sign Language,I,L
+dor,Dori'o,I,L
+dos,Dogosé,I,L
+dot,Dass,I,L
+dov,Dombe,I,L
+dow,Doyayo,I,L
+dox,Bussa,I,L
+doy,Dompo,I,L
+doz,Dorze,I,L
+dpp,Papar,I,L
+drb,Dair,I,L
+drc,Minderico,I,L
+drd,Darmiya,I,L
+dre,Dolpo,I,L
+drg,Rungus,I,L
+dri,C'Lela,I,L
+drl,Paakantyi,I,L
+drn,West Damar,I,L
+dro,Daro-Matu Melanau,I,L
+drq,Dura,I,E
+drs,Gedeo,I,L
+drt,Drents,I,L
+dru,Rukai,I,L
+dry,Darai,I,L
+dsb,Lower Sorbian,I,L
+dse,Dutch Sign Language,I,L
+dsh,Daasanach,I,L
+dsi,Disa,I,L
+dsl,Danish Sign Language,I,L
+dsn,Dusner,I,E
+dso,Desiya,I,L
+dsq,Tadaksahak,I,L
+dsz,Mardin Sign Language,I,L
+dta,Daur,I,L
+dtb,Labuk-Kinabatangan Kadazan,I,L
+dtd,Ditidaht,I,L
+dth,Adithinngithigh,I,E
+dti,Ana Tinga Dogon,I,L
+dtk,Tene Kan Dogon,I,L
+dtm,Tomo Kan Dogon,I,L
+dtn,Daatsʼíin,I,L
+dto,Tommo So Dogon,I,L
+dtp,Kadazan Dusun,I,L
+dtr,Lotud,I,L
+dts,Toro So Dogon,I,L
+dtt,Toro Tegu Dogon,I,L
+dtu,Tebul Ure Dogon,I,L
+dty,Dotyali,I,L
+dua,Duala,I,L
+dub,Dubli,I,L
+duc,Duna,I,L
+due,Umiray Dumaget Agta,I,L
+duf,Dumbea,I,L
+dug,Duruma,I,L
+duh,Dungra Bhil,I,L
+dui,Dumun,I,L
+duk,Uyajitaya,I,L
+dul,Alabat Island Agta,I,L
+dum,Middle Dutch (ca. 1050-1350),I,H
+dun,Dusun Deyah,I,L
+duo,Dupaninan Agta,I,L
+dup,Duano,I,L
+duq,Dusun Malang,I,L
+dur,Dii,I,L
+dus,Dumi,I,L
+duu,Drung,I,L
+duv,Duvle,I,L
+duw,Dusun Witu,I,L
+dux,Duungooma,I,L
+duy,Dicamay Agta,I,E
+duz,Duli-Gey,I,E
+dva,Duau,I,L
+dwa,Diri,I,L
+dwk,Dawik Kui,I,L
+dwr,Dawro,I,L
+dws,Dutton World Speedwords,I,C
+dwu,Dhuwal,I,L
+dww,Dawawa,I,L
+dwy,Dhuwaya,I,L
+dwz,Dewas Rai,I,L
+dya,Dyan,I,L
+dyb,Dyaberdyaber,I,E
+dyd,Dyugun,I,E
+dyg,Villa Viciosa Agta,I,E
+dyi,Djimini Senoufo,I,L
+dym,Yanda Dom Dogon,I,L
+dyn,Dyangadi,I,L
+dyo,Jola-Fonyi,I,L
+dyu,Dyula,I,L
+dyy,Djabugay,I,L
+dza,Tunzu,I,L
+dze,Djiwarli,I,E
+dzg,Dazaga,I,L
+dzl,Dzalakha,I,L
+dzn,Dzando,I,L
+dzo,Dzongkha,I,L
+eaa,Karenggapa,I,E
+ebc,Beginci,I,L
+ebg,Ebughu,I,L
+ebk,Eastern Bontok,I,L
+ebo,Teke-Ebo,I,L
+ebr,Ebrié,I,L
+ebu,Embu,I,L
+ecr,Eteocretan,I,A
+ecs,Ecuadorian Sign Language,I,L
+ecy,Eteocypriot,I,A
+eee,E,I,L
+efa,Efai,I,L
+efe,Efe,I,L
+efi,Efik,I,L
+ega,Ega,I,L
+egl,Emilian,I,L
+egm,Benamanga,I,L
+ego,Eggon,I,L
+egy,Egyptian (Ancient),I,A
+ehs,Miyakubo Sign Language,I,L
+ehu,Ehueun,I,L
+eip,Eipomek,I,L
+eit,Eitiep,I,L
+eiv,Askopan,I,L
+eja,Ejamat,I,L
+eka,Ekajuk,I,L
+eke,Ekit,I,L
+ekg,Ekari,I,L
+eki,Eki,I,L
+ekk,Standard Estonian,I,L
+ekl,Kol (Bangladesh),I,L
+ekm,Elip,I,L
+eko,Koti,I,L
+ekp,Ekpeye,I,L
+ekr,Yace,I,L
+eky,Eastern Kayah,I,L
+ele,Elepi,I,L
+elh,El Hugeirat,I,L
+eli,Nding,I,E
+elk,Elkei,I,L
+ell,Modern Greek (1453-),I,L
+elm,Eleme,I,L
+elo,El Molo,I,L
+elu,Elu,I,L
+elx,Elamite,I,A
+ema,Emai-Iuleha-Ora,I,L
+emb,Embaloh,I,L
+eme,Emerillon,I,L
+emg,Eastern Meohang,I,L
+emi,Mussau-Emira,I,L
+emk,Eastern Maninkakan,I,L
+emm,Mamulique,I,E
+emn,Eman,I,L
+emp,Northern Emberá,I,L
+emq,Eastern Minyag,I,L
+ems,Pacific Gulf Yupik,I,L
+emu,Eastern Muria,I,L
+emw,Emplawas,I,L
+emx,Erromintxela,I,L
+emy,Epigraphic Mayan,I,A
+emz,Mbessa,I,L
+ena,Apali,I,L
+enb,Markweeta,I,L
+enc,En,I,L
+end,Ende,I,L
+enf,Forest Enets,I,L
+eng,English,I,L
+enh,Tundra Enets,I,L
+enl,Enlhet,I,L
+enm,Middle English (1100-1500),I,H
+enn,Engenni,I,L
+eno,Enggano,I,L
+enq,Enga,I,L
+enr,Emumu,I,L
+enu,Enu,I,L
+env,Enwan (Edo State),I,L
+enw,Enwan (Akwa Ibom State),I,L
+enx,Enxet,I,L
+eot,Beti (Côte d'Ivoire),I,L
+epi,Epie,I,L
+epo,Esperanto,I,C
+era,Eravallan,I,L
+erg,Sie,I,L
+erh,Eruwa,I,L
+eri,Ogea,I,L
+erk,South Efate,I,L
+ero,Horpa,I,L
+err,Erre,I,E
+ers,Ersu,I,L
+ert,Eritai,I,L
+erw,Erokwanas,I,L
+ese,Ese Ejja,I,L
+esg,Aheri Gondi,I,L
+esh,Eshtehardi,I,L
+esi,North Alaskan Inupiatun,I,L
+esk,Northwest Alaska Inupiatun,I,L
+esl,Egypt Sign Language,I,L
+esm,Esuma,I,E
+esn,Salvadoran Sign Language,I,L
+eso,Estonian Sign Language,I,L
+esq,Esselen,I,E
+ess,Central Siberian Yupik,I,L
+est,Estonian,M,L
+esu,Central Yupik,I,L
+esy,Eskayan,I,L
+etb,Etebi,I,L
+etc,Etchemin,I,E
+eth,Ethiopian Sign Language,I,L
+etn,Eton (Vanuatu),I,L
+eto,Eton (Cameroon),I,L
+etr,Edolo,I,L
+ets,Yekhee,I,L
+ett,Etruscan,I,A
+etu,Ejagham,I,L
+etx,Eten,I,L
+etz,Semimi,I,L
+eus,Basque,I,L
+eve,Even,I,L
+evh,Uvbie,I,L
+evn,Evenki,I,L
+ewe,Ewe,I,L
+ewo,Ewondo,I,L
+ext,Extremaduran,I,L
+eya,Eyak,I,E
+eyo,Keiyo,I,L
+eza,Ezaa,I,L
+eze,Uzekwe,I,L
+faa,Fasu,I,L
+fab,Fa d'Ambu,I,L
+fad,Wagi,I,L
+faf,Fagani,I,L
+fag,Finongan,I,L
+fah,Baissa Fali,I,L
+fai,Faiwol,I,L
+faj,Faita,I,L
+fak,Fang (Cameroon),I,L
+fal,South Fali,I,L
+fam,Fam,I,L
+fan,Fang (Equatorial Guinea),I,L
+fao,Faroese,I,L
+fap,Paloor,I,L
+far,Fataleka,I,L
+fas,Persian,M,L
+fat,Fanti,I,L
+fau,Fayu,I,L
+fax,Fala,I,L
+fay,Southwestern Fars,I,L
+faz,Northwestern Fars,I,L
+fbl,West Albay Bikol,I,L
+fcs,Quebec Sign Language,I,L
+fer,Feroge,I,L
+ffi,Foia Foia,I,L
+ffm,Maasina Fulfulde,I,L
+fgr,Fongoro,I,L
+fia,Nobiin,I,L
+fie,Fyer,I,L
+fif,Faifi,I,L
+fij,Fijian,I,L
+fil,Filipino,I,L
+fin,Finnish,I,L
+fip,Fipa,I,L
+fir,Firan,I,L
+fit,Tornedalen Finnish,I,L
+fiw,Fiwaga,I,L
+fkk,Kirya-Konzəl,I,L
+fkv,Kven Finnish,I,L
+fla,Kalispel-Pend d'Oreille,I,L
+flh,Foau,I,L
+fli,Fali,I,L
+fll,North Fali,I,L
+fln,Flinders Island,I,E
+flr,Fuliiru,I,L
+fly,Flaaitaal,I,L
+fmp,Fe'fe',I,L
+fmu,Far Western Muria,I,L
+fnb,Fanbak,I,L
+fng,Fanagalo,I,L
+fni,Fania,I,L
+fod,Foodo,I,L
+foi,Foi,I,L
+fom,Foma,I,L
+fon,Fon,I,L
+for,Fore,I,L
+fos,Siraya,I,E
+fpe,Fernando Po Creole English,I,L
+fqs,Fas,I,L
+fra,French,I,L
+frc,Cajun French,I,L
+frd,Fordata,I,L
+frk,Frankish,I,H
+frm,Middle French (ca. 1400-1600),I,H
+fro,Old French (842-ca. 1400),I,H
+frp,Arpitan,I,L
+frq,Forak,I,L
+frr,Northern Frisian,I,L
+frs,Eastern Frisian,I,L
+frt,Fortsenal,I,L
+fry,Western Frisian,I,L
+fse,Finnish Sign Language,I,L
+fsl,French Sign Language,I,L
+fss,Finland-Swedish Sign Language,I,L
+fub,Adamawa Fulfulde,I,L
+fuc,Pulaar,I,L
+fud,East Futuna,I,L
+fue,Borgu Fulfulde,I,L
+fuf,Pular,I,L
+fuh,Western Niger Fulfulde,I,L
+fui,Bagirmi Fulfulde,I,L
+fuj,Ko,I,L
+ful,Fulah,M,L
+fum,Fum,I,L
+fun,Fulniô,I,L
+fuq,Central-Eastern Niger Fulfulde,I,L
+fur,Friulian,I,L
+fut,Futuna-Aniwa,I,L
+fuu,Furu,I,L
+fuv,Nigerian Fulfulde,I,L
+fuy,Fuyug,I,L
+fvr,Fur,I,L
+fwa,Fwâi,I,L
+fwe,Fwe,I,L
+gaa,Ga,I,L
+gab,Gabri,I,L
+gac,Mixed Great Andamanese,I,L
+gad,Gaddang,I,L
+gae,Guarequena,I,L
+gaf,Gende,I,L
+gag,Gagauz,I,L
+gah,Alekano,I,L
+gai,Borei,I,L
+gaj,Gadsup,I,L
+gak,Gamkonora,I,L
+gal,Galolen,I,L
+gam,Kandawo,I,L
+gan,Gan Chinese,I,L
+gao,Gants,I,L
+gap,Gal,I,L
+gaq,Gata',I,L
+gar,Galeya,I,L
+gas,Adiwasi Garasia,I,L
+gat,Kenati,I,L
+gau,Mudhili Gadaba,I,L
+gaw,Nobonob,I,L
+gax,Borana-Arsi-Guji Oromo,I,L
+gay,Gayo,I,L
+gaz,West Central Oromo,I,L
+gba,Gbaya (Central African Republic),M,L
+gbb,Kaytetye,I,L
+gbd,Karajarri,I,L
+gbe,Niksek,I,L
+gbf,Gaikundi,I,L
+gbg,Gbanziri,I,L
+gbh,Defi Gbe,I,L
+gbi,Galela,I,L
+gbj,Bodo Gadaba,I,L
+gbk,Gaddi,I,L
+gbl,Gamit,I,L
+gbm,Garhwali,I,L
+gbn,Mo'da,I,L
+gbo,Northern Grebo,I,L
+gbp,Gbaya-Bossangoa,I,L
+gbq,Gbaya-Bozoum,I,L
+gbr,Gbagyi,I,L
+gbs,Gbesi Gbe,I,L
+gbu,Gagadu,I,L
+gbv,Gbanu,I,L
+gbw,Gabi-Gabi,I,L
+gbx,Eastern Xwla Gbe,I,L
+gby,Gbari,I,L
+gbz,Zoroastrian Dari,I,L
+gcc,Mali,I,L
+gcd,Ganggalida,I,E
+gce,Galice,I,E
+gcf,Guadeloupean Creole French,I,L
+gcl,Grenadian Creole English,I,L
+gcn,Gaina,I,L
+gcr,Guianese Creole French,I,L
+gct,Colonia Tovar German,I,L
+gda,Gade Lohar,I,L
+gdb,Pottangi Ollar Gadaba,I,L
+gdc,Gugu Badhun,I,E
+gdd,Gedaged,I,L
+gde,Gude,I,L
+gdf,Guduf-Gava,I,L
+gdg,Ga'dang,I,L
+gdh,Gadjerawang,I,L
+gdi,Gundi,I,L
+gdj,Gurdjar,I,L
+gdk,Gadang,I,L
+gdl,Dirasha,I,L
+gdm,Laal,I,L
+gdn,Umanakaina,I,L
+gdo,Ghodoberi,I,L
+gdq,Mehri,I,L
+gdr,Wipi,I,L
+gds,Ghandruk Sign Language,I,L
+gdt,Kungardutyi,I,E
+gdu,Gudu,I,L
+gdx,Godwari,I,L
+gea,Geruma,I,L
+geb,Kire,I,L
+gec,Gboloo Grebo,I,L
+ged,Gade,I,L
+gef,Gerai,I,L
+geg,Gengle,I,L
+geh,Hutterite German,I,L
+gei,Gebe,I,L
+gej,Gen,I,L
+gek,Ywom,I,L
+gel,ut-Ma'in,I,L
+geq,Geme,I,L
+ges,Geser-Gorom,I,L
+gev,Eviya,I,L
+gew,Gera,I,L
+gex,Garre,I,L
+gey,Enya,I,L
+gez,Geez,I,A
+gfk,Patpatar,I,L
+gft,Gafat,I,E
+gga,Gao,I,L
+ggb,Gbii,I,L
+ggd,Gugadj,I,E
+gge,Gurr-goni,I,L
+ggg,Gurgula,I,L
+ggk,Kungarakany,I,E
+ggl,Ganglau,I,L
+ggt,Gitua,I,L
+ggu,Gagu,I,L
+ggw,Gogodala,I,L
+gha,Ghadamès,I,L
+ghc,Hiberno-Scottish Gaelic,I,H
+ghe,Southern Ghale,I,L
+ghh,Northern Ghale,I,L
+ghk,Geko Karen,I,L
+ghl,Ghulfan,I,L
+ghn,Ghanongga,I,L
+gho,Ghomara,I,E
+ghr,Ghera,I,L
+ghs,Guhu-Samane,I,L
+ght,Kuke,I,L
+gia,Kija,I,L
+gib,Gibanawa,I,L
+gic,Gail,I,L
+gid,Gidar,I,L
+gie,Gaɓogbo,I,L
+gig,Goaria,I,L
+gih,Githabul,I,L
+gii,Girirra,I,L
+gil,Gilbertese,I,L
+gim,Gimi (Eastern Highlands),I,L
+gin,Hinukh,I,L
+gip,Gimi (West New Britain),I,L
+giq,Green Gelao,I,L
+gir,Red Gelao,I,L
+gis,North Giziga,I,L
+git,Gitxsan,I,L
+giu,Mulao,I,L
+giw,White Gelao,I,L
+gix,Gilima,I,L
+giy,Giyug,I,L
+giz,South Giziga,I,L
+gjk,Kachi Koli,I,L
+gjm,Gunditjmara,I,E
+gjn,Gonja,I,L
+gjr,Gurindji Kriol,I,L
+gju,Gujari,I,L
+gka,Guya,I,L
+gkd,Magɨ (Madang Province),I,L
+gke,Ndai,I,L
+gkn,Gokana,I,L
+gko,Kok-Nar,I,E
+gkp,Guinea Kpelle,I,L
+gku,ǂUngkue,I,E
+gla,Scottish Gaelic,I,L
+glb,Belning,I,L
+glc,Bon Gula,I,L
+gld,Nanai,I,L
+gle,Irish,I,L
+glg,Galician,I,L
+glh,Northwest Pashai,I,L
+glj,Gula Iro,I,L
+glk,Gilaki,I,L
+gll,Garlali,I,E
+glo,Galambu,I,L
+glr,Glaro-Twabo,I,L
+glu,Gula (Chad),I,L
+glv,Manx,I,L
+glw,Glavda,I,L
+gly,Gule,I,E
+gma,Gambera,I,E
+gmb,Gula'alaa,I,L
+gmd,Mághdì,I,L
+gmg,Magɨyi,I,L
+gmh,Middle High German (ca. 1050-1500),I,H
+gml,Middle Low German,I,H
+gmm,Gbaya-Mbodomo,I,L
+gmn,Gimnime,I,L
+gmr,Mirning,I,L
+gmu,Gumalu,I,L
+gmv,Gamo,I,L
+gmx,Magoma,I,L
+gmy,Mycenaean Greek,I,A
+gmz,Mgbolizhia,I,L
+gna,Kaansa,I,L
+gnb,Gangte,I,L
+gnc,Guanche,I,E
+gnd,Zulgo-Gemzek,I,L
+gne,Ganang,I,L
+gng,Ngangam,I,L
+gnh,Lere,I,L
+gni,Gooniyandi,I,L
+gnj,Ngen,I,L
+gnk,ǁGana,I,L
+gnl,Gangulu,I,E
+gnm,Ginuman,I,L
+gnn,Gumatj,I,L
+gno,Northern Gondi,I,L
+gnq,Gana,I,L
+gnr,Gureng Gureng,I,E
+gnt,Guntai,I,L
+gnu,Gnau,I,L
+gnw,Western Bolivian Guaraní,I,L
+gnz,Ganzi,I,L
+goa,Guro,I,L
+gob,Playero,I,L
+goc,Gorakor,I,L
+god,Godié,I,L
+goe,Gongduk,I,L
+gof,Gofa,I,L
+gog,Gogo,I,L
+goh,Old High German (ca. 750-1050),I,H
+goi,Gobasi,I,L
+goj,Gowlan,I,L
+gok,Gowli,I,L
+gol,Gola,I,L
+gom,Goan Konkani,I,L
+gon,Gondi,M,L
+goo,Gone Dau,I,L
+gop,Yeretuar,I,L
+goq,Gorap,I,L
+gor,Gorontalo,I,L
+gos,Gronings,I,L
+got,Gothic,I,A
+gou,Gavar,I,L
+gov,Goo,I,L
+gow,Gorowa,I,L
+gox,Gobu,I,L
+goy,Goundo,I,L
+goz,Gozarkhani,I,L
+gpa,Gupa-Abawa,I,L
+gpe,Ghanaian Pidgin English,I,L
+gpn,Taiap,I,L
+gqa,Ga'anda,I,L
+gqi,Guiqiong,I,L
+gqn,Guana (Brazil),I,E
+gqr,Gor,I,L
+gqu,Qau,I,L
+gra,Rajput Garasia,I,L
+grb,Grebo,M,L
+grc,Ancient Greek (to 1453),I,H
+grd,Guruntum-Mbaaru,I,L
+grg,Madi,I,L
+grh,Gbiri-Niragu,I,L
+gri,Ghari,I,L
+grj,Southern Grebo,I,L
+grm,Kota Marudu Talantang,I,L
+grn,Guarani,M,L
+gro,Groma,I,L
+grq,Gorovu,I,L
+grr,Taznatit,I,L
+grs,Gresi,I,L
+grt,Garo,I,L
+gru,Kistane,I,L
+grv,Central Grebo,I,L
+grw,Gweda,I,L
+grx,Guriaso,I,L
+gry,Barclayville Grebo,I,L
+grz,Guramalum,I,L
+gse,Ghanaian Sign Language,I,L
+gsg,German Sign Language,I,L
+gsl,Gusilay,I,L
+gsm,Guatemalan Sign Language,I,L
+gsn,Nema,I,L
+gso,Southwest Gbaya,I,L
+gsp,Wasembo,I,L
+gss,Greek Sign Language,I,L
+gsw,Swiss German,I,L
+gta,Guató,I,L
+gtu,Aghu-Tharnggala,I,E
+gua,Shiki,I,L
+gub,Guajajára,I,L
+guc,Wayuu,I,L
+gud,Yocoboué Dida,I,L
+gue,Gurindji,I,L
+guf,Gupapuyngu,I,L
+gug,Paraguayan Guaraní,I,L
+guh,Guahibo,I,L
+gui,Eastern Bolivian Guaraní,I,L
+guj,Gujarati,I,L
+guk,Gumuz,I,L
+gul,Sea Island Creole English,I,L
+gum,Guambiano,I,L
+gun,Mbyá Guaraní,I,L
+guo,Guayabero,I,L
+gup,Gunwinggu,I,L
+guq,Aché,I,L
+gur,Farefare,I,L
+gus,Guinean Sign Language,I,L
+gut,Maléku Jaíka,I,L
+guu,Yanomamö,I,L
+guw,Gun,I,L
+gux,Gourmanchéma,I,L
+guz,Gusii,I,L
+gva,Guana (Paraguay),I,L
+gvc,Guanano,I,L
+gve,Duwet,I,L
+gvf,Golin,I,L
+gvj,Guajá,I,L
+gvl,Gulay,I,L
+gvm,Gurmana,I,L
+gvn,Kuku-Yalanji,I,L
+gvo,Gavião Do Jiparaná,I,L
+gvp,Pará Gavião,I,L
+gvr,Gurung,I,L
+gvs,Gumawana,I,L
+gvy,Guyani,I,E
+gwa,Mbato,I,L
+gwb,Gwa,I,L
+gwc,Gawri,I,L
+gwd,Gawwada,I,L
+gwe,Gweno,I,L
+gwf,Gowro,I,L
+gwg,Moo,I,L
+gwi,Gwichʼin,I,L
+gwj,ǀGwi,I,L
+gwm,Awngthim,I,E
+gwn,Gwandara,I,L
+gwr,Gwere,I,L
+gwt,Gawar-Bati,I,L
+gwu,Guwamu,I,E
+gww,Kwini,I,L
+gwx,Gua,I,L
+gxx,Wè Southern,I,L
+gya,Northwest Gbaya,I,L
+gyb,Garus,I,L
+gyd,Kayardild,I,L
+gye,Gyem,I,L
+gyf,Gungabula,I,E
+gyg,Gbayi,I,L
+gyi,Gyele,I,L
+gyl,Gayil,I,L
+gym,Ngäbere,I,L
+gyn,Guyanese Creole English,I,L
+gyo,Gyalsumdo,I,L
+gyr,Guarayu,I,L
+gyy,Gunya,I,E
+gyz,Geji,I,L
+gza,Ganza,I,L
+gzi,Gazi,I,L
+gzn,Gane,I,L
+haa,Han,I,L
+hab,Hanoi Sign Language,I,L
+hac,Gurani,I,L
+had,Hatam,I,L
+hae,Eastern Oromo,I,L
+haf,Haiphong Sign Language,I,L
+hag,Hanga,I,L
+hah,Hahon,I,L
+hai,Haida,M,L
+haj,Hajong,I,L
+hak,Hakka Chinese,I,L
+hal,Halang,I,L
+ham,Hewa,I,L
+han,Hangaza,I,L
+hao,Hakö,I,L
+hap,Hupla,I,L
+haq,Ha,I,L
+har,Harari,I,L
+has,Haisla,I,L
+hat,Haitian,I,L
+hau,Hausa,I,L
+hav,Havu,I,L
+haw,Hawaiian,I,L
+hax,Southern Haida,I,L
+hay,Haya,I,L
+haz,Hazaragi,I,L
+hba,Hamba,I,L
+hbb,Huba,I,L
+hbn,Heiban,I,L
+hbo,Ancient Hebrew,I,H
+hbs,Serbo-Croatian,M,L
+hbu,Habu,I,L
+hca,Andaman Creole Hindi,I,L
+hch,Huichol,I,L
+hdn,Northern Haida,I,L
+hds,Honduras Sign Language,I,L
+hdy,Hadiyya,I,L
+hea,Northern Qiandong Miao,I,L
+heb,Hebrew,I,L
+hed,Herdé,I,L
+heg,Helong,I,L
+heh,Hehe,I,L
+hei,Heiltsuk,I,L
+hem,Hemba,I,L
+her,Herero,I,L
+hgm,Haiǁom,I,L
+hgw,Haigwai,I,L
+hhi,Hoia Hoia,I,L
+hhr,Kerak,I,L
+hhy,Hoyahoya,I,L
+hia,Lamang,I,L
+hib,Hibito,I,E
+hid,Hidatsa,I,L
+hif,Fiji Hindi,I,L
+hig,Kamwe,I,L
+hih,Pamosu,I,L
+hii,Hinduri,I,L
+hij,Hijuk,I,L
+hik,Seit-Kaitetu,I,L
+hil,Hiligaynon,I,L
+hin,Hindi,I,L
+hio,Tsoa,I,L
+hir,Himarimã,I,L
+hit,Hittite,I,A
+hiw,Hiw,I,L
+hix,Hixkaryána,I,L
+hji,Haji,I,L
+hka,Kahe,I,L
+hke,Hunde,I,L
+hkh,Khah,I,L
+hkk,Hunjara-Kaina Ke,I,L
+hkn,Mel-Khaonh,I,L
+hks,Hong Kong Sign Language,I,L
+hla,Halia,I,L
+hlb,Halbi,I,L
+hld,Halang Doan,I,L
+hle,Hlersu,I,L
+hlt,Matu Chin,I,L
+hlu,Hieroglyphic Luwian,I,A
+hma,Southern Mashan Hmong,I,L
+hmb,Humburi Senni Songhay,I,L
+hmc,Central Huishui Hmong,I,L
+hmd,Large Flowery Miao,I,L
+hme,Eastern Huishui Hmong,I,L
+hmf,Hmong Don,I,L
+hmg,Southwestern Guiyang Hmong,I,L
+hmh,Southwestern Huishui Hmong,I,L
+hmi,Northern Huishui Hmong,I,L
+hmj,Ge,I,L
+hmk,Maek,I,A
+hml,Luopohe Hmong,I,L
+hmm,Central Mashan Hmong,I,L
+hmn,Hmong,M,L
+hmo,Hiri Motu,I,L
+hmp,Northern Mashan Hmong,I,L
+hmq,Eastern Qiandong Miao,I,L
+hmr,Hmar,I,L
+hms,Southern Qiandong Miao,I,L
+hmt,Hamtai,I,L
+hmu,Hamap,I,L
+hmv,Hmong Dô,I,L
+hmw,Western Mashan Hmong,I,L
+hmy,Southern Guiyang Hmong,I,L
+hmz,Hmong Shua,I,L
+hna,Mina (Cameroon),I,L
+hnd,Southern Hindko,I,L
+hne,Chhattisgarhi,I,L
+hng,Hungu,I,L
+hnh,ǁAni,I,L
+hni,Hani,I,L
+hnj,Hmong Njua,I,L
+hnn,Hanunoo,I,L
+hno,Northern Hindko,I,L
+hns,Caribbean Hindustani,I,L
+hnu,Hung,I,L
+hoa,Hoava,I,L
+hob,Mari (Madang Province),I,L
+hoc,Ho,I,L
+hod,Holma,I,E
+hoe,Horom,I,L
+hoh,Hobyót,I,L
+hoi,Holikachuk,I,L
+hoj,Hadothi,I,L
+hol,Holu,I,L
+hom,Homa,I,E
+hoo,Holoholo,I,L
+hop,Hopi,I,L
+hor,Horo,I,E
+hos,Ho Chi Minh City Sign Language,I,L
+hot,Hote,I,L
+hov,Hovongan,I,L
+how,Honi,I,L
+hoy,Holiya,I,L
+hoz,Hozo,I,L
+hpo,Hpon,I,E
+hps,Hawai'i Sign Language (HSL),I,L
+hra,Hrangkhol,I,L
+hrc,Niwer Mil,I,L
+hre,Hre,I,L
+hrk,Haruku,I,L
+hrm,Horned Miao,I,L
+hro,Haroi,I,L
+hrp,Nhirrpi,I,E
+hrt,Hértevin,I,L
+hru,Hruso,I,L
+hrv,Croatian,I,L
+hrw,Warwar Feni,I,L
+hrx,Hunsrik,I,L
+hrz,Harzani,I,L
+hsb,Upper Sorbian,I,L
+hsh,Hungarian Sign Language,I,L
+hsl,Hausa Sign Language,I,L
+hsn,Xiang Chinese,I,L
+hss,Harsusi,I,L
+hti,Hoti,I,E
+hto,Minica Huitoto,I,L
+hts,Hadza,I,L
+htu,Hitu,I,L
+htx,Middle Hittite,I,A
+hub,Huambisa,I,L
+huc,ǂHua,I,L
+hud,Huaulu,I,L
+hue,San Francisco Del Mar Huave,I,L
+huf,Humene,I,L
+hug,Huachipaeri,I,L
+huh,Huilliche,I,L
+hui,Huli,I,L
+huj,Northern Guiyang Hmong,I,L
+huk,Hulung,I,E
+hul,Hula,I,L
+hum,Hungana,I,L
+hun,Hungarian,I,L
+huo,Hu,I,L
+hup,Hupa,I,L
+huq,Tsat,I,L
+hur,Halkomelem,I,L
+hus,Huastec,I,L
+hut,Humla,I,L
+huu,Murui Huitoto,I,L
+huv,San Mateo Del Mar Huave,I,L
+huw,Hukumina,I,E
+hux,Nüpode Huitoto,I,L
+huy,Hulaulá,I,L
+huz,Hunzib,I,L
+hvc,Haitian Vodoun Culture Language,I,L
+hve,San Dionisio Del Mar Huave,I,L
+hvk,Haveke,I,L
+hvn,Sabu,I,L
+hvv,Santa María Del Mar Huave,I,L
+hwa,Wané,I,L
+hwc,Hawai'i Creole English,I,L
+hwo,Hwana,I,L
+hya,Hya,I,L
+hye,Armenian,I,L
+hyw,Western Armenian,I,L
+iai,Iaai,I,L
+ian,Iatmul,I,L
+iar,Purari,I,L
+iba,Iban,I,L
+ibb,Ibibio,I,L
+ibd,Iwaidja,I,L
+ibe,Akpes,I,L
+ibg,Ibanag,I,L
+ibh,Bih,I,L
+ibl,Ibaloi,I,L
+ibm,Agoi,I,L
+ibn,Ibino,I,L
+ibo,Igbo,I,L
+ibr,Ibuoro,I,L
+ibu,Ibu,I,L
+iby,Ibani,I,L
+ica,Ede Ica,I,L
+ich,Etkywan,I,L
+icl,Icelandic Sign Language,I,L
+icr,Islander Creole English,I,L
+ida,Idakho-Isukha-Tiriki,I,L
+idb,Indo-Portuguese,I,L
+idc,Idon,I,L
+idd,Ede Idaca,I,L
+ide,Idere,I,L
+idi,Idi,I,L
+ido,Ido,I,C
+idr,Indri,I,L
+ids,Idesa,I,L
+idt,Idaté,I,L
+idu,Idoma,I,L
+ifa,Amganad Ifugao,I,L
+ifb,Batad Ifugao,I,L
+ife,Ifè,I,L
+iff,Ifo,I,E
+ifk,Tuwali Ifugao,I,L
+ifm,Teke-Fuumu,I,L
+ifu,Mayoyao Ifugao,I,L
+ify,Keley-I Kallahan,I,L
+igb,Ebira,I,L
+ige,Igede,I,L
+igg,Igana,I,L
+igl,Igala,I,L
+igm,Kanggape,I,L
+ign,Ignaciano,I,L
+igo,Isebe,I,L
+igs,Interglossa,I,C
+igw,Igwe,I,L
+ihb,Iha Based Pidgin,I,L
+ihi,Ihievbe,I,L
+ihp,Iha,I,L
+ihw,Bidhawal,I,E
+iii,Sichuan Yi,I,L
+iin,Thiin,I,E
+ijc,Izon,I,L
+ije,Biseni,I,L
+ijj,Ede Ije,I,L
+ijn,Kalabari,I,L
+ijs,Southeast Ijo,I,L
+ike,Eastern Canadian Inuktitut,I,L
+iki,Iko,I,L
+ikk,Ika,I,L
+ikl,Ikulu,I,L
+iko,Olulumo-Ikom,I,L
+ikp,Ikpeshi,I,L
+ikr,Ikaranggal,I,E
+iks,Inuit Sign Language,I,L
+ikt,Inuinnaqtun,I,L
+iku,Inuktitut,M,L
+ikv,Iku-Gora-Ankwa,I,L
+ikw,Ikwere,I,L
+ikx,Ik,I,L
+ikz,Ikizu,I,L
+ila,Ile Ape,I,L
+ilb,Ila,I,L
+ile,Interlingue,I,C
+ilg,Garig-Ilgar,I,E
+ili,Ili Turki,I,L
+ilk,Ilongot,I,L
+ilm,Iranun (Malaysia),I,L
+ilo,Iloko,I,L
+ilp,Iranun (Philippines),I,L
+ils,International Sign,I,L
+ilu,Ili'uun,I,L
+ilv,Ilue,I,L
+ima,Mala Malasar,I,L
+imi,Anamgura,I,L
+iml,Miluk,I,E
+imn,Imonda,I,L
+imo,Imbongu,I,L
+imr,Imroing,I,L
+ims,Marsian,I,A
+imt,Imotong,I,L
+imy,Milyan,I,A
+ina,Interlingua (International Auxiliary Language Association),I,C
+inb,Inga,I,L
+ind,Indonesian,I,L
+ing,Degexit'an,I,L
+inh,Ingush,I,L
+inj,Jungle Inga,I,L
+inl,Indonesian Sign Language,I,L
+inm,Minaean,I,A
+inn,Isinai,I,L
+ino,Inoke-Yate,I,L
+inp,Iñapari,I,L
+ins,Indian Sign Language,I,L
+int,Intha,I,L
+inz,Ineseño,I,E
+ior,Inor,I,L
+iou,Tuma-Irumu,I,L
+iow,Iowa-Oto,I,E
+ipi,Ipili,I,L
+ipk,Inupiaq,M,L
+ipo,Ipiko,I,L
+iqu,Iquito,I,L
+iqw,Ikwo,I,L
+ire,Iresim,I,L
+irh,Irarutu,I,L
+iri,Rigwe,I,L
+irk,Iraqw,I,L
+irn,Irántxe,I,L
+irr,Ir,I,L
+iru,Irula,I,L
+irx,Kamberau,I,L
+iry,Iraya,I,L
+isa,Isabi,I,L
+isc,Isconahua,I,L
+isd,Isnag,I,L
+ise,Italian Sign Language,I,L
+isg,Irish Sign Language,I,L
+ish,Esan,I,L
+isi,Nkem-Nkum,I,L
+isk,Ishkashimi,I,L
+isl,Icelandic,I,L
+ism,Masimasi,I,L
+isn,Isanzu,I,L
+iso,Isoko,I,L
+isr,Israeli Sign Language,I,L
+ist,Istriot,I,L
+isu,Isu (Menchum Division),I,L
+ita,Italian,I,L
+itb,Binongan Itneg,I,L
+itd,Southern Tidung,I,L
+ite,Itene,I,E
+iti,Inlaod Itneg,I,L
+itk,Judeo-Italian,I,L
+itl,Itelmen,I,L
+itm,Itu Mbon Uzo,I,L
+ito,Itonama,I,L
+itr,Iteri,I,L
+its,Isekiri,I,L
+itt,Maeng Itneg,I,L
+itv,Itawit,I,L
+itw,Ito,I,L
+itx,Itik,I,L
+ity,Moyadan Itneg,I,L
+itz,Itzá,I,L
+ium,Iu Mien,I,L
+ivb,Ibatan,I,L
+ivv,Ivatan,I,L
+iwk,I-Wak,I,L
+iwm,Iwam,I,L
+iwo,Iwur,I,L
+iws,Sepik Iwam,I,L
+ixc,Ixcatec,I,L
+ixl,Ixil,I,L
+iya,Iyayu,I,L
+iyo,Mesaka,I,L
+iyx,Yaka (Congo),I,L
+izh,Ingrian,I,L
+izr,Izere,I,L
+izz,Izii,I,L
+jaa,Jamamadí,I,L
+jab,Hyam,I,L
+jac,Popti',I,L
+jad,Jahanka,I,L
+jae,Yabem,I,L
+jaf,Jara,I,L
+jah,Jah Hut,I,L
+jaj,Zazao,I,L
+jak,Jakun,I,L
+jal,Yalahatan,I,L
+jam,Jamaican Creole English,I,L
+jan,Jandai,I,E
+jao,Yanyuwa,I,L
+jaq,Yaqay,I,L
+jas,New Caledonian Javanese,I,L
+jat,Jakati,I,L
+jau,Yaur,I,L
+jav,Javanese,I,L
+jax,Jambi Malay,I,L
+jay,Yan-nhangu,I,L
+jaz,Jawe,I,L
+jbe,Judeo-Berber,I,L
+jbi,Badjiri,I,E
+jbj,Arandai,I,L
+jbk,Barikewa,I,L
+jbm,Bijim,I,L
+jbn,Nafusi,I,L
+jbo,Lojban,I,C
+jbr,Jofotek-Bromnya,I,L
+jbt,Jabutí,I,L
+jbu,Jukun Takum,I,L
+jbw,Yawijibaya,I,E
+jcs,Jamaican Country Sign Language,I,L
+jct,Krymchak,I,L
+jda,Jad,I,L
+jdg,Jadgali,I,L
+jdt,Judeo-Tat,I,L
+jeb,Jebero,I,L
+jee,Jerung,I,L
+jeh,Jeh,I,L
+jei,Yei,I,L
+jek,Jeri Kuo,I,L
+jel,Yelmek,I,L
+jen,Dza,I,L
+jer,Jere,I,L
+jet,Manem,I,L
+jeu,Jonkor Bourmataguil,I,L
+jgb,Ngbee,I,E
+jge,Judeo-Georgian,I,L
+jgk,Gwak,I,L
+jgo,Ngomba,I,L
+jhi,Jehai,I,L
+jhs,Jhankot Sign Language,I,L
+jia,Jina,I,L
+jib,Jibu,I,L
+jic,Tol,I,L
+jid,Bu (Kaduna State),I,L
+jie,Jilbe,I,L
+jig,Jingulu,I,L
+jih,sTodsde,I,L
+jii,Jiiddu,I,L
+jil,Jilim,I,L
+jim,Jimi (Cameroon),I,L
+jio,Jiamao,I,L
+jiq,Guanyinqiao,I,L
+jit,Jita,I,L
+jiu,Youle Jinuo,I,L
+jiv,Shuar,I,L
+jiy,Buyuan Jinuo,I,L
+jje,Jejueo,I,L
+jjr,Bankal,I,L
+jka,Kaera,I,L
+jkm,Mobwa Karen,I,L
+jko,Kubo,I,L
+jkp,Paku Karen,I,L
+jkr,Koro (India),I,L
+jks,Amami Koniya Sign Language,I,L
+jku,Labir,I,L
+jle,Ngile,I,L
+jls,Jamaican Sign Language,I,L
+jma,Dima,I,L
+jmb,Zumbun,I,L
+jmc,Machame,I,L
+jmd,Yamdena,I,L
+jmi,Jimi (Nigeria),I,L
+jml,Jumli,I,L
+jmn,Makuri Naga,I,L
+jmr,Kamara,I,L
+jms,Mashi (Nigeria),I,L
+jmw,Mouwase,I,L
+jmx,Western Juxtlahuaca Mixtec,I,L
+jna,Jangshung,I,L
+jnd,Jandavra,I,L
+jng,Yangman,I,E
+jni,Janji,I,L
+jnj,Yemsa,I,L
+jnl,Rawat,I,L
+jns,Jaunsari,I,L
+job,Joba,I,L
+jod,Wojenaka,I,L
+jog,Jogi,I,L
+jor,Jorá,I,E
+jos,Jordanian Sign Language,I,L
+jow,Jowulu,I,L
+jpa,Jewish Palestinian Aramaic,I,H
+jpn,Japanese,I,L
+jpr,Judeo-Persian,I,L
+jqr,Jaqaru,I,L
+jra,Jarai,I,L
+jrb,Judeo-Arabic,M,L
+jrr,Jiru,I,L
+jrt,Jakattoe,I,L
+jru,Japrería,I,L
+jsl,Japanese Sign Language,I,L
+jua,Júma,I,L
+jub,Wannu,I,L
+juc,Jurchen,I,E
+jud,Worodougou,I,L
+juh,Hõne,I,L
+jui,Ngadjuri,I,E
+juk,Wapan,I,L
+jul,Jirel,I,L
+jum,Jumjum,I,L
+jun,Juang,I,L
+juo,Jiba,I,L
+jup,Hupdë,I,L
+jur,Jurúna,I,L
+jus,Jumla Sign Language,I,L
+jut,Jutish,I,H
+juu,Ju,I,L
+juw,Wãpha,I,L
+juy,Juray,I,L
+jvd,Javindo,I,L
+jvn,Caribbean Javanese,I,L
+jwi,Jwira-Pepesa,I,L
+jya,Jiarong,I,L
+jye,Judeo-Yemeni Arabic,I,L
+jyy,Jaya,I,L
+kaa,Kara-Kalpak,I,L
+kab,Kabyle,I,L
+kac,Kachin,I,L
+kad,Adara,I,L
+kae,Ketangalan,I,E
+kaf,Katso,I,L
+kag,Kajaman,I,L
+kah,Kara (Central African Republic),I,L
+kai,Karekare,I,L
+kaj,Jju,I,L
+kak,Kalanguya,I,L
+kal,Kalaallisut,I,L
+kam,Kamba (Kenya),I,L
+kan,Kannada,I,L
+kao,Xaasongaxango,I,L
+kap,Bezhta,I,L
+kaq,Capanahua,I,L
+kas,Kashmiri,I,L
+kat,Georgian,I,L
+kau,Kanuri,M,L
+kav,Katukína,I,L
+kaw,Kawi,I,A
+kax,Kao,I,L
+kay,Kamayurá,I,L
+kaz,Kazakh,I,L
+kba,Kalarko,I,E
+kbb,Kaxuiâna,I,E
+kbc,Kadiwéu,I,L
+kbd,Kabardian,I,L
+kbe,Kanju,I,L
+kbg,Khamba,I,L
+kbh,Camsá,I,L
+kbi,Kaptiau,I,L
+kbj,Kari,I,L
+kbk,Grass Koiari,I,L
+kbl,Kanembu,I,L
+kbm,Iwal,I,L
+kbn,Kare (Central African Republic),I,L
+kbo,Keliko,I,L
+kbp,Kabiyè,I,L
+kbq,Kamano,I,L
+kbr,Kafa,I,L
+kbs,Kande,I,L
+kbt,Abadi,I,L
+kbu,Kabutra,I,L
+kbv,Dera (Indonesia),I,L
+kbw,Kaiep,I,L
+kbx,Ap Ma,I,L
+kby,Manga Kanuri,I,L
+kbz,Duhwa,I,L
+kca,Khanty,I,L
+kcb,Kawacha,I,L
+kcc,Lubila,I,L
+kcd,Ngkâlmpw Kanum,I,L
+kce,Kaivi,I,L
+kcf,Ukaan,I,L
+kcg,Tyap,I,L
+kch,Vono,I,L
+kci,Kamantan,I,L
+kcj,Kobiana,I,L
+kck,Kalanga,I,L
+kcl,Kela (Papua New Guinea),I,L
+kcm,Gula (Central African Republic),I,L
+kcn,Nubi,I,L
+kco,Kinalakna,I,L
+kcp,Kanga,I,L
+kcq,Kamo,I,L
+kcr,Katla,I,L
+kcs,Koenoem,I,L
+kct,Kaian,I,L
+kcu,Kami (Tanzania),I,L
+kcv,Kete,I,L
+kcw,Kabwari,I,L
+kcx,Kachama-Ganjule,I,L
+kcy,Korandje,I,L
+kcz,Konongo,I,L
+kda,Worimi,I,E
+kdc,Kutu,I,L
+kdd,Yankunytjatjara,I,L
+kde,Makonde,I,L
+kdf,Mamusi,I,L
+kdg,Seba,I,L
+kdh,Tem,I,L
+kdi,Kumam,I,L
+kdj,Karamojong,I,L
+kdk,Numèè,I,L
+kdl,Tsikimba,I,L
+kdm,Kagoma,I,L
+kdn,Kunda,I,L
+kdp,Kaningdon-Nindem,I,L
+kdq,Koch,I,L
+kdr,Karaim,I,L
+kdt,Kuy,I,L
+kdu,Kadaru,I,L
+kdw,Koneraw,I,L
+kdx,Kam,I,L
+kdy,Keder,I,L
+kdz,Kwaja,I,L
+kea,Kabuverdianu,I,L
+keb,Kélé,I,L
+kec,Keiga,I,L
+ked,Kerewe,I,L
+kee,Eastern Keres,I,L
+kef,Kpessi,I,L
+keg,Tese,I,L
+keh,Keak,I,L
+kei,Kei,I,L
+kej,Kadar,I,L
+kek,Kekchí,I,L
+kel,Kela (Democratic Republic of Congo),I,L
+kem,Kemak,I,L
+ken,Kenyang,I,L
+keo,Kakwa,I,L
+kep,Kaikadi,I,L
+keq,Kamar,I,L
+ker,Kera,I,L
+kes,Kugbo,I,L
+ket,Ket,I,L
+keu,Akebu,I,L
+kev,Kanikkaran,I,L
+kew,West Kewa,I,L
+kex,Kukna,I,L
+key,Kupia,I,L
+kez,Kukele,I,L
+kfa,Kodava,I,L
+kfb,Northwestern Kolami,I,L
+kfc,Konda-Dora,I,L
+kfd,Korra Koraga,I,L
+kfe,Kota (India),I,L
+kff,Koya,I,L
+kfg,Kudiya,I,L
+kfh,Kurichiya,I,L
+kfi,Kannada Kurumba,I,L
+kfj,Kemiehua,I,L
+kfk,Kinnauri,I,L
+kfl,Kung,I,L
+kfm,Khunsari,I,L
+kfn,Kuk,I,L
+kfo,Koro (Côte d'Ivoire),I,L
+kfp,Korwa,I,L
+kfq,Korku,I,L
+kfr,Kachhi,I,L
+kfs,Bilaspuri,I,L
+kft,Kanjari,I,L
+kfu,Katkari,I,L
+kfv,Kurmukar,I,L
+kfw,Kharam Naga,I,L
+kfx,Kullu Pahari,I,L
+kfy,Kumaoni,I,L
+kfz,Koromfé,I,L
+kga,Koyaga,I,L
+kgb,Kawe,I,L
+kge,Komering,I,L
+kgf,Kube,I,L
+kgg,Kusunda,I,L
+kgi,Selangor Sign Language,I,L
+kgj,Gamale Kham,I,L
+kgk,Kaiwá,I,L
+kgl,Kunggari,I,E
+kgm,Karipúna,I,E
+kgn,Karingani,I,L
+kgo,Krongo,I,L
+kgp,Kaingang,I,L
+kgq,Kamoro,I,L
+kgr,Abun,I,L
+kgs,Kumbainggar,I,L
+kgt,Somyev,I,L
+kgu,Kobol,I,L
+kgv,Karas,I,L
+kgw,Karon Dori,I,L
+kgx,Kamaru,I,L
+kgy,Kyerung,I,L
+kha,Khasi,I,L
+khb,Lü,I,L
+khc,Tukang Besi North,I,L
+khd,Bädi Kanum,I,L
+khe,Korowai,I,L
+khf,Khuen,I,L
+khg,Khams Tibetan,I,L
+khh,Kehu,I,L
+khj,Kuturmi,I,L
+khk,Halh Mongolian,I,L
+khl,Lusi,I,L
+khm,Khmer,I,L
+khn,Khandesi,I,L
+kho,Khotanese,I,A
+khp,Kapori,I,L
+khq,Koyra Chiini Songhay,I,L
+khr,Kharia,I,L
+khs,Kasua,I,L
+kht,Khamti,I,L
+khu,Nkhumbi,I,L
+khv,Khvarshi,I,L
+khw,Khowar,I,L
+khx,Kanu,I,L
+khy,Kele (Democratic Republic of Congo),I,L
+khz,Keapara,I,L
+kia,Kim,I,L
+kib,Koalib,I,L
+kic,Kickapoo,I,L
+kid,Koshin,I,L
+kie,Kibet,I,L
+kif,Eastern Parbate Kham,I,L
+kig,Kimaama,I,L
+kih,Kilmeri,I,L
+kii,Kitsai,I,E
+kij,Kilivila,I,L
+kik,Kikuyu,I,L
+kil,Kariya,I,L
+kim,Karagas,I,L
+kin,Kinyarwanda,I,L
+kio,Kiowa,I,L
+kip,Sheshi Kham,I,L
+kiq,Kosadle,I,L
+kir,Kirghiz,I,L
+kis,Kis,I,L
+kit,Agob,I,L
+kiu,Kirmanjki (individual language),I,L
+kiv,Kimbu,I,L
+kiw,Northeast Kiwai,I,L
+kix,Khiamniungan Naga,I,L
+kiy,Kirikiri,I,L
+kiz,Kisi,I,L
+kja,Mlap,I,L
+kjb,Q'anjob'al,I,L
+kjc,Coastal Konjo,I,L
+kjd,Southern Kiwai,I,L
+kje,Kisar,I,L
+kjg,Khmu,I,L
+kjh,Khakas,I,L
+kji,Zabana,I,L
+kjj,Khinalugh,I,L
+kjk,Highland Konjo,I,L
+kjl,Western Parbate Kham,I,L
+kjm,Kháng,I,L
+kjn,Kunjen,I,L
+kjo,Harijan Kinnauri,I,L
+kjp,Pwo Eastern Karen,I,L
+kjq,Western Keres,I,L
+kjr,Kurudu,I,L
+kjs,East Kewa,I,L
+kjt,Phrae Pwo Karen,I,L
+kju,Kashaya,I,L
+kjv,Kaikavian Literary Language,I,H
+kjx,Ramopa,I,L
+kjy,Erave,I,L
+kjz,Bumthangkha,I,L
+kka,Kakanda,I,L
+kkb,Kwerisa,I,L
+kkc,Odoodee,I,L
+kkd,Kinuku,I,L
+kke,Kakabe,I,L
+kkf,Kalaktang Monpa,I,L
+kkg,Mabaka Valley Kalinga,I,L
+kkh,Khün,I,L
+kki,Kagulu,I,L
+kkj,Kako,I,L
+kkk,Kokota,I,L
+kkl,Kosarek Yale,I,L
+kkm,Kiong,I,L
+kkn,Kon Keu,I,L
+kko,Karko,I,L
+kkp,Gugubera,I,L
+kkq,Kaeku,I,L
+kkr,Kir-Balar,I,L
+kks,Giiwo,I,L
+kkt,Koi,I,L
+kku,Tumi,I,L
+kkv,Kangean,I,L
+kkw,Teke-Kukuya,I,L
+kkx,Kohin,I,L
+kky,Guugu Yimidhirr,I,L
+kkz,Kaska,I,L
+kla,Klamath-Modoc,I,E
+klb,Kiliwa,I,L
+klc,Kolbila,I,L
+kld,Gamilaraay,I,L
+kle,Kulung (Nepal),I,L
+klf,Kendeje,I,L
+klg,Tagakaulo,I,L
+klh,Weliki,I,L
+kli,Kalumpang,I,L
+klj,Khalaj,I,L
+klk,Kono (Nigeria),I,L
+kll,Kagan Kalagan,I,L
+klm,Migum,I,L
+kln,Kalenjin,M,L
+klo,Kapya,I,L
+klp,Kamasa,I,L
+klq,Rumu,I,L
+klr,Khaling,I,L
+kls,Kalasha,I,L
+klt,Nukna,I,L
+klu,Klao,I,L
+klv,Maskelynes,I,L
+klw,Tado,I,L
+klx,Koluwawa,I,L
+kly,Kalao,I,L
+klz,Kabola,I,L
+kma,Konni,I,L
+kmb,Kimbundu,I,L
+kmc,Southern Dong,I,L
+kmd,Majukayang Kalinga,I,L
+kme,Bakole,I,L
+kmf,Kare (Papua New Guinea),I,L
+kmg,Kâte,I,L
+kmh,Kalam,I,L
+kmi,Kami (Nigeria),I,L
+kmj,Kumarbhag Paharia,I,L
+kmk,Limos Kalinga,I,L
+kml,Tanudan Kalinga,I,L
+kmm,Kom (India),I,L
+kmn,Awtuw,I,L
+kmo,Kwoma,I,L
+kmp,Gimme,I,L
+kmq,Kwama,I,L
+kmr,Northern Kurdish,I,L
+kms,Kamasau,I,L
+kmt,Kemtuik,I,L
+kmu,Kanite,I,L
+kmv,Karipúna Creole French,I,L
+kmw,Komo (Democratic Republic of Congo),I,L
+kmx,Waboda,I,L
+kmy,Koma,I,L
+kmz,Khorasani Turkish,I,L
+kna,Dera (Nigeria),I,L
+knb,Lubuagan Kalinga,I,L
+knc,Central Kanuri,I,L
+knd,Konda,I,L
+kne,Kankanaey,I,L
+knf,Mankanya,I,L
+kng,Koongo,I,L
+kni,Kanufi,I,L
+knj,Western Kanjobal,I,L
+knk,Kuranko,I,L
+knl,Keninjal,I,L
+knm,Kanamarí,I,L
+knn,Konkani (individual language),I,L
+kno,Kono (Sierra Leone),I,L
+knp,Kwanja,I,L
+knq,Kintaq,I,L
+knr,Kaningra,I,L
+kns,Kensiu,I,L
+knt,Panoan Katukína,I,L
+knu,Kono (Guinea),I,L
+knv,Tabo,I,L
+knw,Kung-Ekoka,I,L
+knx,Kendayan,I,L
+kny,Kanyok,I,L
+knz,Kalamsé,I,L
+koa,Konomala,I,L
+koc,Kpati,I,E
+kod,Kodi,I,L
+koe,Kacipo-Bale Suri,I,L
+kof,Kubi,I,E
+kog,Cogui,I,L
+koh,Koyo,I,L
+koi,Komi-Permyak,I,L
+kok,Konkani (macrolanguage),M,L
+kol,Kol (Papua New Guinea),I,L
+kom,Komi,M,L
+kon,Kongo,M,L
+koo,Konzo,I,L
+kop,Waube,I,L
+koq,Kota (Gabon),I,L
+kor,Korean,I,L
+kos,Kosraean,I,L
+kot,Lagwan,I,L
+kou,Koke,I,L
+kov,Kudu-Camo,I,L
+kow,Kugama,I,L
+koy,Koyukon,I,L
+koz,Korak,I,L
+kpa,Kutto,I,L
+kpb,Mullu Kurumba,I,L
+kpc,Curripaco,I,L
+kpd,Koba,I,L
+kpe,Kpelle,M,L
+kpf,Komba,I,L
+kpg,Kapingamarangi,I,L
+kph,Kplang,I,L
+kpi,Kofei,I,L
+kpj,Karajá,I,L
+kpk,Kpan,I,L
+kpl,Kpala,I,L
+kpm,Koho,I,L
+kpn,Kepkiriwát,I,E
+kpo,Ikposo,I,L
+kpq,Korupun-Sela,I,L
+kpr,Korafe-Yegha,I,L
+kps,Tehit,I,L
+kpt,Karata,I,L
+kpu,Kafoa,I,L
+kpv,Komi-Zyrian,I,L
+kpw,Kobon,I,L
+kpx,Mountain Koiali,I,L
+kpy,Koryak,I,L
+kpz,Kupsabiny,I,L
+kqa,Mum,I,L
+kqb,Kovai,I,L
+kqc,Doromu-Koki,I,L
+kqd,Koy Sanjaq Surat,I,L
+kqe,Kalagan,I,L
+kqf,Kakabai,I,L
+kqg,Khe,I,L
+kqh,Kisankasa,I,L
+kqi,Koitabu,I,L
+kqj,Koromira,I,L
+kqk,Kotafon Gbe,I,L
+kql,Kyenele,I,L
+kqm,Khisa,I,L
+kqn,Kaonde,I,L
+kqo,Eastern Krahn,I,L
+kqp,Kimré,I,L
+kqq,Krenak,I,L
+kqr,Kimaragang,I,L
+kqs,Northern Kissi,I,L
+kqt,Klias River Kadazan,I,L
+kqu,Seroa,I,E
+kqv,Okolod,I,L
+kqw,Kandas,I,L
+kqx,Mser,I,L
+kqy,Koorete,I,L
+kqz,Korana,I,E
+kra,Kumhali,I,L
+krb,Karkin,I,E
+krc,Karachay-Balkar,I,L
+krd,Kairui-Midiki,I,L
+kre,Panará,I,L
+krf,Koro (Vanuatu),I,L
+krh,Kurama,I,L
+kri,Krio,I,L
+krj,Kinaray-A,I,L
+krk,Kerek,I,E
+krl,Karelian,I,L
+krn,Sapo,I,L
+krp,Korop,I,L
+krr,Krung,I,L
+krs,Gbaya (Sudan),I,L
+krt,Tumari Kanuri,I,L
+kru,Kurukh,I,L
+krv,Kavet,I,L
+krw,Western Krahn,I,L
+krx,Karon,I,L
+kry,Kryts,I,L
+krz,Sota Kanum,I,L
+ksa,Shuwa-Zamani,I,L
+ksb,Shambala,I,L
+ksc,Southern Kalinga,I,L
+ksd,Kuanua,I,L
+kse,Kuni,I,L
+ksf,Bafia,I,L
+ksg,Kusaghe,I,L
+ksh,Kölsch,I,L
+ksi,Krisa,I,L
+ksj,Uare,I,L
+ksk,Kansa,I,L
+ksl,Kumalu,I,L
+ksm,Kumba,I,L
+ksn,Kasiguranin,I,L
+kso,Kofa,I,L
+ksp,Kaba,I,L
+ksq,Kwaami,I,L
+ksr,Borong,I,L
+kss,Southern Kisi,I,L
+kst,Winyé,I,L
+ksu,Khamyang,I,L
+ksv,Kusu,I,L
+ksw,S'gaw Karen,I,L
+ksx,Kedang,I,L
+ksy,Kharia Thar,I,L
+ksz,Kodaku,I,L
+kta,Katua,I,L
+ktb,Kambaata,I,L
+ktc,Kholok,I,L
+ktd,Kokata,I,L
+kte,Nubri,I,L
+ktf,Kwami,I,L
+ktg,Kalkutung,I,E
+kth,Karanga,I,L
+kti,North Muyu,I,L
+ktj,Plapo Krumen,I,L
+ktk,Kaniet,I,E
+ktl,Koroshi,I,L
+ktm,Kurti,I,L
+ktn,Karitiâna,I,L
+kto,Kuot,I,L
+ktp,Kaduo,I,L
+ktq,Katabaga,I,E
+kts,South Muyu,I,L
+ktt,Ketum,I,L
+ktu,Kituba (Democratic Republic of Congo),I,L
+ktv,Eastern Katu,I,L
+ktw,Kato,I,E
+ktx,Kaxararí,I,L
+kty,Kango (Bas-Uélé District),I,L
+ktz,Juǀʼhoan,I,L
+kua,Kuanyama,I,L
+kub,Kutep,I,L
+kuc,Kwinsu,I,L
+kud,'Auhelawa,I,L
+kue,Kuman (Papua New Guinea),I,L
+kuf,Western Katu,I,L
+kug,Kupa,I,L
+kuh,Kushi,I,L
+kui,Kuikúro-Kalapálo,I,L
+kuj,Kuria,I,L
+kuk,Kepo',I,L
+kul,Kulere,I,L
+kum,Kumyk,I,L
+kun,Kunama,I,L
+kuo,Kumukio,I,L
+kup,Kunimaipa,I,L
+kuq,Karipuna,I,L
+kur,Kurdish,M,L
+kus,Kusaal,I,L
+kut,Kutenai,I,L
+kuu,Upper Kuskokwim,I,L
+kuv,Kur,I,L
+kuw,Kpagua,I,L
+kux,Kukatja,I,L
+kuy,Kuuku-Ya'u,I,L
+kuz,Kunza,I,E
+kva,Bagvalal,I,L
+kvb,Kubu,I,L
+kvc,Kove,I,L
+kvd,Kui (Indonesia),I,L
+kve,Kalabakan,I,L
+kvf,Kabalai,I,L
+kvg,Kuni-Boazi,I,L
+kvh,Komodo,I,L
+kvi,Kwang,I,L
+kvj,Psikye,I,L
+kvk,Korean Sign Language,I,L
+kvl,Kayaw,I,L
+kvm,Kendem,I,L
+kvn,Border Kuna,I,L
+kvo,Dobel,I,L
+kvp,Kompane,I,L
+kvq,Geba Karen,I,L
+kvr,Kerinci,I,L
+kvt,Lahta Karen,I,L
+kvu,Yinbaw Karen,I,L
+kvv,Kola,I,L
+kvw,Wersing,I,L
+kvx,Parkari Koli,I,L
+kvy,Yintale Karen,I,L
+kvz,Tsakwambo,I,L
+kwa,Dâw,I,L
+kwb,Kwa,I,L
+kwc,Likwala,I,L
+kwd,Kwaio,I,L
+kwe,Kwerba,I,L
+kwf,Kwara'ae,I,L
+kwg,Sara Kaba Deme,I,L
+kwh,Kowiai,I,L
+kwi,Awa-Cuaiquer,I,L
+kwj,Kwanga,I,L
+kwk,Kwakiutl,I,L
+kwl,Kofyar,I,L
+kwm,Kwambi,I,L
+kwn,Kwangali,I,L
+kwo,Kwomtari,I,L
+kwp,Kodia,I,L
+kwr,Kwer,I,L
+kws,Kwese,I,L
+kwt,Kwesten,I,L
+kwu,Kwakum,I,L
+kwv,Sara Kaba Náà,I,L
+kww,Kwinti,I,L
+kwx,Khirwar,I,L
+kwy,San Salvador Kongo,I,L
+kwz,Kwadi,I,E
+kxa,Kairiru,I,L
+kxb,Krobu,I,L
+kxc,Konso,I,L
+kxd,Brunei,I,L
+kxf,Manumanaw Karen,I,L
+kxh,Karo (Ethiopia),I,L
+kxi,Keningau Murut,I,L
+kxj,Kulfa,I,L
+kxk,Zayein Karen,I,L
+kxm,Northern Khmer,I,L
+kxn,Kanowit-Tanjong Melanau,I,L
+kxo,Kanoé,I,E
+kxp,Wadiyara Koli,I,L
+kxq,Smärky Kanum,I,L
+kxr,Koro (Papua New Guinea),I,L
+kxs,Kangjia,I,L
+kxt,Koiwat,I,L
+kxv,Kuvi,I,L
+kxw,Konai,I,L
+kxx,Likuba,I,L
+kxy,Kayong,I,L
+kxz,Kerewo,I,L
+kya,Kwaya,I,L
+kyb,Butbut Kalinga,I,L
+kyc,Kyaka,I,L
+kyd,Karey,I,L
+kye,Krache,I,L
+kyf,Kouya,I,L
+kyg,Keyagana,I,L
+kyh,Karok,I,L
+kyi,Kiput,I,L
+kyj,Karao,I,L
+kyk,Kamayo,I,L
+kyl,Kalapuya,I,L
+kym,Kpatili,I,L
+kyn,Northern Binukidnon,I,L
+kyo,Kelon,I,L
+kyp,Kang,I,L
+kyq,Kenga,I,L
+kyr,Kuruáya,I,L
+kys,Baram Kayan,I,L
+kyt,Kayagar,I,L
+kyu,Western Kayah,I,L
+kyv,Kayort,I,L
+kyw,Kudmali,I,L
+kyx,Rapoisi,I,L
+kyy,Kambaira,I,L
+kyz,Kayabí,I,L
+kza,Western Karaboro,I,L
+kzb,Kaibobo,I,L
+kzc,Bondoukou Kulango,I,L
+kzd,Kadai,I,L
+kze,Kosena,I,L
+kzf,Da'a Kaili,I,L
+kzg,Kikai,I,L
+kzi,Kelabit,I,L
+kzk,Kazukuru,I,E
+kzl,Kayeli,I,L
+kzm,Kais,I,L
+kzn,Kokola,I,L
+kzo,Kaningi,I,L
+kzp,Kaidipang,I,L
+kzq,Kaike,I,L
+kzr,Karang,I,L
+kzs,Sugut Dusun,I,L
+kzu,Kayupulau,I,L
+kzv,Komyandaret,I,L
+kzw,Karirí-Xocó,I,E
+kzx,Kamarian,I,E
+kzy,Kango (Tshopo District),I,L
+kzz,Kalabra,I,L
+laa,Southern Subanen,I,L
+lab,Linear A,I,A
+lac,Lacandon,I,L
+lad,Ladino,I,L
+lae,Pattani,I,L
+laf,Lafofa,I,L
+lag,Langi,I,L
+lah,Lahnda,M,L
+lai,Lambya,I,L
+laj,Lango (Uganda),I,L
+lal,Lalia,I,L
+lam,Lamba,I,L
+lan,Laru,I,L
+lao,Lao,I,L
+lap,Laka (Chad),I,L
+laq,Qabiao,I,L
+lar,Larteh,I,L
+las,Lama (Togo),I,L
+lat,Latin,I,A
+lau,Laba,I,L
+lav,Latvian,M,L
+law,Lauje,I,L
+lax,Tiwa,I,L
+lay,Lama Bai,I,L
+laz,Aribwatsa,I,E
+lbb,Label,I,L
+lbc,Lakkia,I,L
+lbe,Lak,I,L
+lbf,Tinani,I,L
+lbg,Laopang,I,L
+lbi,La'bi,I,L
+lbj,Ladakhi,I,L
+lbk,Central Bontok,I,L
+lbl,Libon Bikol,I,L
+lbm,Lodhi,I,L
+lbn,Rmeet,I,L
+lbo,Laven,I,L
+lbq,Wampar,I,L
+lbr,Lohorung,I,L
+lbs,Libyan Sign Language,I,L
+lbt,Lachi,I,L
+lbu,Labu,I,L
+lbv,Lavatbura-Lamusong,I,L
+lbw,Tolaki,I,L
+lbx,Lawangan,I,L
+lby,Lamalama,I,E
+lbz,Lardil,I,L
+lcc,Legenyem,I,L
+lcd,Lola,I,L
+lce,Loncong,I,L
+lcf,Lubu,I,L
+lch,Luchazi,I,L
+lcl,Lisela,I,L
+lcm,Tungag,I,L
+lcp,Western Lawa,I,L
+lcq,Luhu,I,L
+lcs,Lisabata-Nuniali,I,L
+lda,Kla-Dan,I,L
+ldb,Dũya,I,L
+ldd,Luri,I,L
+ldg,Lenyima,I,L
+ldh,Lamja-Dengsa-Tola,I,L
+ldi,Laari,I,L
+ldj,Lemoro,I,L
+ldk,Leelau,I,L
+ldl,Kaan,I,L
+ldm,Landoma,I,L
+ldn,Láadan,I,C
+ldo,Loo,I,L
+ldp,Tso,I,L
+ldq,Lufu,I,L
+lea,Lega-Shabunda,I,L
+leb,Lala-Bisa,I,L
+lec,Leco,I,L
+led,Lendu,I,L
+lee,Lyélé,I,L
+lef,Lelemi,I,L
+leh,Lenje,I,L
+lei,Lemio,I,L
+lej,Lengola,I,L
+lek,Leipon,I,L
+lel,Lele (Democratic Republic of Congo),I,L
+lem,Nomaande,I,L
+len,Lenca,I,E
+leo,Leti (Cameroon),I,L
+lep,Lepcha,I,L
+leq,Lembena,I,L
+ler,Lenkau,I,L
+les,Lese,I,L
+let,Lesing-Gelimi,I,L
+leu,Kara (Papua New Guinea),I,L
+lev,Lamma,I,L
+lew,Ledo Kaili,I,L
+lex,Luang,I,L
+ley,Lemolang,I,L
+lez,Lezghian,I,L
+lfa,Lefa,I,L
+lfn,Lingua Franca Nova,I,C
+lga,Lungga,I,L
+lgb,Laghu,I,L
+lgg,Lugbara,I,L
+lgh,Laghuu,I,L
+lgi,Lengilu,I,L
+lgk,Lingarak,I,L
+lgl,Wala,I,L
+lgm,Lega-Mwenga,I,L
+lgn,T'apo,I,L
+lgo,Lango (South Sudan),I,L
+lgq,Logba,I,L
+lgr,Lengo,I,L
+lgt,Pahi,I,L
+lgu,Longgu,I,L
+lgz,Ligenza,I,L
+lha,Laha (Viet Nam),I,L
+lhh,Laha (Indonesia),I,L
+lhi,Lahu Shi,I,L
+lhl,Lahul Lohar,I,L
+lhm,Lhomi,I,L
+lhn,Lahanan,I,L
+lhp,Lhokpu,I,L
+lhs,Mlahsö,I,E
+lht,Lo-Toga,I,L
+lhu,Lahu,I,L
+lia,West-Central Limba,I,L
+lib,Likum,I,L
+lic,Hlai,I,L
+lid,Nyindrou,I,L
+lie,Likila,I,L
+lif,Limbu,I,L
+lig,Ligbi,I,L
+lih,Lihir,I,L
+lij,Ligurian,I,L
+lik,Lika,I,L
+lil,Lillooet,I,L
+lim,Limburgan,I,L
+lin,Lingala,I,L
+lio,Liki,I,L
+lip,Sekpele,I,L
+liq,Libido,I,L
+lir,Liberian English,I,L
+lis,Lisu,I,L
+lit,Lithuanian,I,L
+liu,Logorik,I,L
+liv,Liv,I,L
+liw,Col,I,L
+lix,Liabuku,I,L
+liy,Banda-Bambari,I,L
+liz,Libinza,I,L
+lja,Golpa,I,E
+lje,Rampi,I,L
+lji,Laiyolo,I,L
+ljl,Li'o,I,L
+ljp,Lampung Api,I,L
+ljw,Yirandali,I,L
+ljx,Yuru,I,E
+lka,Lakalei,I,L
+lkb,Kabras,I,L
+lkc,Kucong,I,L
+lkd,Lakondê,I,L
+lke,Kenyi,I,L
+lkh,Lakha,I,L
+lki,Laki,I,L
+lkj,Remun,I,L
+lkl,Laeko-Libuat,I,L
+lkm,Kalaamaya,I,E
+lkn,Lakon,I,L
+lko,Khayo,I,L
+lkr,Päri,I,L
+lks,Kisa,I,L
+lkt,Lakota,I,L
+lku,Kungkari,I,E
+lky,Lokoya,I,L
+lla,Lala-Roba,I,L
+llb,Lolo,I,L
+llc,Lele (Guinea),I,L
+lld,Ladin,I,L
+lle,Lele (Papua New Guinea),I,L
+llf,Hermit,I,E
+llg,Lole,I,L
+llh,Lamu,I,L
+lli,Teke-Laali,I,L
+llj,Ladji Ladji,I,E
+llk,Lelak,I,E
+lll,Lilau,I,L
+llm,Lasalimu,I,L
+lln,Lele (Chad),I,L
+llp,North Efate,I,L
+llq,Lolak,I,L
+lls,Lithuanian Sign Language,I,L
+llu,Lau,I,L
+llx,Lauan,I,L
+lma,East Limba,I,L
+lmb,Merei,I,L
+lmc,Limilngan,I,E
+lmd,Lumun,I,L
+lme,Pévé,I,L
+lmf,South Lembata,I,L
+lmg,Lamogai,I,L
+lmh,Lambichhong,I,L
+lmi,Lombi,I,L
+lmj,West Lembata,I,L
+lmk,Lamkang,I,L
+lml,Hano,I,L
+lmn,Lambadi,I,L
+lmo,Lombard,I,L
+lmp,Limbum,I,L
+lmq,Lamatuka,I,L
+lmr,Lamalera,I,L
+lmu,Lamenu,I,L
+lmv,Lomaiviti,I,L
+lmw,Lake Miwok,I,L
+lmx,Laimbue,I,L
+lmy,Lamboya,I,L
+lna,Langbashe,I,L
+lnb,Mbalanhu,I,L
+lnd,Lundayeh,I,L
+lng,Langobardic,I,A
+lnh,Lanoh,I,L
+lni,Daantanai',I,L
+lnj,Leningitij,I,E
+lnl,South Central Banda,I,L
+lnm,Langam,I,L
+lnn,Lorediakarkar,I,L
+lns,Lamnso',I,L
+lnu,Longuda,I,L
+lnw,Lanima,I,E
+lnz,Lonzo,I,L
+loa,Loloda,I,L
+lob,Lobi,I,L
+loc,Inonhan,I,L
+loe,Saluan,I,L
+lof,Logol,I,L
+log,Logo,I,L
+loh,Narim,I,L
+loi,Loma (Côte d'Ivoire),I,L
+loj,Lou,I,L
+lok,Loko,I,L
+lol,Mongo,I,L
+lom,Loma (Liberia),I,L
+lon,Malawi Lomwe,I,L
+loo,Lombo,I,L
+lop,Lopa,I,L
+loq,Lobala,I,L
+lor,Téén,I,L
+los,Loniu,I,L
+lot,Otuho,I,L
+lou,Louisiana Creole,I,L
+lov,Lopi,I,L
+low,Tampias Lobu,I,L
+lox,Loun,I,L
+loy,Loke,I,L
+loz,Lozi,I,L
+lpa,Lelepa,I,L
+lpe,Lepki,I,L
+lpn,Long Phuri Naga,I,L
+lpo,Lipo,I,L
+lpx,Lopit,I,L
+lqr,Logir,I,L
+lra,Rara Bakati',I,L
+lrc,Northern Luri,I,L
+lre,Laurentian,I,E
+lrg,Laragia,I,E
+lri,Marachi,I,L
+lrk,Loarki,I,L
+lrl,Lari,I,L
+lrm,Marama,I,L
+lrn,Lorang,I,L
+lro,Laro,I,L
+lrr,Southern Yamphu,I,L
+lrt,Larantuka Malay,I,L
+lrv,Larevat,I,L
+lrz,Lemerig,I,L
+lsa,Lasgerdi,I,L
+lsb,Burundian Sign Language,I,L
+lsc,Albarradas Sign Language,I,L
+lsd,Lishana Deni,I,L
+lse,Lusengo,I,L
+lsh,Lish,I,L
+lsi,Lashi,I,L
+lsl,Latvian Sign Language,I,L
+lsm,Saamia,I,L
+lsn,Tibetan Sign Language,I,L
+lso,Laos Sign Language,I,L
+lsp,Panamanian Sign Language,I,L
+lsr,Aruop,I,L
+lss,Lasi,I,L
+lst,Trinidad and Tobago Sign Language,I,L
+lsv,Sivia Sign Language,I,L
+lsw,Seychelles Sign Language,I,L
+lsy,Mauritian Sign Language,I,L
+ltc,Late Middle Chinese,I,H
+ltg,Latgalian,I,L
+lth,Thur,I,L
+lti,Leti (Indonesia),I,L
+ltn,Latundê,I,L
+lto,Tsotso,I,L
+lts,Tachoni,I,L
+ltu,Latu,I,L
+ltz,Luxembourgish,I,L
+lua,Luba-Lulua,I,L
+lub,Luba-Katanga,I,L
+luc,Aringa,I,L
+lud,Ludian,I,L
+lue,Luvale,I,L
+luf,Laua,I,L
+lug,Ganda,I,L
+lui,Luiseno,I,E
+luj,Luna,I,L
+luk,Lunanakha,I,L
+lul,Olu'bo,I,L
+lum,Luimbi,I,L
+lun,Lunda,I,L
+luo,Luo (Kenya and Tanzania),I,L
+lup,Lumbu,I,L
+luq,Lucumi,I,L
+lur,Laura,I,L
+lus,Lushai,I,L
+lut,Lushootseed,I,L
+luu,Lumba-Yakkha,I,L
+luv,Luwati,I,L
+luw,Luo (Cameroon),I,L
+luy,Luyia,M,L
+luz,Southern Luri,I,L
+lva,Maku'a,I,L
+lvi,Lavi,I,L
+lvk,Lavukaleve,I,L
+lvs,Standard Latvian,I,L
+lvu,Levuka,I,L
+lwa,Lwalu,I,L
+lwe,Lewo Eleng,I,L
+lwg,Wanga,I,L
+lwh,White Lachi,I,L
+lwl,Eastern Lawa,I,L
+lwm,Laomian,I,L
+lwo,Luwo,I,L
+lws,Malawian Sign Language,I,L
+lwt,Lewotobi,I,L
+lwu,Lawu,I,L
+lww,Lewo,I,L
+lxm,Lakurumau,I,L
+lya,Layakha,I,L
+lyg,Lyngngam,I,L
+lyn,Luyana,I,L
+lzh,Literary Chinese,I,H
+lzl,Litzlitz,I,L
+lzn,Leinong Naga,I,L
+lzz,Laz,I,L
+maa,San Jerónimo Tecóatl Mazatec,I,L
+mab,Yutanduchi Mixtec,I,L
+mad,Madurese,I,L
+mae,Bo-Rukul,I,L
+maf,Mafa,I,L
+mag,Magahi,I,L
+mah,Marshallese,I,L
+mai,Maithili,I,L
+maj,Jalapa De Díaz Mazatec,I,L
+mak,Makasar,I,L
+mal,Malayalam,I,L
+mam,Mam,I,L
+man,Mandingo,M,L
+maq,Chiquihuitlán Mazatec,I,L
+mar,Marathi,I,L
+mas,Masai,I,L
+mat,San Francisco Matlatzinca,I,L
+mau,Huautla Mazatec,I,L
+mav,Sateré-Mawé,I,L
+maw,Mampruli,I,L
+max,North Moluccan Malay,I,L
+maz,Central Mazahua,I,L
+mba,Higaonon,I,L
+mbb,Western Bukidnon Manobo,I,L
+mbc,Macushi,I,L
+mbd,Dibabawon Manobo,I,L
+mbe,Molale,I,E
+mbf,Baba Malay,I,L
+mbh,Mangseng,I,L
+mbi,Ilianen Manobo,I,L
+mbj,Nadëb,I,L
+mbk,Malol,I,L
+mbl,Maxakalí,I,L
+mbm,Ombamba,I,L
+mbn,Macaguán,I,L
+mbo,Mbo (Cameroon),I,L
+mbp,Malayo,I,L
+mbq,Maisin,I,L
+mbr,Nukak Makú,I,L
+mbs,Sarangani Manobo,I,L
+mbt,Matigsalug Manobo,I,L
+mbu,Mbula-Bwazza,I,L
+mbv,Mbulungish,I,L
+mbw,Maring,I,L
+mbx,Mari (East Sepik Province),I,L
+mby,Memoni,I,L
+mbz,Amoltepec Mixtec,I,L
+mca,Maca,I,L
+mcb,Machiguenga,I,L
+mcc,Bitur,I,L
+mcd,Sharanahua,I,L
+mce,Itundujia Mixtec,I,L
+mcf,Matsés,I,L
+mcg,Mapoyo,I,L
+mch,Maquiritari,I,L
+mci,Mese,I,L
+mcj,Mvanip,I,L
+mck,Mbunda,I,L
+mcl,Macaguaje,I,E
+mcm,Malaccan Creole Portuguese,I,L
+mcn,Masana,I,L
+mco,Coatlán Mixe,I,L
+mcp,Makaa,I,L
+mcq,Ese,I,L
+mcr,Menya,I,L
+mcs,Mambai,I,L
+mct,Mengisa,I,L
+mcu,Cameroon Mambila,I,L
+mcv,Minanibai,I,L
+mcw,Mawa (Chad),I,L
+mcx,Mpiemo,I,L
+mcy,South Watut,I,L
+mcz,Mawan,I,L
+mda,Mada (Nigeria),I,L
+mdb,Morigi,I,L
+mdc,Male (Papua New Guinea),I,L
+mdd,Mbum,I,L
+mde,Maba (Chad),I,L
+mdf,Moksha,I,L
+mdg,Massalat,I,L
+mdh,Maguindanaon,I,L
+mdi,Mamvu,I,L
+mdj,Mangbetu,I,L
+mdk,Mangbutu,I,L
+mdl,Maltese Sign Language,I,L
+mdm,Mayogo,I,L
+mdn,Mbati,I,L
+mdp,Mbala,I,L
+mdq,Mbole,I,L
+mdr,Mandar,I,L
+mds,Maria (Papua New Guinea),I,L
+mdt,Mbere,I,L
+mdu,Mboko,I,L
+mdv,Santa Lucía Monteverde Mixtec,I,L
+mdw,Mbosi,I,L
+mdx,Dizin,I,L
+mdy,Male (Ethiopia),I,L
+mdz,Suruí Do Pará,I,L
+mea,Menka,I,L
+meb,Ikobi,I,L
+mec,Marra,I,L
+med,Melpa,I,L
+mee,Mengen,I,L
+mef,Megam,I,L
+meh,Southwestern Tlaxiaco Mixtec,I,L
+mei,Midob,I,L
+mej,Meyah,I,L
+mek,Mekeo,I,L
+mel,Central Melanau,I,L
+mem,Mangala,I,E
+men,Mende (Sierra Leone),I,L
+meo,Kedah Malay,I,L
+mep,Miriwoong,I,L
+meq,Merey,I,L
+mer,Meru,I,L
+mes,Masmaje,I,L
+met,Mato,I,L
+meu,Motu,I,L
+mev,Mano,I,L
+mew,Maaka,I,L
+mey,Hassaniyya,I,L
+mez,Menominee,I,L
+mfa,Pattani Malay,I,L
+mfb,Bangka,I,L
+mfc,Mba,I,L
+mfd,Mendankwe-Nkwen,I,L
+mfe,Morisyen,I,L
+mff,Naki,I,L
+mfg,Mogofin,I,L
+mfh,Matal,I,L
+mfi,Wandala,I,L
+mfj,Mefele,I,L
+mfk,North Mofu,I,L
+mfl,Putai,I,L
+mfm,Marghi South,I,L
+mfn,Cross River Mbembe,I,L
+mfo,Mbe,I,L
+mfp,Makassar Malay,I,L
+mfq,Moba,I,L
+mfr,Marrithiyel,I,L
+mfs,Mexican Sign Language,I,L
+mft,Mokerang,I,L
+mfu,Mbwela,I,L
+mfv,Mandjak,I,L
+mfw,Mulaha,I,E
+mfx,Melo,I,L
+mfy,Mayo,I,L
+mfz,Mabaan,I,L
+mga,Middle Irish (900-1200),I,H
+mgb,Mararit,I,L
+mgc,Morokodo,I,L
+mgd,Moru,I,L
+mge,Mango,I,L
+mgf,Maklew,I,L
+mgg,Mpumpong,I,L
+mgh,Makhuwa-Meetto,I,L
+mgi,Lijili,I,L
+mgj,Abureni,I,L
+mgk,Mawes,I,L
+mgl,Maleu-Kilenge,I,L
+mgm,Mambae,I,L
+mgn,Mbangi,I,L
+mgo,Meta',I,L
+mgp,Eastern Magar,I,L
+mgq,Malila,I,L
+mgr,Mambwe-Lungu,I,L
+mgs,Manda (Tanzania),I,L
+mgt,Mongol,I,L
+mgu,Mailu,I,L
+mgv,Matengo,I,L
+mgw,Matumbi,I,L
+mgy,Mbunga,I,L
+mgz,Mbugwe,I,L
+mha,Manda (India),I,L
+mhb,Mahongwe,I,L
+mhc,Mocho,I,L
+mhd,Mbugu,I,L
+mhe,Besisi,I,L
+mhf,Mamaa,I,L
+mhg,Margu,I,L
+mhi,Ma'di,I,L
+mhj,Mogholi,I,L
+mhk,Mungaka,I,L
+mhl,Mauwake,I,L
+mhm,Makhuwa-Moniga,I,L
+mhn,Mócheno,I,L
+mho,Mashi (Zambia),I,L
+mhp,Balinese Malay,I,L
+mhq,Mandan,I,L
+mhr,Eastern Mari,I,L
+mhs,Buru (Indonesia),I,L
+mht,Mandahuaca,I,L
+mhu,Digaro-Mishmi,I,L
+mhw,Mbukushu,I,L
+mhx,Maru,I,L
+mhy,Ma'anyan,I,L
+mhz,Mor (Mor Islands),I,L
+mia,Miami,I,L
+mib,Atatláhuca Mixtec,I,L
+mic,Mi'kmaq,I,L
+mid,Mandaic,I,L
+mie,Ocotepec Mixtec,I,L
+mif,Mofu-Gudur,I,L
+mig,San Miguel El Grande Mixtec,I,L
+mih,Chayuco Mixtec,I,L
+mii,Chigmecatitlán Mixtec,I,L
+mij,Abar,I,L
+mik,Mikasuki,I,L
+mil,Peñoles Mixtec,I,L
+mim,Alacatlatzala Mixtec,I,L
+min,Minangkabau,I,L
+mio,Pinotepa Nacional Mixtec,I,L
+mip,Apasco-Apoala Mixtec,I,L
+miq,Mískito,I,L
+mir,Isthmus Mixe,I,L
+mis,Uncoded languages,S,S
+mit,Southern Puebla Mixtec,I,L
+miu,Cacaloxtepec Mixtec,I,L
+miw,Akoye,I,L
+mix,Mixtepec Mixtec,I,L
+miy,Ayutla Mixtec,I,L
+miz,Coatzospan Mixtec,I,L
+mjb,Makalero,I,L
+mjc,San Juan Colorado Mixtec,I,L
+mjd,Northwest Maidu,I,L
+mje,Muskum,I,E
+mjg,Tu,I,L
+mjh,Mwera (Nyasa),I,L
+mji,Kim Mun,I,L
+mjj,Mawak,I,L
+mjk,Matukar,I,L
+mjl,Mandeali,I,L
+mjm,Medebur,I,L
+mjn,Ma (Papua New Guinea),I,L
+mjo,Malankuravan,I,L
+mjp,Malapandaram,I,L
+mjq,Malaryan,I,E
+mjr,Malavedan,I,L
+mjs,Miship,I,L
+mjt,Sauria Paharia,I,L
+mju,Manna-Dora,I,L
+mjv,Mannan,I,L
+mjw,Karbi,I,L
+mjx,Mahali,I,L
+mjy,Mahican,I,E
+mjz,Majhi,I,L
+mka,Mbre,I,L
+mkb,Mal Paharia,I,L
+mkc,Siliput,I,L
+mkd,Macedonian,I,L
+mke,Mawchi,I,L
+mkf,Miya,I,L
+mkg,Mak (China),I,L
+mki,Dhatki,I,L
+mkj,Mokilese,I,L
+mkk,Byep,I,L
+mkl,Mokole,I,L
+mkm,Moklen,I,L
+mkn,Kupang Malay,I,L
+mko,Mingang Doso,I,L
+mkp,Moikodi,I,L
+mkq,Bay Miwok,I,E
+mkr,Malas,I,L
+mks,Silacayoapan Mixtec,I,L
+mkt,Vamale,I,L
+mku,Konyanka Maninka,I,L
+mkv,Mafea,I,L
+mkw,Kituba (Congo),I,L
+mkx,Kinamiging Manobo,I,L
+mky,East Makian,I,L
+mkz,Makasae,I,L
+mla,Malo,I,L
+mlb,Mbule,I,L
+mlc,Cao Lan,I,L
+mle,Manambu,I,L
+mlf,Mal,I,L
+mlg,Malagasy,M,L
+mlh,Mape,I,L
+mli,Malimpung,I,L
+mlj,Miltu,I,L
+mlk,Ilwana,I,L
+mll,Malua Bay,I,L
+mlm,Mulam,I,L
+mln,Malango,I,L
+mlo,Mlomp,I,L
+mlp,Bargam,I,L
+mlq,Western Maninkakan,I,L
+mlr,Vame,I,L
+mls,Masalit,I,L
+mlt,Maltese,I,L
+mlu,To'abaita,I,L
+mlv,Motlav,I,L
+mlw,Moloko,I,L
+mlx,Malfaxal,I,L
+mlz,Malaynon,I,L
+mma,Mama,I,L
+mmb,Momina,I,L
+mmc,Michoacán Mazahua,I,L
+mmd,Maonan,I,L
+mme,Mae,I,L
+mmf,Mundat,I,L
+mmg,North Ambrym,I,L
+mmh,Mehináku,I,L
+mmi,Musar,I,L
+mmj,Majhwar,I,L
+mmk,Mukha-Dora,I,L
+mml,Man Met,I,L
+mmm,Maii,I,L
+mmn,Mamanwa,I,L
+mmo,Mangga Buang,I,L
+mmp,Siawi,I,L
+mmq,Musak,I,L
+mmr,Western Xiangxi Miao,I,L
+mmt,Malalamai,I,L
+mmu,Mmaala,I,L
+mmv,Miriti,I,E
+mmw,Emae,I,L
+mmx,Madak,I,L
+mmy,Migaama,I,L
+mmz,Mabaale,I,L
+mna,Mbula,I,L
+mnb,Muna,I,L
+mnc,Manchu,I,L
+mnd,Mondé,I,L
+mne,Naba,I,L
+mnf,Mundani,I,L
+mng,Eastern Mnong,I,L
+mnh,Mono (Democratic Republic of Congo),I,L
+mni,Manipuri,I,L
+mnj,Munji,I,L
+mnk,Mandinka,I,L
+mnl,Tiale,I,L
+mnm,Mapena,I,L
+mnn,Southern Mnong,I,L
+mnp,Min Bei Chinese,I,L
+mnq,Minriq,I,L
+mnr,Mono (USA),I,L
+mns,Mansi,I,L
+mnu,Mer,I,L
+mnv,Rennell-Bellona,I,L
+mnw,Mon,I,L
+mnx,Manikion,I,L
+mny,Manyawa,I,L
+mnz,Moni,I,L
+moa,Mwan,I,L
+moc,Mocoví,I,L
+mod,Mobilian,I,E
+moe,Innu,I,L
+mog,Mongondow,I,L
+moh,Mohawk,I,L
+moi,Mboi,I,L
+moj,Monzombo,I,L
+mok,Morori,I,L
+mom,Mangue,I,E
+mon,Mongolian,M,L
+moo,Monom,I,L
+mop,Mopán Maya,I,L
+moq,Mor (Bomberai Peninsula),I,L
+mor,Moro,I,L
+mos,Mossi,I,L
+mot,Barí,I,L
+mou,Mogum,I,L
+mov,Mohave,I,L
+mow,Moi (Congo),I,L
+mox,Molima,I,L
+moy,Shekkacho,I,L
+moz,Mukulu,I,L
+mpa,Mpoto,I,L
+mpb,Malak Malak,I,L
+mpc,Mangarrayi,I,L
+mpd,Machinere,I,L
+mpe,Majang,I,L
+mpg,Marba,I,L
+mph,Maung,I,L
+mpi,Mpade,I,L
+mpj,Martu Wangka,I,L
+mpk,Mbara (Chad),I,L
+mpl,Middle Watut,I,L
+mpm,Yosondúa Mixtec,I,L
+mpn,Mindiri,I,L
+mpo,Miu,I,L
+mpp,Migabac,I,L
+mpq,Matís,I,L
+mpr,Vangunu,I,L
+mps,Dadibi,I,L
+mpt,Mian,I,L
+mpu,Makuráp,I,L
+mpv,Mungkip,I,L
+mpw,Mapidian,I,L
+mpx,Misima-Panaeati,I,L
+mpy,Mapia,I,L
+mpz,Mpi,I,L
+mqa,Maba (Indonesia),I,L
+mqb,Mbuko,I,L
+mqc,Mangole,I,L
+mqe,Matepi,I,L
+mqf,Momuna,I,L
+mqg,Kota Bangun Kutai Malay,I,L
+mqh,Tlazoyaltepec Mixtec,I,L
+mqi,Mariri,I,L
+mqj,Mamasa,I,L
+mqk,Rajah Kabunsuwan Manobo,I,L
+mql,Mbelime,I,L
+mqm,South Marquesan,I,L
+mqn,Moronene,I,L
+mqo,Modole,I,L
+mqp,Manipa,I,L
+mqq,Minokok,I,L
+mqr,Mander,I,L
+mqs,West Makian,I,L
+mqt,Mok,I,L
+mqu,Mandari,I,L
+mqv,Mosimo,I,L
+mqw,Murupi,I,L
+mqx,Mamuju,I,L
+mqy,Manggarai,I,L
+mqz,Pano,I,L
+mra,Mlabri,I,L
+mrb,Marino,I,L
+mrc,Maricopa,I,L
+mrd,Western Magar,I,L
+mre,Martha's Vineyard Sign Language,I,E
+mrf,Elseng,I,L
+mrg,Mising,I,L
+mrh,Mara Chin,I,L
+mri,Maori,I,L
+mrj,Western Mari,I,L
+mrk,Hmwaveke,I,L
+mrl,Mortlockese,I,L
+mrm,Merlav,I,L
+mrn,Cheke Holo,I,L
+mro,Mru,I,L
+mrp,Morouas,I,L
+mrq,North Marquesan,I,L
+mrr,Maria (India),I,L
+mrs,Maragus,I,L
+mrt,Marghi Central,I,L
+mru,Mono (Cameroon),I,L
+mrv,Mangareva,I,L
+mrw,Maranao,I,L
+mrx,Maremgi,I,L
+mry,Mandaya,I,L
+mrz,Marind,I,L
+msa,Malay (macrolanguage),M,L
+msb,Masbatenyo,I,L
+msc,Sankaran Maninka,I,L
+msd,Yucatec Maya Sign Language,I,L
+mse,Musey,I,L
+msf,Mekwei,I,L
+msg,Moraid,I,L
+msh,Masikoro Malagasy,I,L
+msi,Sabah Malay,I,L
+msj,Ma (Democratic Republic of Congo),I,L
+msk,Mansaka,I,L
+msl,Molof,I,L
+msm,Agusan Manobo,I,L
+msn,Vurës,I,L
+mso,Mombum,I,L
+msp,Maritsauá,I,E
+msq,Caac,I,L
+msr,Mongolian Sign Language,I,L
+mss,West Masela,I,L
+msu,Musom,I,L
+msv,Maslam,I,L
+msw,Mansoanka,I,L
+msx,Moresada,I,L
+msy,Aruamu,I,L
+msz,Momare,I,L
+mta,Cotabato Manobo,I,L
+mtb,Anyin Morofo,I,L
+mtc,Munit,I,L
+mtd,Mualang,I,L
+mte,Mono (Solomon Islands),I,L
+mtf,Murik (Papua New Guinea),I,L
+mtg,Una,I,L
+mth,Munggui,I,L
+mti,Maiwa (Papua New Guinea),I,L
+mtj,Moskona,I,L
+mtk,Mbe',I,L
+mtl,Montol,I,L
+mtm,Mator,I,E
+mtn,Matagalpa,I,E
+mto,Totontepec Mixe,I,L
+mtp,Wichí Lhamtés Nocten,I,L
+mtq,Muong,I,L
+mtr,Mewari,I,L
+mts,Yora,I,L
+mtt,Mota,I,L
+mtu,Tututepec Mixtec,I,L
+mtv,Asaro'o,I,L
+mtw,Southern Binukidnon,I,L
+mtx,Tidaá Mixtec,I,L
+mty,Nabi,I,L
+mua,Mundang,I,L
+mub,Mubi,I,L
+muc,Ajumbu,I,L
+mud,Mednyj Aleut,I,L
+mue,Media Lengua,I,L
+mug,Musgu,I,L
+muh,Mündü,I,L
+mui,Musi,I,L
+muj,Mabire,I,L
+muk,Mugom,I,L
+mul,Multiple languages,S,S
+mum,Maiwala,I,L
+muo,Nyong,I,L
+mup,Malvi,I,L
+muq,Eastern Xiangxi Miao,I,L
+mur,Murle,I,L
+mus,Creek,I,L
+mut,Western Muria,I,L
+muu,Yaaku,I,L
+muv,Muthuvan,I,L
+mux,Bo-Ung,I,L
+muy,Muyang,I,L
+muz,Mursi,I,L
+mva,Manam,I,L
+mvb,Mattole,I,E
+mvd,Mamboru,I,L
+mve,Marwari (Pakistan),I,L
+mvf,Peripheral Mongolian,I,L
+mvg,Yucuañe Mixtec,I,L
+mvh,Mulgi,I,L
+mvi,Miyako,I,L
+mvk,Mekmek,I,L
+mvl,Mbara (Australia),I,E
+mvn,Minaveha,I,L
+mvo,Marovo,I,L
+mvp,Duri,I,L
+mvq,Moere,I,L
+mvr,Marau,I,L
+mvs,Massep,I,L
+mvt,Mpotovoro,I,L
+mvu,Marfa,I,L
+mvv,Tagal Murut,I,L
+mvw,Machinga,I,L
+mvx,Meoswar,I,L
+mvy,Indus Kohistani,I,L
+mvz,Mesqan,I,L
+mwa,Mwatebu,I,L
+mwb,Juwal,I,L
+mwc,Are,I,L
+mwe,Mwera (Chimwera),I,L
+mwf,Murrinh-Patha,I,L
+mwg,Aiklep,I,L
+mwh,Mouk-Aria,I,L
+mwi,Labo,I,L
+mwk,Kita Maninkakan,I,L
+mwl,Mirandese,I,L
+mwm,Sar,I,L
+mwn,Nyamwanga,I,L
+mwo,Central Maewo,I,L
+mwp,Kala Lagaw Ya,I,L
+mwq,Mün Chin,I,L
+mwr,Marwari,M,L
+mws,Mwimbi-Muthambi,I,L
+mwt,Moken,I,L
+mwu,Mittu,I,E
+mwv,Mentawai,I,L
+mww,Hmong Daw,I,L
+mwz,Moingi,I,L
+mxa,Northwest Oaxaca Mixtec,I,L
+mxb,Tezoatlán Mixtec,I,L
+mxc,Manyika,I,L
+mxd,Modang,I,L
+mxe,Mele-Fila,I,L
+mxf,Malgbe,I,L
+mxg,Mbangala,I,L
+mxh,Mvuba,I,L
+mxi,Mozarabic,I,H
+mxj,Miju-Mishmi,I,L
+mxk,Monumbo,I,L
+mxl,Maxi Gbe,I,L
+mxm,Meramera,I,L
+mxn,Moi (Indonesia),I,L
+mxo,Mbowe,I,L
+mxp,Tlahuitoltepec Mixe,I,L
+mxq,Juquila Mixe,I,L
+mxr,Murik (Malaysia),I,L
+mxs,Huitepec Mixtec,I,L
+mxt,Jamiltepec Mixtec,I,L
+mxu,Mada (Cameroon),I,L
+mxv,Metlatónoc Mixtec,I,L
+mxw,Namo,I,L
+mxx,Mahou,I,L
+mxy,Southeastern Nochixtlán Mixtec,I,L
+mxz,Central Masela,I,L
+mya,Burmese,I,L
+myb,Mbay,I,L
+myc,Mayeka,I,L
+mye,Myene,I,L
+myf,Bambassi,I,L
+myg,Manta,I,L
+myh,Makah,I,L
+myj,Mangayat,I,L
+myk,Mamara Senoufo,I,L
+myl,Moma,I,L
+mym,Me'en,I,L
+myo,Anfillo,I,L
+myp,Pirahã,I,L
+myr,Muniche,I,L
+mys,Mesmes,I,E
+myu,Mundurukú,I,L
+myv,Erzya,I,L
+myw,Muyuw,I,L
+myx,Masaaba,I,L
+myy,Macuna,I,L
+myz,Classical Mandaic,I,H
+mza,Santa María Zacatepec Mixtec,I,L
+mzb,Tumzabt,I,L
+mzc,Madagascar Sign Language,I,L
+mzd,Malimba,I,L
+mze,Morawa,I,L
+mzg,Monastic Sign Language,I,L
+mzh,Wichí Lhamtés Güisnay,I,L
+mzi,Ixcatlán Mazatec,I,L
+mzj,Manya,I,L
+mzk,Nigeria Mambila,I,L
+mzl,Mazatlán Mixe,I,L
+mzm,Mumuye,I,L
+mzn,Mazanderani,I,L
+mzo,Matipuhy,I,E
+mzp,Movima,I,L
+mzq,Mori Atas,I,L
+mzr,Marúbo,I,L
+mzs,Macanese,I,L
+mzt,Mintil,I,L
+mzu,Inapang,I,L
+mzv,Manza,I,L
+mzw,Deg,I,L
+mzx,Mawayana,I,L
+mzy,Mozambican Sign Language,I,L
+mzz,Maiadomu,I,L
+naa,Namla,I,L
+nab,Southern Nambikuára,I,L
+nac,Narak,I,L
+nae,Naka'ela,I,E
+naf,Nabak,I,L
+nag,Naga Pidgin,I,L
+naj,Nalu,I,L
+nak,Nakanai,I,L
+nal,Nalik,I,L
+nam,Ngan'gityemerri,I,L
+nan,Min Nan Chinese,I,L
+nao,Naaba,I,L
+nap,Neapolitan,I,L
+naq,Khoekhoe,I,L
+nar,Iguta,I,L
+nas,Naasioi,I,L
+nat,Ca̱hungwa̱rya̱,I,L
+nau,Nauru,I,L
+nav,Navajo,I,L
+naw,Nawuri,I,L
+nax,Nakwi,I,L
+nay,Ngarrindjeri,I,E
+naz,Coatepec Nahuatl,I,L
+nba,Nyemba,I,L
+nbb,Ndoe,I,L
+nbc,Chang Naga,I,L
+nbd,Ngbinda,I,L
+nbe,Konyak Naga,I,L
+nbg,Nagarchal,I,L
+nbh,Ngamo,I,L
+nbi,Mao Naga,I,L
+nbj,Ngarinyman,I,L
+nbk,Nake,I,L
+nbl,South Ndebele,I,L
+nbm,Ngbaka Ma'bo,I,L
+nbn,Kuri,I,L
+nbo,Nkukoli,I,L
+nbp,Nnam,I,L
+nbq,Nggem,I,L
+nbr,Numana,I,L
+nbs,Namibian Sign Language,I,L
+nbt,Na,I,L
+nbu,Rongmei Naga,I,L
+nbv,Ngamambo,I,L
+nbw,Southern Ngbandi,I,L
+nby,Ningera,I,L
+nca,Iyo,I,L
+ncb,Central Nicobarese,I,L
+ncc,Ponam,I,L
+ncd,Nachering,I,L
+nce,Yale,I,L
+ncf,Notsi,I,L
+ncg,Nisga'a,I,L
+nch,Central Huasteca Nahuatl,I,L
+nci,Classical Nahuatl,I,H
+ncj,Northern Puebla Nahuatl,I,L
+nck,Na-kara,I,L
+ncl,Michoacán Nahuatl,I,L
+ncm,Nambo,I,L
+ncn,Nauna,I,L
+nco,Sibe,I,L
+ncq,Northern Katang,I,L
+ncr,Ncane,I,L
+ncs,Nicaraguan Sign Language,I,L
+nct,Chothe Naga,I,L
+ncu,Chumburung,I,L
+ncx,Central Puebla Nahuatl,I,L
+ncz,Natchez,I,E
+nda,Ndasa,I,L
+ndb,Kenswei Nsei,I,L
+ndc,Ndau,I,L
+ndd,Nde-Nsele-Nta,I,L
+nde,North Ndebele,I,L
+ndf,Nadruvian,I,H
+ndg,Ndengereko,I,L
+ndh,Ndali,I,L
+ndi,Samba Leko,I,L
+ndj,Ndamba,I,L
+ndk,Ndaka,I,L
+ndl,Ndolo,I,L
+ndm,Ndam,I,L
+ndn,Ngundi,I,L
+ndo,Ndonga,I,L
+ndp,Ndo,I,L
+ndq,Ndombe,I,L
+ndr,Ndoola,I,L
+nds,Low German,I,L
+ndt,Ndunga,I,L
+ndu,Dugun,I,L
+ndv,Ndut,I,L
+ndw,Ndobo,I,L
+ndx,Nduga,I,L
+ndy,Lutos,I,L
+ndz,Ndogo,I,L
+nea,Eastern Ngad'a,I,L
+neb,Toura (Côte d'Ivoire),I,L
+nec,Nedebang,I,L
+ned,Nde-Gbite,I,L
+nee,Nêlêmwa-Nixumwak,I,L
+nef,Nefamese,I,L
+neg,Negidal,I,L
+neh,Nyenkha,I,L
+nei,Neo-Hittite,I,A
+nej,Neko,I,L
+nek,Neku,I,L
+nem,Nemi,I,L
+nen,Nengone,I,L
+neo,Ná-Meo,I,L
+nep,Nepali (macrolanguage),M,L
+neq,North Central Mixe,I,L
+ner,Yahadian,I,L
+nes,Bhoti Kinnauri,I,L
+net,Nete,I,L
+neu,Neo,I,C
+nev,Nyaheun,I,L
+new,Newari,I,L
+nex,Neme,I,L
+ney,Neyo,I,L
+nez,Nez Perce,I,L
+nfa,Dhao,I,L
+nfd,Ahwai,I,L
+nfl,Ayiwo,I,L
+nfr,Nafaanra,I,L
+nfu,Mfumte,I,L
+nga,Ngbaka,I,L
+ngb,Northern Ngbandi,I,L
+ngc,Ngombe (Democratic Republic of Congo),I,L
+ngd,Ngando (Central African Republic),I,L
+nge,Ngemba,I,L
+ngg,Ngbaka Manza,I,L
+ngh,Nǁng,I,L
+ngi,Ngizim,I,L
+ngj,Ngie,I,L
+ngk,Dalabon,I,L
+ngl,Lomwe,I,L
+ngm,Ngatik Men's Creole,I,L
+ngn,Ngwo,I,L
+ngp,Ngulu,I,L
+ngq,Ngurimi,I,L
+ngr,Engdewu,I,L
+ngs,Gvoko,I,L
+ngt,Kriang,I,L
+ngu,Guerrero Nahuatl,I,L
+ngv,Nagumi,I,E
+ngw,Ngwaba,I,L
+ngx,Nggwahyi,I,L
+ngy,Tibea,I,L
+ngz,Ngungwel,I,L
+nha,Nhanda,I,L
+nhb,Beng,I,L
+nhc,Tabasco Nahuatl,I,E
+nhd,Chiripá,I,L
+nhe,Eastern Huasteca Nahuatl,I,L
+nhf,Nhuwala,I,L
+nhg,Tetelcingo Nahuatl,I,L
+nhh,Nahari,I,L
+nhi,Zacatlán-Ahuacatlán-Tepetzintla Nahuatl,I,L
+nhk,Isthmus-Cosoleacaque Nahuatl,I,L
+nhm,Morelos Nahuatl,I,L
+nhn,Central Nahuatl,I,L
+nho,Takuu,I,L
+nhp,Isthmus-Pajapan Nahuatl,I,L
+nhq,Huaxcaleca Nahuatl,I,L
+nhr,Naro,I,L
+nht,Ometepec Nahuatl,I,L
+nhu,Noone,I,L
+nhv,Temascaltepec Nahuatl,I,L
+nhw,Western Huasteca Nahuatl,I,L
+nhx,Isthmus-Mecayapan Nahuatl,I,L
+nhy,Northern Oaxaca Nahuatl,I,L
+nhz,Santa María La Alta Nahuatl,I,L
+nia,Nias,I,L
+nib,Nakame,I,L
+nid,Ngandi,I,E
+nie,Niellim,I,L
+nif,Nek,I,L
+nig,Ngalakgan,I,E
+nih,Nyiha (Tanzania),I,L
+nii,Nii,I,L
+nij,Ngaju,I,L
+nik,Southern Nicobarese,I,L
+nil,Nila,I,L
+nim,Nilamba,I,L
+nin,Ninzo,I,L
+nio,Nganasan,I,L
+niq,Nandi,I,L
+nir,Nimboran,I,L
+nis,Nimi,I,L
+nit,Southeastern Kolami,I,L
+niu,Niuean,I,L
+niv,Gilyak,I,L
+niw,Nimo,I,L
+nix,Hema,I,L
+niy,Ngiti,I,L
+niz,Ningil,I,L
+nja,Nzanyi,I,L
+njb,Nocte Naga,I,L
+njd,Ndonde Hamba,I,L
+njh,Lotha Naga,I,L
+nji,Gudanji,I,L
+njj,Njen,I,L
+njl,Njalgulgule,I,L
+njm,Angami Naga,I,L
+njn,Liangmai Naga,I,L
+njo,Ao Naga,I,L
+njr,Njerep,I,L
+njs,Nisa,I,L
+njt,Ndyuka-Trio Pidgin,I,L
+nju,Ngadjunmaya,I,L
+njx,Kunyi,I,L
+njy,Njyem,I,L
+njz,Nyishi,I,L
+nka,Nkoya,I,L
+nkb,Khoibu Naga,I,L
+nkc,Nkongho,I,L
+nkd,Koireng,I,L
+nke,Duke,I,L
+nkf,Inpui Naga,I,L
+nkg,Nekgini,I,L
+nkh,Khezha Naga,I,L
+nki,Thangal Naga,I,L
+nkj,Nakai,I,L
+nkk,Nokuku,I,L
+nkm,Namat,I,L
+nkn,Nkangala,I,L
+nko,Nkonya,I,L
+nkp,Niuatoputapu,I,E
+nkq,Nkami,I,L
+nkr,Nukuoro,I,L
+nks,North Asmat,I,L
+nkt,Nyika (Tanzania),I,L
+nku,Bouna Kulango,I,L
+nkv,Nyika (Malawi and Zambia),I,L
+nkw,Nkutu,I,L
+nkx,Nkoroo,I,L
+nkz,Nkari,I,L
+nla,Ngombale,I,L
+nlc,Nalca,I,L
+nld,Dutch,I,L
+nle,East Nyala,I,L
+nlg,Gela,I,L
+nli,Grangali,I,L
+nlj,Nyali,I,L
+nlk,Ninia Yali,I,L
+nll,Nihali,I,L
+nlm,Mankiyali,I,L
+nlo,Ngul,I,L
+nlq,Lao Naga,I,L
+nlu,Nchumbulu,I,L
+nlv,Orizaba Nahuatl,I,L
+nlw,Walangama,I,E
+nlx,Nahali,I,L
+nly,Nyamal,I,L
+nlz,Nalögo,I,L
+nma,Maram Naga,I,L
+nmb,Big Nambas,I,L
+nmc,Ngam,I,L
+nmd,Ndumu,I,L
+nme,Mzieme Naga,I,L
+nmf,Tangkhul Naga (India),I,L
+nmg,Kwasio,I,L
+nmh,Monsang Naga,I,L
+nmi,Nyam,I,L
+nmj,Ngombe (Central African Republic),I,L
+nmk,Namakura,I,L
+nml,Ndemli,I,L
+nmm,Manangba,I,L
+nmn,ǃXóõ,I,L
+nmo,Moyon Naga,I,L
+nmp,Nimanbur,I,E
+nmq,Nambya,I,L
+nmr,Nimbari,I,E
+nms,Letemboi,I,L
+nmt,Namonuito,I,L
+nmu,Northeast Maidu,I,L
+nmv,Ngamini,I,E
+nmw,Nimoa,I,L
+nmx,Nama (Papua New Guinea),I,L
+nmy,Namuyi,I,L
+nmz,Nawdm,I,L
+nna,Nyangumarta,I,L
+nnb,Nande,I,L
+nnc,Nancere,I,L
+nnd,West Ambae,I,L
+nne,Ngandyera,I,L
+nnf,Ngaing,I,L
+nng,Maring Naga,I,L
+nnh,Ngiemboon,I,L
+nni,North Nuaulu,I,L
+nnj,Nyangatom,I,L
+nnk,Nankina,I,L
+nnl,Northern Rengma Naga,I,L
+nnm,Namia,I,L
+nnn,Ngete,I,L
+nno,Norwegian Nynorsk,I,L
+nnp,Wancho Naga,I,L
+nnq,Ngindo,I,L
+nnr,Narungga,I,E
+nnt,Nanticoke,I,E
+nnu,Dwang,I,L
+nnv,Nugunu (Australia),I,E
+nnw,Southern Nuni,I,L
+nny,Nyangga,I,E
+nnz,Nda'nda',I,L
+noa,Woun Meu,I,L
+nob,Norwegian Bokmål,I,L
+noc,Nuk,I,L
+nod,Northern Thai,I,L
+noe,Nimadi,I,L
+nof,Nomane,I,L
+nog,Nogai,I,L
+noh,Nomu,I,L
+noi,Noiri,I,L
+noj,Nonuya,I,L
+nok,Nooksack,I,E
+nol,Nomlaki,I,E
+nom,Nocamán,I,E
+non,Old Norse,I,H
+nop,Numanggang,I,L
+noq,Ngongo,I,L
+nor,Norwegian,M,L
+nos,Eastern Nisu,I,L
+not,Nomatsiguenga,I,L
+nou,Ewage-Notu,I,L
+nov,Novial,I,C
+now,Nyambo,I,L
+noy,Noy,I,L
+noz,Nayi,I,L
+npa,Nar Phu,I,L
+npb,Nupbikha,I,L
+npg,Ponyo-Gongwang Naga,I,L
+nph,Phom Naga,I,L
+npi,Nepali (individual language),I,L
+npl,Southeastern Puebla Nahuatl,I,L
+npn,Mondropolon,I,L
+npo,Pochuri Naga,I,L
+nps,Nipsan,I,L
+npu,Puimei Naga,I,L
+npx,Noipx,I,L
+npy,Napu,I,L
+nqg,Southern Nago,I,L
+nqk,Kura Ede Nago,I,L
+nql,Ngendelengo,I,L
+nqm,Ndom,I,L
+nqn,Nen,I,L
+nqo,N'Ko,I,L
+nqq,Kyan-Karyaw Naga,I,L
+nqt,Nteng,I,L
+nqy,Akyaung Ari Naga,I,L
+nra,Ngom,I,L
+nrb,Nara,I,L
+nrc,Noric,I,A
+nre,Southern Rengma Naga,I,L
+nrf,Jèrriais,I,L
+nrg,Narango,I,L
+nri,Chokri Naga,I,L
+nrk,Ngarla,I,L
+nrl,Ngarluma,I,L
+nrm,Narom,I,L
+nrn,Norn,I,E
+nrp,North Picene,I,A
+nrr,Norra,I,E
+nrt,Northern Kalapuya,I,E
+nru,Narua,I,L
+nrx,Ngurmbur,I,E
+nrz,Lala,I,L
+nsa,Sangtam Naga,I,L
+nsb,Lower Nossob,I,E
+nsc,Nshi,I,L
+nsd,Southern Nisu,I,L
+nse,Nsenga,I,L
+nsf,Northwestern Nisu,I,L
+nsg,Ngasa,I,L
+nsh,Ngoshie,I,L
+nsi,Nigerian Sign Language,I,L
+nsk,Naskapi,I,L
+nsl,Norwegian Sign Language,I,L
+nsm,Sumi Naga,I,L
+nsn,Nehan,I,L
+nso,Pedi,I,L
+nsp,Nepalese Sign Language,I,L
+nsq,Northern Sierra Miwok,I,L
+nsr,Maritime Sign Language,I,L
+nss,Nali,I,L
+nst,Tase Naga,I,L
+nsu,Sierra Negra Nahuatl,I,L
+nsv,Southwestern Nisu,I,L
+nsw,Navut,I,L
+nsx,Nsongo,I,L
+nsy,Nasal,I,L
+nsz,Nisenan,I,L
+ntd,Northern Tidung,I,L
+nte,Nathembo,I,L
+ntg,Ngantangarra,I,E
+nti,Natioro,I,L
+ntj,Ngaanyatjarra,I,L
+ntk,Ikoma-Nata-Isenye,I,L
+ntm,Nateni,I,L
+nto,Ntomba,I,L
+ntp,Northern Tepehuan,I,L
+ntr,Delo,I,L
+ntu,Natügu,I,L
+ntw,Nottoway,I,E
+ntx,Tangkhul Naga (Myanmar),I,L
+nty,Mantsi,I,L
+ntz,Natanzi,I,L
+nua,Yuanga,I,L
+nuc,Nukuini,I,E
+nud,Ngala,I,L
+nue,Ngundu,I,L
+nuf,Nusu,I,L
+nug,Nungali,I,E
+nuh,Ndunda,I,L
+nui,Ngumbi,I,L
+nuj,Nyole,I,L
+nuk,Nuu-chah-nulth,I,L
+nul,Nusa Laut,I,E
+num,Niuafo'ou,I,L
+nun,Anong,I,L
+nuo,Nguôn,I,L
+nup,Nupe-Nupe-Tako,I,L
+nuq,Nukumanu,I,L
+nur,Nukuria,I,L
+nus,Nuer,I,L
+nut,Nung (Viet Nam),I,L
+nuu,Ngbundu,I,L
+nuv,Northern Nuni,I,L
+nuw,Nguluwan,I,L
+nux,Mehek,I,L
+nuy,Nunggubuyu,I,L
+nuz,Tlamacazapa Nahuatl,I,L
+nvh,Nasarian,I,L
+nvm,Namiae,I,L
+nvo,Nyokon,I,L
+nwa,Nawathinehena,I,E
+nwb,Nyabwa,I,L
+nwc,Classical Newari,I,H
+nwe,Ngwe,I,L
+nwg,Ngayawung,I,E
+nwi,Southwest Tanna,I,L
+nwm,Nyamusa-Molo,I,L
+nwo,Nauo,I,E
+nwr,Nawaru,I,L
+nww,Ndwewe,I,L
+nwx,Middle Newar,I,H
+nwy,Nottoway-Meherrin,I,E
+nxa,Nauete,I,L
+nxd,Ngando (Democratic Republic of Congo),I,L
+nxe,Nage,I,L
+nxg,Ngad'a,I,L
+nxi,Nindi,I,L
+nxk,Koki Naga,I,L
+nxl,South Nuaulu,I,L
+nxm,Numidian,I,A
+nxn,Ngawun,I,E
+nxo,Ndambomo,I,L
+nxq,Naxi,I,L
+nxr,Ninggerum,I,L
+nxx,Nafri,I,L
+nya,Nyanja,I,L
+nyb,Nyangbo,I,L
+nyc,Nyanga-li,I,L
+nyd,Nyore,I,L
+nye,Nyengo,I,L
+nyf,Giryama,I,L
+nyg,Nyindu,I,L
+nyh,Nyikina,I,L
+nyi,Ama (Sudan),I,L
+nyj,Nyanga,I,L
+nyk,Nyaneka,I,L
+nyl,Nyeu,I,L
+nym,Nyamwezi,I,L
+nyn,Nyankole,I,L
+nyo,Nyoro,I,L
+nyp,Nyang'i,I,E
+nyq,Nayini,I,L
+nyr,Nyiha (Malawi),I,L
+nys,Nyungar,I,L
+nyt,Nyawaygi,I,E
+nyu,Nyungwe,I,L
+nyv,Nyulnyul,I,E
+nyw,Nyaw,I,L
+nyx,Nganyaywana,I,E
+nyy,Nyakyusa-Ngonde,I,L
+nza,Tigon Mbembe,I,L
+nzb,Njebi,I,L
+nzd,Nzadi,I,L
+nzi,Nzima,I,L
+nzk,Nzakara,I,L
+nzm,Zeme Naga,I,L
+nzs,New Zealand Sign Language,I,L
+nzu,Teke-Nzikou,I,L
+nzy,Nzakambay,I,L
+nzz,Nanga Dama Dogon,I,L
+oaa,Orok,I,L
+oac,Oroch,I,L
+oar,Old Aramaic (up to 700 BCE),I,A
+oav,Old Avar,I,H
+obi,Obispeño,I,E
+obk,Southern Bontok,I,L
+obl,Oblo,I,L
+obm,Moabite,I,A
+obo,Obo Manobo,I,L
+obr,Old Burmese,I,H
+obt,Old Breton,I,H
+obu,Obulom,I,L
+oca,Ocaina,I,L
+och,Old Chinese,I,A
+oci,Occitan (post 1500),I,L
+ocm,Old Cham,I,H
+oco,Old Cornish,I,H
+ocu,Atzingo Matlatzinca,I,L
+oda,Odut,I,L
+odk,Od,I,L
+odt,Old Dutch,I,H
+odu,Odual,I,L
+ofo,Ofo,I,E
+ofs,Old Frisian,I,H
+ofu,Efutop,I,L
+ogb,Ogbia,I,L
+ogc,Ogbah,I,L
+oge,Old Georgian,I,H
+ogg,Ogbogolo,I,L
+ogo,Khana,I,L
+ogu,Ogbronuagum,I,L
+oht,Old Hittite,I,A
+ohu,Old Hungarian,I,H
+oia,Oirata,I,L
+oie,Okolie,I,L
+oin,Inebu One,I,L
+ojb,Northwestern Ojibwa,I,L
+ojc,Central Ojibwa,I,L
+ojg,Eastern Ojibwa,I,L
+oji,Ojibwa,M,L
+ojp,Old Japanese,I,H
+ojs,Severn Ojibwa,I,L
+ojv,Ontong Java,I,L
+ojw,Western Ojibwa,I,L
+oka,Okanagan,I,L
+okb,Okobo,I,L
+okc,Kobo,I,L
+okd,Okodia,I,L
+oke,Okpe (Southwestern Edo),I,L
+okg,Koko Babangk,I,E
+okh,Koresh-e Rostam,I,L
+oki,Okiek,I,L
+okj,Oko-Juwoi,I,E
+okk,Kwamtim One,I,L
+okl,Old Kentish Sign Language,I,E
+okm,Middle Korean (10th-16th cent.),I,H
+okn,Oki-No-Erabu,I,L
+oko,Old Korean (3rd-9th cent.),I,H
+okr,Kirike,I,L
+oks,Oko-Eni-Osayen,I,L
+oku,Oku,I,L
+okv,Orokaiva,I,L
+okx,Okpe (Northwestern Edo),I,L
+okz,Old Khmer,I,H
+ola,Walungge,I,L
+old,Mochi,I,L
+ole,Olekha,I,L
+olk,Olkol,I,E
+olm,Oloma,I,L
+olo,Livvi,I,L
+olr,Olrat,I,L
+olt,Old Lithuanian,I,H
+olu,Kuvale,I,L
+oma,Omaha-Ponca,I,L
+omb,East Ambae,I,L
+omc,Mochica,I,E
+omg,Omagua,I,L
+omi,Omi,I,L
+omk,Omok,I,E
+oml,Ombo,I,L
+omn,Minoan,I,A
+omo,Utarmbung,I,L
+omp,Old Manipuri,I,H
+omr,Old Marathi,I,H
+omt,Omotik,I,L
+omu,Omurano,I,E
+omw,South Tairora,I,L
+omx,Old Mon,I,H
+omy,Old Malay,I,H
+ona,Ona,I,L
+onb,Lingao,I,L
+one,Oneida,I,L
+ong,Olo,I,L
+oni,Onin,I,L
+onj,Onjob,I,L
+onk,Kabore One,I,L
+onn,Onobasulu,I,L
+ono,Onondaga,I,L
+onp,Sartang,I,L
+onr,Northern One,I,L
+ons,Ono,I,L
+ont,Ontenu,I,L
+onu,Unua,I,L
+onw,Old Nubian,I,H
+onx,Onin Based Pidgin,I,L
+ood,Tohono O'odham,I,L
+oog,Ong,I,L
+oon,Önge,I,L
+oor,Oorlams,I,L
+oos,Old Ossetic,I,A
+opa,Okpamheri,I,L
+opk,Kopkaka,I,L
+opm,Oksapmin,I,L
+opo,Opao,I,L
+opt,Opata,I,E
+opy,Ofayé,I,L
+ora,Oroha,I,L
+orc,Orma,I,L
+ore,Orejón,I,L
+org,Oring,I,L
+orh,Oroqen,I,L
+ori,Oriya (macrolanguage),M,L
+orm,Oromo,M,L
+orn,Orang Kanaq,I,L
+oro,Orokolo,I,L
+orr,Oruma,I,L
+ors,Orang Seletar,I,L
+ort,Adivasi Oriya,I,L
+oru,Ormuri,I,L
+orv,Old Russian,I,H
+orw,Oro Win,I,L
+orx,Oro,I,L
+ory,Odia,I,L
+orz,Ormu,I,L
+osa,Osage,I,L
+osc,Oscan,I,A
+osi,Osing,I,L
+osn,Old Sundanese,I,H
+oso,Ososo,I,L
+osp,Old Spanish,I,H
+oss,Ossetian,I,L
+ost,Osatu,I,L
+osu,Southern One,I,L
+osx,Old Saxon,I,H
+ota,Ottoman Turkish (1500-1928),I,H
+otb,Old Tibetan,I,H
+otd,Ot Danum,I,L
+ote,Mezquital Otomi,I,L
+oti,Oti,I,E
+otk,Old Turkish,I,H
+otl,Tilapa Otomi,I,L
+otm,Eastern Highland Otomi,I,L
+otn,Tenango Otomi,I,L
+otq,Querétaro Otomi,I,L
+otr,Otoro,I,L
+ots,Estado de México Otomi,I,L
+ott,Temoaya Otomi,I,L
+otu,Otuke,I,E
+otw,Ottawa,I,L
+otx,Texcatepec Otomi,I,L
+oty,Old Tamil,I,A
+otz,Ixtenco Otomi,I,L
+oua,Tagargrent,I,L
+oub,Glio-Oubi,I,L
+oue,Oune,I,L
+oui,Old Uighur,I,H
+oum,Ouma,I,E
+ovd,Elfdalian,I,L
+owi,Owiniga,I,L
+owl,Old Welsh,I,H
+oyb,Oy,I,L
+oyd,Oyda,I,L
+oym,Wayampi,I,L
+oyy,Oya'oya,I,L
+ozm,Koonzime,I,L
+pab,Parecís,I,L
+pac,Pacoh,I,L
+pad,Paumarí,I,L
+pae,Pagibete,I,L
+paf,Paranawát,I,E
+pag,Pangasinan,I,L
+pah,Tenharim,I,L
+pai,Pe,I,L
+pak,Parakanã,I,L
+pal,Pahlavi,I,A
+pam,Pampanga,I,L
+pan,Panjabi,I,L
+pao,Northern Paiute,I,L
+pap,Papiamento,I,L
+paq,Parya,I,L
+par,Panamint,I,L
+pas,Papasena,I,L
+pau,Palauan,I,L
+pav,Pakaásnovos,I,L
+paw,Pawnee,I,L
+pax,Pankararé,I,E
+pay,Pech,I,L
+paz,Pankararú,I,E
+pbb,Páez,I,L
+pbc,Patamona,I,L
+pbe,Mezontla Popoloca,I,L
+pbf,Coyotepec Popoloca,I,L
+pbg,Paraujano,I,E
+pbh,E'ñapa Woromaipu,I,L
+pbi,Parkwa,I,L
+pbl,Mak (Nigeria),I,L
+pbm,Puebla Mazatec,I,L
+pbn,Kpasam,I,L
+pbo,Papel,I,L
+pbp,Badyara,I,L
+pbr,Pangwa,I,L
+pbs,Central Pame,I,L
+pbt,Southern Pashto,I,L
+pbu,Northern Pashto,I,L
+pbv,Pnar,I,L
+pby,Pyu (Papua New Guinea),I,L
+pca,Santa Inés Ahuatempan Popoloca,I,L
+pcb,Pear,I,L
+pcc,Bouyei,I,L
+pcd,Picard,I,L
+pce,Ruching Palaung,I,L
+pcf,Paliyan,I,L
+pcg,Paniya,I,L
+pch,Pardhan,I,L
+pci,Duruwa,I,L
+pcj,Parenga,I,L
+pck,Paite Chin,I,L
+pcl,Pardhi,I,L
+pcm,Nigerian Pidgin,I,L
+pcn,Piti,I,L
+pcp,Pacahuara,I,L
+pcw,Pyapun,I,L
+pda,Anam,I,L
+pdc,Pennsylvania German,I,L
+pdi,Pa Di,I,L
+pdn,Podena,I,L
+pdo,Padoe,I,L
+pdt,Plautdietsch,I,L
+pdu,Kayan,I,L
+pea,Peranakan Indonesian,I,L
+peb,Eastern Pomo,I,E
+ped,Mala (Papua New Guinea),I,L
+pee,Taje,I,L
+pef,Northeastern Pomo,I,E
+peg,Pengo,I,L
+peh,Bonan,I,L
+pei,Chichimeca-Jonaz,I,L
+pej,Northern Pomo,I,E
+pek,Penchal,I,L
+pel,Pekal,I,L
+pem,Phende,I,L
+peo,Old Persian (ca. 600-400 B.C.),I,H
+pep,Kunja,I,L
+peq,Southern Pomo,I,L
+pes,Iranian Persian,I,L
+pev,Pémono,I,L
+pex,Petats,I,L
+pey,Petjo,I,L
+pez,Eastern Penan,I,L
+pfa,Pááfang,I,L
+pfe,Pere,I,L
+pfl,Pfaelzisch,I,L
+pga,Sudanese Creole Arabic,I,L
+pgd,Gāndhārī,I,H
+pgg,Pangwali,I,L
+pgi,Pagi,I,L
+pgk,Rerep,I,L
+pgl,Primitive Irish,I,A
+pgn,Paelignian,I,A
+pgs,Pangseng,I,L
+pgu,Pagu,I,L
+pgz,Papua New Guinean Sign Language,I,L
+pha,Pa-Hng,I,L
+phd,Phudagi,I,L
+phg,Phuong,I,L
+phh,Phukha,I,L
+phj,Pahari,I,L
+phk,Phake,I,L
+phl,Phalura,I,L
+phm,Phimbi,I,L
+phn,Phoenician,I,A
+pho,Phunoi,I,L
+phq,Phana',I,L
+phr,Pahari-Potwari,I,L
+pht,Phu Thai,I,L
+phu,Phuan,I,L
+phv,Pahlavani,I,L
+phw,Phangduwali,I,L
+pia,Pima Bajo,I,L
+pib,Yine,I,L
+pic,Pinji,I,L
+pid,Piaroa,I,L
+pie,Piro,I,E
+pif,Pingelapese,I,L
+pig,Pisabo,I,L
+pih,Pitcairn-Norfolk,I,L
+pij,Pijao,I,E
+pil,Yom,I,L
+pim,Powhatan,I,E
+pin,Piame,I,L
+pio,Piapoco,I,L
+pip,Pero,I,L
+pir,Piratapuyo,I,L
+pis,Pijin,I,L
+pit,Pitta Pitta,I,E
+piu,Pintupi-Luritja,I,L
+piv,Pileni,I,L
+piw,Pimbwe,I,L
+pix,Piu,I,L
+piy,Piya-Kwonci,I,L
+piz,Pije,I,L
+pjt,Pitjantjatjara,I,L
+pka,Ardhamāgadhī Prākrit,I,H
+pkb,Pokomo,I,L
+pkc,Paekche,I,A
+pkg,Pak-Tong,I,L
+pkh,Pankhu,I,L
+pkn,Pakanha,I,L
+pko,Pökoot,I,L
+pkp,Pukapuka,I,L
+pkr,Attapady Kurumba,I,L
+pks,Pakistan Sign Language,I,L
+pkt,Maleng,I,L
+pku,Paku,I,L
+pla,Miani,I,L
+plb,Polonombauk,I,L
+plc,Central Palawano,I,L
+pld,Polari,I,L
+ple,Palu'e,I,L
+plg,Pilagá,I,L
+plh,Paulohi,I,L
+pli,Pali,I,A
+plj,Polci,I,L
+plk,Kohistani Shina,I,L
+pll,Shwe Palaung,I,L
+pln,Palenquero,I,L
+plo,Oluta Popoluca,I,L
+plq,Palaic,I,A
+plr,Palaka Senoufo,I,L
+pls,San Marcos Tlacoyalco Popoloca,I,L
+plt,Plateau Malagasy,I,L
+plu,Palikúr,I,L
+plv,Southwest Palawano,I,L
+plw,Brooke's Point Palawano,I,L
+ply,Bolyu,I,L
+plz,Paluan,I,L
+pma,Paama,I,L
+pmb,Pambia,I,L
+pmd,Pallanganmiddang,I,E
+pme,Pwaamei,I,L
+pmf,Pamona,I,L
+pmh,Māhārāṣṭri Prākrit,I,H
+pmi,Northern Pumi,I,L
+pmj,Southern Pumi,I,L
+pmk,Pamlico,I,E
+pml,Lingua Franca,I,E
+pmm,Pomo,I,L
+pmn,Pam,I,L
+pmo,Pom,I,L
+pmq,Northern Pame,I,L
+pmr,Paynamar,I,L
+pms,Piemontese,I,L
+pmt,Tuamotuan,I,L
+pmw,Plains Miwok,I,L
+pmx,Poumei Naga,I,L
+pmy,Papuan Malay,I,L
+pmz,Southern Pame,I,E
+pna,Punan Bah-Biau,I,L
+pnb,Western Panjabi,I,L
+pnc,Pannei,I,L
+pnd,Mpinda,I,L
+pne,Western Penan,I,L
+png,Pangu,I,L
+pnh,Penrhyn,I,L
+pni,Aoheng,I,L
+pnj,Pinjarup,I,E
+pnk,Paunaka,I,L
+pnl,Paleni,I,L
+pnm,Punan Batu 1,I,L
+pnn,Pinai-Hagahai,I,L
+pno,Panobo,I,E
+pnp,Pancana,I,L
+pnq,Pana (Burkina Faso),I,L
+pnr,Panim,I,L
+pns,Ponosakan,I,L
+pnt,Pontic,I,L
+pnu,Jiongnai Bunu,I,L
+pnv,Pinigura,I,L
+pnw,Banyjima,I,L
+pnx,Phong-Kniang,I,L
+pny,Pinyin,I,L
+pnz,Pana (Central African Republic),I,L
+poc,Poqomam,I,L
+poe,San Juan Atzingo Popoloca,I,L
+pof,Poke,I,L
+pog,Potiguára,I,E
+poh,Poqomchi',I,L
+poi,Highland Popoluca,I,L
+pok,Pokangá,I,L
+pol,Polish,I,L
+pom,Southeastern Pomo,I,L
+pon,Pohnpeian,I,L
+poo,Central Pomo,I,E
+pop,Pwapwâ,I,L
+poq,Texistepec Popoluca,I,L
+por,Portuguese,I,L
+pos,Sayula Popoluca,I,L
+pot,Potawatomi,I,L
+pov,Upper Guinea Crioulo,I,L
+pow,San Felipe Otlaltepec Popoloca,I,L
+pox,Polabian,I,E
+poy,Pogolo,I,L
+ppe,Papi,I,L
+ppi,Paipai,I,L
+ppk,Uma,I,L
+ppl,Pipil,I,L
+ppm,Papuma,I,L
+ppn,Papapana,I,L
+ppo,Folopa,I,L
+ppp,Pelende,I,L
+ppq,Pei,I,L
+pps,San Luís Temalacayuca Popoloca,I,L
+ppt,Pare,I,L
+ppu,Papora,I,E
+pqa,Pa'a,I,L
+pqm,Malecite-Passamaquoddy,I,L
+prc,Parachi,I,L
+prd,Parsi-Dari,I,L
+pre,Principense,I,L
+prf,Paranan,I,L
+prg,Prussian,I,L
+prh,Porohanon,I,L
+pri,Paicî,I,L
+prk,Parauk,I,L
+prl,Peruvian Sign Language,I,L
+prm,Kibiri,I,L
+prn,Prasuni,I,L
+pro,Old Provençal (to 1500),I,H
+prp,Parsi,I,L
+prq,Ashéninka Perené,I,L
+prr,Puri,I,E
+prs,Dari,I,L
+prt,Phai,I,L
+pru,Puragi,I,L
+prw,Parawen,I,L
+prx,Purik,I,L
+prz,Providencia Sign Language,I,L
+psa,Asue Awyu,I,L
+psc,Iranian Sign Language,I,L
+psd,Plains Indian Sign Language,I,L
+pse,Central Malay,I,L
+psg,Penang Sign Language,I,L
+psh,Southwest Pashai,I,L
+psi,Southeast Pashai,I,L
+psl,Puerto Rican Sign Language,I,L
+psm,Pauserna,I,E
+psn,Panasuan,I,L
+pso,Polish Sign Language,I,L
+psp,Philippine Sign Language,I,L
+psq,Pasi,I,L
+psr,Portuguese Sign Language,I,L
+pss,Kaulong,I,L
+pst,Central Pashto,I,L
+psu,Sauraseni Prākrit,I,H
+psw,Port Sandwich,I,L
+psy,Piscataway,I,E
+pta,Pai Tavytera,I,L
+pth,Pataxó Hã-Ha-Hãe,I,E
+pti,Pindiini,I,L
+ptn,Patani,I,L
+pto,Zo'é,I,L
+ptp,Patep,I,L
+ptq,Pattapu,I,L
+ptr,Piamatsina,I,L
+ptt,Enrekang,I,L
+ptu,Bambam,I,L
+ptv,Port Vato,I,L
+ptw,Pentlatch,I,E
+pty,Pathiya,I,L
+pua,Western Highland Purepecha,I,L
+pub,Purum,I,L
+puc,Punan Merap,I,L
+pud,Punan Aput,I,L
+pue,Puelche,I,E
+puf,Punan Merah,I,L
+pug,Phuie,I,L
+pui,Puinave,I,L
+puj,Punan Tubu,I,L
+pum,Puma,I,L
+puo,Puoc,I,L
+pup,Pulabu,I,L
+puq,Puquina,I,E
+pur,Puruborá,I,L
+pus,Pushto,M,L
+put,Putoh,I,L
+puu,Punu,I,L
+puw,Puluwatese,I,L
+pux,Puare,I,L
+puy,Purisimeño,I,E
+pwa,Pawaia,I,L
+pwb,Panawa,I,L
+pwg,Gapapaiwa,I,L
+pwi,Patwin,I,E
+pwm,Molbog,I,L
+pwn,Paiwan,I,L
+pwo,Pwo Western Karen,I,L
+pwr,Powari,I,L
+pww,Pwo Northern Karen,I,L
+pxm,Quetzaltepec Mixe,I,L
+pye,Pye Krumen,I,L
+pym,Fyam,I,L
+pyn,Poyanáwa,I,L
+pys,Paraguayan Sign Language,I,L
+pyu,Puyuma,I,L
+pyx,Pyu (Myanmar),I,A
+pyy,Pyen,I,L
+pzh,Pazeh,I,L
+pzn,Jejara Naga,I,L
+qua,Quapaw,I,L
+qub,Huallaga Huánuco Quechua,I,L
+quc,K'iche',I,L
+qud,Calderón Highland Quichua,I,L
+que,Quechua,M,L
+quf,Lambayeque Quechua,I,L
+qug,Chimborazo Highland Quichua,I,L
+quh,South Bolivian Quechua,I,L
+qui,Quileute,I,L
+quk,Chachapoyas Quechua,I,L
+qul,North Bolivian Quechua,I,L
+qum,Sipacapense,I,L
+qun,Quinault,I,E
+qup,Southern Pastaza Quechua,I,L
+quq,Quinqui,I,L
+qur,Yanahuanca Pasco Quechua,I,L
+qus,Santiago del Estero Quichua,I,L
+quv,Sacapulteco,I,L
+quw,Tena Lowland Quichua,I,L
+qux,Yauyos Quechua,I,L
+quy,Ayacucho Quechua,I,L
+quz,Cusco Quechua,I,L
+qva,Ambo-Pasco Quechua,I,L
+qvc,Cajamarca Quechua,I,L
+qve,Eastern Apurímac Quechua,I,L
+qvh,Huamalíes-Dos de Mayo Huánuco Quechua,I,L
+qvi,Imbabura Highland Quichua,I,L
+qvj,Loja Highland Quichua,I,L
+qvl,Cajatambo North Lima Quechua,I,L
+qvm,Margos-Yarowilca-Lauricocha Quechua,I,L
+qvn,North Junín Quechua,I,L
+qvo,Napo Lowland Quechua,I,L
+qvp,Pacaraos Quechua,I,L
+qvs,San Martín Quechua,I,L
+qvw,Huaylla Wanca Quechua,I,L
+qvy,Queyu,I,L
+qvz,Northern Pastaza Quichua,I,L
+qwa,Corongo Ancash Quechua,I,L
+qwc,Classical Quechua,I,H
+qwh,Huaylas Ancash Quechua,I,L
+qwm,Kuman (Russia),I,E
+qws,Sihuas Ancash Quechua,I,L
+qwt,Kwalhioqua-Tlatskanai,I,E
+qxa,Chiquián Ancash Quechua,I,L
+qxc,Chincha Quechua,I,L
+qxh,Panao Huánuco Quechua,I,L
+qxl,Salasaca Highland Quichua,I,L
+qxn,Northern Conchucos Ancash Quechua,I,L
+qxo,Southern Conchucos Ancash Quechua,I,L
+qxp,Puno Quechua,I,L
+qxq,Qashqa'i,I,L
+qxr,Cañar Highland Quichua,I,L
+qxs,Southern Qiang,I,L
+qxt,Santa Ana de Tusi Pasco Quechua,I,L
+qxu,Arequipa-La Unión Quechua,I,L
+qxw,Jauja Wanca Quechua,I,L
+qya,Quenya,I,C
+qyp,Quiripi,I,E
+raa,Dungmali,I,L
+rab,Camling,I,L
+rac,Rasawa,I,L
+rad,Rade,I,L
+raf,Western Meohang,I,L
+rag,Logooli,I,L
+rah,Rabha,I,L
+rai,Ramoaaina,I,L
+raj,Rajasthani,M,L
+rak,Tulu-Bohuai,I,L
+ral,Ralte,I,L
+ram,Canela,I,L
+ran,Riantana,I,L
+rao,Rao,I,L
+rap,Rapanui,I,L
+raq,Saam,I,L
+rar,Rarotongan,I,L
+ras,Tegali,I,L
+rat,Razajerdi,I,L
+rau,Raute,I,L
+rav,Sampang,I,L
+raw,Rawang,I,L
+rax,Rang,I,L
+ray,Rapa,I,L
+raz,Rahambuu,I,L
+rbb,Rumai Palaung,I,L
+rbk,Northern Bontok,I,L
+rbl,Miraya Bikol,I,L
+rbp,Barababaraba,I,E
+rcf,Réunion Creole French,I,L
+rdb,Rudbari,I,L
+rea,Rerau,I,L
+reb,Rembong,I,L
+ree,Rejang Kayan,I,L
+reg,Kara (Tanzania),I,L
+rei,Reli,I,L
+rej,Rejang,I,L
+rel,Rendille,I,L
+rem,Remo,I,E
+ren,Rengao,I,L
+rer,Rer Bare,I,E
+res,Reshe,I,L
+ret,Retta,I,L
+rey,Reyesano,I,L
+rga,Roria,I,L
+rge,Romano-Greek,I,L
+rgk,Rangkas,I,E
+rgn,Romagnol,I,L
+rgr,Resígaro,I,L
+rgs,Southern Roglai,I,L
+rgu,Ringgou,I,L
+rhg,Rohingya,I,L
+rhp,Yahang,I,L
+ria,Riang (India),I,L
+rib,Bribri Sign Language,I,L
+rif,Tarifit,I,L
+ril,Riang Lang,I,L
+rim,Nyaturu,I,L
+rin,Nungu,I,L
+rir,Ribun,I,L
+rit,Ritharrngu,I,L
+riu,Riung,I,L
+rjg,Rajong,I,L
+rji,Raji,I,L
+rjs,Rajbanshi,I,L
+rka,Kraol,I,L
+rkb,Rikbaktsa,I,L
+rkh,Rakahanga-Manihiki,I,L
+rki,Rakhine,I,L
+rkm,Marka,I,L
+rkt,Rangpuri,I,L
+rkw,Arakwal,I,E
+rma,Rama,I,L
+rmb,Rembarrnga,I,L
+rmc,Carpathian Romani,I,L
+rmd,Traveller Danish,I,E
+rme,Angloromani,I,L
+rmf,Kalo Finnish Romani,I,L
+rmg,Traveller Norwegian,I,L
+rmh,Murkim,I,L
+rmi,Lomavren,I,L
+rmk,Romkun,I,L
+rml,Baltic Romani,I,L
+rmm,Roma,I,L
+rmn,Balkan Romani,I,L
+rmo,Sinte Romani,I,L
+rmp,Rempi,I,L
+rmq,Caló,I,L
+rms,Romanian Sign Language,I,L
+rmt,Domari,I,L
+rmu,Tavringer Romani,I,L
+rmv,Romanova,I,C
+rmw,Welsh Romani,I,L
+rmx,Romam,I,L
+rmy,Vlax Romani,I,L
+rmz,Marma,I,L
+rnb,Brunca Sign Language,I,L
+rnd,Ruund,I,L
+rng,Ronga,I,L
+rnl,Ranglong,I,L
+rnn,Roon,I,L
+rnp,Rongpo,I,L
+rnr,Nari Nari,I,E
+rnw,Rungwa,I,L
+rob,Tae',I,L
+roc,Cacgia Roglai,I,L
+rod,Rogo,I,L
+roe,Ronji,I,L
+rof,Rombo,I,L
+rog,Northern Roglai,I,L
+roh,Romansh,I,L
+rol,Romblomanon,I,L
+rom,Romany,M,L
+ron,Romanian,I,L
+roo,Rotokas,I,L
+rop,Kriol,I,L
+ror,Rongga,I,L
+rou,Runga,I,L
+row,Dela-Oenale,I,L
+rpn,Repanbitip,I,L
+rpt,Rapting,I,L
+rri,Ririo,I,L
+rro,Waima,I,L
+rrt,Arritinngithigh,I,E
+rsb,Romano-Serbian,I,L
+rsk,Ruthenian,I,L
+rsl,Russian Sign Language,I,L
+rsm,Miriwoong Sign Language,I,L
+rsn,Rwandan Sign Language,I,L
+rtc,Rungtu Chin,I,L
+rth,Ratahan,I,L
+rtm,Rotuman,I,L
+rts,Yurats,I,E
+rtw,Rathawi,I,L
+rub,Gungu,I,L
+ruc,Ruuli,I,L
+rue,Rusyn,I,L
+ruf,Luguru,I,L
+rug,Roviana,I,L
+ruh,Ruga,I,L
+rui,Rufiji,I,L
+ruk,Che,I,L
+run,Rundi,I,L
+ruo,Istro Romanian,I,L
+rup,Macedo-Romanian,I,L
+ruq,Megleno Romanian,I,L
+rus,Russian,I,L
+rut,Rutul,I,L
+ruu,Lanas Lobu,I,L
+ruy,Mala (Nigeria),I,L
+ruz,Ruma,I,L
+rwa,Rawo,I,L
+rwk,Rwa,I,L
+rwl,Ruwila,I,L
+rwm,Amba (Uganda),I,L
+rwo,Rawa,I,L
+rwr,Marwari (India),I,L
+rxd,Ngardi,I,L
+rxw,Karuwali,I,E
+ryn,Northern Amami-Oshima,I,L
+rys,Yaeyama,I,L
+ryu,Central Okinawan,I,L
+rzh,Rāziḥī,I,L
+saa,Saba,I,L
+sab,Buglere,I,L
+sac,Meskwaki,I,L
+sad,Sandawe,I,L
+sae,Sabanê,I,L
+saf,Safaliba,I,L
+sag,Sango,I,L
+sah,Yakut,I,L
+saj,Sahu,I,L
+sak,Sake,I,L
+sam,Samaritan Aramaic,I,E
+san,Sanskrit,I,A
+sao,Sause,I,L
+saq,Samburu,I,L
+sar,Saraveca,I,E
+sas,Sasak,I,L
+sat,Santali,I,L
+sau,Saleman,I,L
+sav,Saafi-Saafi,I,L
+saw,Sawi,I,L
+sax,Sa,I,L
+say,Saya,I,L
+saz,Saurashtra,I,L
+sba,Ngambay,I,L
+sbb,Simbo,I,L
+sbc,Kele (Papua New Guinea),I,L
+sbd,Southern Samo,I,L
+sbe,Saliba,I,L
+sbf,Chabu,I,L
+sbg,Seget,I,L
+sbh,Sori-Harengan,I,L
+sbi,Seti,I,L
+sbj,Surbakhal,I,L
+sbk,Safwa,I,L
+sbl,Botolan Sambal,I,L
+sbm,Sagala,I,L
+sbn,Sindhi Bhil,I,L
+sbo,Sabüm,I,L
+sbp,Sangu (Tanzania),I,L
+sbq,Sileibi,I,L
+sbr,Sembakung Murut,I,L
+sbs,Subiya,I,L
+sbt,Kimki,I,L
+sbu,Stod Bhoti,I,L
+sbv,Sabine,I,A
+sbw,Simba,I,L
+sbx,Seberuang,I,L
+sby,Soli,I,L
+sbz,Sara Kaba,I,L
+scb,Chut,I,L
+sce,Dongxiang,I,L
+scf,San Miguel Creole French,I,L
+scg,Sanggau,I,L
+sch,Sakachep,I,L
+sci,Sri Lankan Creole Malay,I,L
+sck,Sadri,I,L
+scl,Shina,I,L
+scn,Sicilian,I,L
+sco,Scots,I,L
+scp,Hyolmo,I,L
+scq,Sa'och,I,L
+scs,North Slavey,I,L
+sct,Southern Katang,I,L
+scu,Shumcho,I,L
+scv,Sheni,I,L
+scw,Sha,I,L
+scx,Sicel,I,A
+sda,Toraja-Sa'dan,I,L
+sdb,Shabak,I,L
+sdc,Sassarese Sardinian,I,L
+sde,Surubu,I,L
+sdf,Sarli,I,L
+sdg,Savi,I,L
+sdh,Southern Kurdish,I,L
+sdj,Suundi,I,L
+sdk,Sos Kundi,I,L
+sdl,Saudi Arabian Sign Language,I,L
+sdn,Gallurese Sardinian,I,L
+sdo,Bukar-Sadung Bidayuh,I,L
+sdp,Sherdukpen,I,L
+sdq,Semandang,I,L
+sdr,Oraon Sadri,I,L
+sds,Sened,I,E
+sdt,Shuadit,I,E
+sdu,Sarudu,I,L
+sdx,Sibu Melanau,I,L
+sdz,Sallands,I,L
+sea,Semai,I,L
+seb,Shempire Senoufo,I,L
+sec,Sechelt,I,L
+sed,Sedang,I,L
+see,Seneca,I,L
+sef,Cebaara Senoufo,I,L
+seg,Segeju,I,L
+seh,Sena,I,L
+sei,Seri,I,L
+sej,Sene,I,L
+sek,Sekani,I,L
+sel,Selkup,I,L
+sen,Nanerigé Sénoufo,I,L
+seo,Suarmin,I,L
+sep,Sìcìté Sénoufo,I,L
+seq,Senara Sénoufo,I,L
+ser,Serrano,I,L
+ses,Koyraboro Senni Songhai,I,L
+set,Sentani,I,L
+seu,Serui-Laut,I,L
+sev,Nyarafolo Senoufo,I,L
+sew,Sewa Bay,I,L
+sey,Secoya,I,L
+sez,Senthang Chin,I,L
+sfb,Langue des signes de Belgique Francophone,I,L
+sfe,Eastern Subanen,I,L
+sfm,Small Flowery Miao,I,L
+sfs,South African Sign Language,I,L
+sfw,Sehwi,I,L
+sga,Old Irish (to 900),I,H
+sgb,Mag-antsi Ayta,I,L
+sgc,Kipsigis,I,L
+sgd,Surigaonon,I,L
+sge,Segai,I,L
+sgg,Swiss-German Sign Language,I,L
+sgh,Shughni,I,L
+sgi,Suga,I,L
+sgj,Surgujia,I,L
+sgk,Sangkong,I,L
+sgm,Singa,I,E
+sgp,Singpho,I,L
+sgr,Sangisari,I,L
+sgs,Samogitian,I,L
+sgt,Brokpake,I,L
+sgu,Salas,I,L
+sgw,Sebat Bet Gurage,I,L
+sgx,Sierra Leone Sign Language,I,L
+sgy,Sanglechi,I,L
+sgz,Sursurunga,I,L
+sha,Shall-Zwall,I,L
+shb,Ninam,I,L
+shc,Sonde,I,L
+shd,Kundal Shahi,I,L
+she,Sheko,I,L
+shg,Shua,I,L
+shh,Shoshoni,I,L
+shi,Tachelhit,I,L
+shj,Shatt,I,L
+shk,Shilluk,I,L
+shl,Shendu,I,L
+shm,Shahrudi,I,L
+shn,Shan,I,L
+sho,Shanga,I,L
+shp,Shipibo-Conibo,I,L
+shq,Sala,I,L
+shr,Shi,I,L
+shs,Shuswap,I,L
+sht,Shasta,I,E
+shu,Chadian Arabic,I,L
+shv,Shehri,I,L
+shw,Shwai,I,L
+shx,She,I,L
+shy,Tachawit,I,L
+shz,Syenara Senoufo,I,L
+sia,Akkala Sami,I,E
+sib,Sebop,I,L
+sid,Sidamo,I,L
+sie,Simaa,I,L
+sif,Siamou,I,L
+sig,Paasaal,I,L
+sih,Zire,I,L
+sii,Shom Peng,I,L
+sij,Numbami,I,L
+sik,Sikiana,I,L
+sil,Tumulung Sisaala,I,L
+sim,Mende (Papua New Guinea),I,L
+sin,Sinhala,I,L
+sip,Sikkimese,I,L
+siq,Sonia,I,L
+sir,Siri,I,L
+sis,Siuslaw,I,E
+siu,Sinagen,I,L
+siv,Sumariup,I,L
+siw,Siwai,I,L
+six,Sumau,I,L
+siy,Sivandi,I,L
+siz,Siwi,I,L
+sja,Epena,I,L
+sjb,Sajau Basap,I,L
+sjd,Kildin Sami,I,L
+sje,Pite Sami,I,L
+sjg,Assangori,I,L
+sjk,Kemi Sami,I,E
+sjl,Sajalong,I,L
+sjm,Mapun,I,L
+sjn,Sindarin,I,C
+sjo,Xibe,I,L
+sjp,Surjapuri,I,L
+sjr,Siar-Lak,I,L
+sjs,Senhaja De Srair,I,E
+sjt,Ter Sami,I,L
+sju,Ume Sami,I,L
+sjw,Shawnee,I,L
+ska,Skagit,I,L
+skb,Saek,I,L
+skc,Ma Manda,I,L
+skd,Southern Sierra Miwok,I,L
+ske,Seke (Vanuatu),I,L
+skf,Sakirabiá,I,L
+skg,Sakalava Malagasy,I,L
+skh,Sikule,I,L
+ski,Sika,I,L
+skj,Seke (Nepal),I,L
+skm,Kutong,I,L
+skn,Kolibugan Subanon,I,L
+sko,Seko Tengah,I,L
+skp,Sekapan,I,L
+skq,Sininkere,I,L
+skr,Saraiki,I,L
+sks,Maia,I,L
+skt,Sakata,I,L
+sku,Sakao,I,L
+skv,Skou,I,L
+skw,Skepi Creole Dutch,I,E
+skx,Seko Padang,I,L
+sky,Sikaiana,I,L
+skz,Sekar,I,L
+slc,Sáliba,I,L
+sld,Sissala,I,L
+sle,Sholaga,I,L
+slf,Swiss-Italian Sign Language,I,L
+slg,Selungai Murut,I,L
+slh,Southern Puget Sound Salish,I,L
+sli,Lower Silesian,I,L
+slj,Salumá,I,L
+slk,Slovak,I,L
+sll,Salt-Yui,I,L
+slm,Pangutaran Sama,I,L
+sln,Salinan,I,E
+slp,Lamaholot,I,L
+slq,Salchuq,I,E
+slr,Salar,I,L
+sls,Singapore Sign Language,I,L
+slt,Sila,I,L
+slu,Selaru,I,L
+slv,Slovenian,I,L
+slw,Sialum,I,L
+slx,Salampasu,I,L
+sly,Selayar,I,L
+slz,Ma'ya,I,L
+sma,Southern Sami,I,L
+smb,Simbari,I,L
+smc,Som,I,E
+sme,Northern Sami,I,L
+smf,Auwe,I,L
+smg,Simbali,I,L
+smh,Samei,I,L
+smj,Lule Sami,I,L
+smk,Bolinao,I,L
+sml,Central Sama,I,L
+smm,Musasa,I,L
+smn,Inari Sami,I,L
+smo,Samoan,I,L
+smp,Samaritan,I,E
+smq,Samo,I,L
+smr,Simeulue,I,L
+sms,Skolt Sami,I,L
+smt,Simte,I,L
+smu,Somray,I,E
+smv,Samvedi,I,L
+smw,Sumbawa,I,L
+smx,Samba,I,L
+smy,Semnani,I,L
+smz,Simeku,I,L
+sna,Shona,I,L
+snc,Sinaugoro,I,L
+snd,Sindhi,I,L
+sne,Bau Bidayuh,I,L
+snf,Noon,I,L
+sng,Sanga (Democratic Republic of Congo),I,L
+sni,Sensi,I,E
+snj,Riverain Sango,I,L
+snk,Soninke,I,L
+snl,Sangil,I,L
+snm,Southern Ma'di,I,L
+snn,Siona,I,L
+sno,Snohomish,I,L
+snp,Siane,I,L
+snq,Sangu (Gabon),I,L
+snr,Sihan,I,L
+sns,South West Bay,I,L
+snu,Senggi,I,L
+snv,Sa'ban,I,L
+snw,Selee,I,L
+snx,Sam,I,L
+sny,Saniyo-Hiyewe,I,L
+snz,Kou,I,L
+soa,Thai Song,I,L
+sob,Sobei,I,L
+soc,So (Democratic Republic of Congo),I,L
+sod,Songoora,I,L
+soe,Songomeno,I,L
+sog,Sogdian,I,A
+soh,Aka,I,L
+soi,Sonha,I,L
+soj,Soi,I,L
+sok,Sokoro,I,L
+sol,Solos,I,L
+som,Somali,I,L
+soo,Songo,I,L
+sop,Songe,I,L
+soq,Kanasi,I,L
+sor,Somrai,I,L
+sos,Seeku,I,L
+sot,Southern Sotho,I,L
+sou,Southern Thai,I,L
+sov,Sonsorol,I,L
+sow,Sowanda,I,L
+sox,Swo,I,L
+soy,Miyobe,I,L
+soz,Temi,I,L
+spa,Spanish,I,L
+spb,Sepa (Indonesia),I,L
+spc,Sapé,I,L
+spd,Saep,I,L
+spe,Sepa (Papua New Guinea),I,L
+spg,Sian,I,L
+spi,Saponi,I,L
+spk,Sengo,I,L
+spl,Selepet,I,L
+spm,Akukem,I,L
+spn,Sanapaná,I,L
+spo,Spokane,I,L
+spp,Supyire Senoufo,I,L
+spq,Loreto-Ucayali Spanish,I,L
+spr,Saparua,I,L
+sps,Saposa,I,L
+spt,Spiti Bhoti,I,L
+spu,Sapuan,I,L
+spv,Sambalpuri,I,L
+spx,South Picene,I,A
+spy,Sabaot,I,L
+sqa,Shama-Sambuga,I,L
+sqh,Shau,I,L
+sqi,Albanian,M,L
+sqk,Albanian Sign Language,I,L
+sqm,Suma,I,L
+sqn,Susquehannock,I,E
+sqo,Sorkhei,I,L
+sqq,Sou,I,L
+sqr,Siculo Arabic,I,H
+sqs,Sri Lankan Sign Language,I,L
+sqt,Soqotri,I,L
+squ,Squamish,I,L
+sqx,Kufr Qassem Sign Language (KQSL),I,L
+sra,Saruga,I,L
+srb,Sora,I,L
+src,Logudorese Sardinian,I,L
+srd,Sardinian,M,L
+sre,Sara,I,L
+srf,Nafi,I,L
+srg,Sulod,I,L
+srh,Sarikoli,I,L
+sri,Siriano,I,L
+srk,Serudung Murut,I,L
+srl,Isirawa,I,L
+srm,Saramaccan,I,L
+srn,Sranan Tongo,I,L
+sro,Campidanese Sardinian,I,L
+srp,Serbian,I,L
+srq,Sirionó,I,L
+srr,Serer,I,L
+srs,Sarsi,I,L
+srt,Sauri,I,L
+sru,Suruí,I,L
+srv,Southern Sorsoganon,I,L
+srw,Serua,I,L
+srx,Sirmauri,I,L
+sry,Sera,I,L
+srz,Shahmirzadi,I,L
+ssb,Southern Sama,I,L
+ssc,Suba-Simbiti,I,L
+ssd,Siroi,I,L
+sse,Balangingi,I,L
+ssf,Thao,I,L
+ssg,Seimat,I,L
+ssh,Shihhi Arabic,I,L
+ssi,Sansi,I,L
+ssj,Sausi,I,L
+ssk,Sunam,I,L
+ssl,Western Sisaala,I,L
+ssm,Semnam,I,L
+ssn,Waata,I,L
+sso,Sissano,I,L
+ssp,Spanish Sign Language,I,L
+ssq,So'a,I,L
+ssr,Swiss-French Sign Language,I,L
+sss,Sô,I,L
+sst,Sinasina,I,L
+ssu,Susuami,I,L
+ssv,Shark Bay,I,L
+ssw,Swati,I,L
+ssx,Samberigi,I,L
+ssy,Saho,I,L
+ssz,Sengseng,I,L
+sta,Settla,I,L
+stb,Northern Subanen,I,L
+std,Sentinel,I,L
+ste,Liana-Seti,I,L
+stf,Seta,I,L
+stg,Trieng,I,L
+sth,Shelta,I,L
+sti,Bulo Stieng,I,L
+stj,Matya Samo,I,L
+stk,Arammba,I,L
+stl,Stellingwerfs,I,L
+stm,Setaman,I,L
+stn,Owa,I,L
+sto,Stoney,I,L
+stp,Southeastern Tepehuan,I,L
+stq,Saterfriesisch,I,L
+str,Straits Salish,I,L
+sts,Shumashti,I,L
+stt,Budeh Stieng,I,L
+stu,Samtao,I,L
+stv,Silt'e,I,L
+stw,Satawalese,I,L
+sty,Siberian Tatar,I,L
+sua,Sulka,I,L
+sub,Suku,I,L
+suc,Western Subanon,I,L
+sue,Suena,I,L
+sug,Suganga,I,L
+sui,Suki,I,L
+suj,Shubi,I,L
+suk,Sukuma,I,L
+sun,Sundanese,I,L
+suo,Bouni,I,L
+suq,Tirmaga-Chai Suri,I,L
+sur,Mwaghavul,I,L
+sus,Susu,I,L
+sut,Subtiaba,I,E
+suv,Puroik,I,L
+suw,Sumbwa,I,L
+sux,Sumerian,I,A
+suy,Suyá,I,L
+suz,Sunwar,I,L
+sva,Svan,I,L
+svb,Ulau-Suain,I,L
+svc,Vincentian Creole English,I,L
+sve,Serili,I,L
+svk,Slovakian Sign Language,I,L
+svm,Slavomolisano,I,L
+svs,Savosavo,I,L
+svx,Skalvian,I,H
+swa,Swahili (macrolanguage),M,L
+swb,Maore Comorian,I,L
+swc,Congo Swahili,I,L
+swe,Swedish,I,L
+swf,Sere,I,L
+swg,Swabian,I,L
+swh,Swahili (individual language),I,L
+swi,Sui,I,L
+swj,Sira,I,L
+swk,Malawi Sena,I,L
+swl,Swedish Sign Language,I,L
+swm,Samosa,I,L
+swn,Sawknah,I,L
+swo,Shanenawa,I,L
+swp,Suau,I,L
+swq,Sharwa,I,L
+swr,Saweru,I,L
+sws,Seluwasan,I,L
+swt,Sawila,I,L
+swu,Suwawa,I,L
+swv,Shekhawati,I,L
+sww,Sowa,I,E
+swx,Suruahá,I,L
+swy,Sarua,I,L
+sxb,Suba,I,L
+sxc,Sicanian,I,A
+sxe,Sighu,I,L
+sxg,Shuhi,I,L
+sxk,Southern Kalapuya,I,E
+sxl,Selian,I,E
+sxm,Samre,I,L
+sxn,Sangir,I,L
+sxo,Sorothaptic,I,A
+sxr,Saaroa,I,L
+sxs,Sasaru,I,L
+sxu,Upper Saxon,I,L
+sxw,Saxwe Gbe,I,L
+sya,Siang,I,L
+syb,Central Subanen,I,L
+syc,Classical Syriac,I,H
+syi,Seki,I,L
+syk,Sukur,I,L
+syl,Sylheti,I,L
+sym,Maya Samo,I,L
+syn,Senaya,I,L
+syo,Suoy,I,L
+syr,Syriac,M,L
+sys,Sinyar,I,L
+syw,Kagate,I,L
+syx,Samay,I,L
+syy,Al-Sayyid Bedouin Sign Language,I,L
+sza,Semelai,I,L
+szb,Ngalum,I,L
+szc,Semaq Beri,I,L
+szd,Seru,I,E
+sze,Seze,I,L
+szg,Sengele,I,L
+szl,Silesian,I,L
+szn,Sula,I,L
+szp,Suabo,I,L
+szs,Solomon Islands Sign Language,I,L
+szv,Isu (Fako Division),I,L
+szw,Sawai,I,L
+szy,Sakizaya,I,L
+taa,Lower Tanana,I,L
+tab,Tabassaran,I,L
+tac,Lowland Tarahumara,I,L
+tad,Tause,I,L
+tae,Tariana,I,L
+taf,Tapirapé,I,L
+tag,Tagoi,I,L
+tah,Tahitian,I,L
+taj,Eastern Tamang,I,L
+tak,Tala,I,L
+tal,Tal,I,L
+tam,Tamil,I,L
+tan,Tangale,I,L
+tao,Yami,I,L
+tap,Taabwa,I,L
+taq,Tamasheq,I,L
+tar,Central Tarahumara,I,L
+tas,Tay Boi,I,E
+tat,Tatar,I,L
+tau,Upper Tanana,I,L
+tav,Tatuyo,I,L
+taw,Tai,I,L
+tax,Tamki,I,L
+tay,Atayal,I,L
+taz,Tocho,I,L
+tba,Aikanã,I,L
+tbc,Takia,I,L
+tbd,Kaki Ae,I,L
+tbe,Tanimbili,I,L
+tbf,Mandara,I,L
+tbg,North Tairora,I,L
+tbh,Dharawal,I,E
+tbi,Gaam,I,L
+tbj,Tiang,I,L
+tbk,Calamian Tagbanwa,I,L
+tbl,Tboli,I,L
+tbm,Tagbu,I,L
+tbn,Barro Negro Tunebo,I,L
+tbo,Tawala,I,L
+tbp,Taworta,I,L
+tbr,Tumtum,I,L
+tbs,Tanguat,I,L
+tbt,Tembo (Kitembo),I,L
+tbu,Tubar,I,E
+tbv,Tobo,I,L
+tbw,Tagbanwa,I,L
+tbx,Kapin,I,L
+tby,Tabaru,I,L
+tbz,Ditammari,I,L
+tca,Ticuna,I,L
+tcb,Tanacross,I,L
+tcc,Datooga,I,L
+tcd,Tafi,I,L
+tce,Southern Tutchone,I,L
+tcf,Malinaltepec Me'phaa,I,L
+tcg,Tamagario,I,L
+tch,Turks And Caicos Creole English,I,L
+tci,Wára,I,L
+tck,Tchitchege,I,L
+tcl,Taman (Myanmar),I,E
+tcm,Tanahmerah,I,L
+tcn,Tichurong,I,L
+tco,Taungyo,I,L
+tcp,Tawr Chin,I,L
+tcq,Kaiy,I,L
+tcs,Torres Strait Creole,I,L
+tct,T'en,I,L
+tcu,Southeastern Tarahumara,I,L
+tcw,Tecpatlán Totonac,I,L
+tcx,Toda,I,L
+tcy,Tulu,I,L
+tcz,Thado Chin,I,L
+tda,Tagdal,I,L
+tdb,Panchpargania,I,L
+tdc,Emberá-Tadó,I,L
+tdd,Tai Nüa,I,L
+tde,Tiranige Diga Dogon,I,L
+tdf,Talieng,I,L
+tdg,Western Tamang,I,L
+tdh,Thulung,I,L
+tdi,Tomadino,I,L
+tdj,Tajio,I,L
+tdk,Tambas,I,L
+tdl,Sur,I,L
+tdm,Taruma,I,L
+tdn,Tondano,I,L
+tdo,Teme,I,L
+tdq,Tita,I,L
+tdr,Todrah,I,L
+tds,Doutai,I,L
+tdt,Tetun Dili,I,L
+tdv,Toro,I,L
+tdx,Tandroy-Mahafaly Malagasy,I,L
+tdy,Tadyawan,I,L
+tea,Temiar,I,L
+teb,Tetete,I,E
+tec,Terik,I,L
+ted,Tepo Krumen,I,L
+tee,Huehuetla Tepehua,I,L
+tef,Teressa,I,L
+teg,Teke-Tege,I,L
+teh,Tehuelche,I,L
+tei,Torricelli,I,L
+tek,Ibali Teke,I,L
+tel,Telugu,I,L
+tem,Timne,I,L
+ten,Tama (Colombia),I,E
+teo,Teso,I,L
+tep,Tepecano,I,E
+teq,Temein,I,L
+ter,Tereno,I,L
+tes,Tengger,I,L
+tet,Tetum,I,L
+teu,Soo,I,L
+tev,Teor,I,L
+tew,Tewa (USA),I,L
+tex,Tennet,I,L
+tey,Tulishi,I,L
+tez,Tetserret,I,L
+tfi,Tofin Gbe,I,L
+tfn,Tanaina,I,L
+tfo,Tefaro,I,L
+tfr,Teribe,I,L
+tft,Ternate,I,L
+tga,Sagalla,I,L
+tgb,Tobilung,I,L
+tgc,Tigak,I,L
+tgd,Ciwogai,I,L
+tge,Eastern Gorkha Tamang,I,L
+tgf,Chalikha,I,L
+tgh,Tobagonian Creole English,I,L
+tgi,Lawunuia,I,L
+tgj,Tagin,I,L
+tgk,Tajik,I,L
+tgl,Tagalog,I,L
+tgn,Tandaganon,I,L
+tgo,Sudest,I,L
+tgp,Tangoa,I,L
+tgq,Tring,I,L
+tgr,Tareng,I,L
+tgs,Nume,I,L
+tgt,Central Tagbanwa,I,L
+tgu,Tanggu,I,L
+tgv,Tingui-Boto,I,E
+tgw,Tagwana Senoufo,I,L
+tgx,Tagish,I,L
+tgy,Togoyo,I,E
+tgz,Tagalaka,I,E
+tha,Thai,I,L
+thd,Kuuk Thaayorre,I,L
+the,Chitwania Tharu,I,L
+thf,Thangmi,I,L
+thh,Northern Tarahumara,I,L
+thi,Tai Long,I,L
+thk,Tharaka,I,L
+thl,Dangaura Tharu,I,L
+thm,Aheu,I,L
+thn,Thachanadan,I,L
+thp,Thompson,I,L
+thq,Kochila Tharu,I,L
+thr,Rana Tharu,I,L
+ths,Thakali,I,L
+tht,Tahltan,I,L
+thu,Thuri,I,L
+thv,Tahaggart Tamahaq,I,L
+thy,Tha,I,L
+thz,Tayart Tamajeq,I,L
+tia,Tidikelt Tamazight,I,L
+tic,Tira,I,L
+tif,Tifal,I,L
+tig,Tigre,I,L
+tih,Timugon Murut,I,L
+tii,Tiene,I,L
+tij,Tilung,I,L
+tik,Tikar,I,L
+til,Tillamook,I,E
+tim,Timbe,I,L
+tin,Tindi,I,L
+tio,Teop,I,L
+tip,Trimuris,I,L
+tiq,Tiéfo,I,L
+tir,Tigrinya,I,L
+tis,Masadiit Itneg,I,L
+tit,Tinigua,I,L
+tiu,Adasen,I,L
+tiv,Tiv,I,L
+tiw,Tiwi,I,L
+tix,Southern Tiwa,I,L
+tiy,Tiruray,I,L
+tiz,Tai Hongjin,I,L
+tja,Tajuasohn,I,L
+tjg,Tunjung,I,L
+tji,Northern Tujia,I,L
+tjj,Tjungundji,I,L
+tjl,Tai Laing,I,L
+tjm,Timucua,I,E
+tjn,Tonjon,I,E
+tjo,Temacine Tamazight,I,L
+tjp,Tjupany,I,L
+tjs,Southern Tujia,I,L
+tju,Tjurruru,I,E
+tjw,Djabwurrung,I,L
+tka,Truká,I,E
+tkb,Buksa,I,L
+tkd,Tukudede,I,L
+tke,Takwane,I,L
+tkf,Tukumanféd,I,E
+tkg,Tesaka Malagasy,I,L
+tkl,Tokelau,I,L
+tkm,Takelma,I,E
+tkn,Toku-No-Shima,I,L
+tkp,Tikopia,I,L
+tkq,Tee,I,L
+tkr,Tsakhur,I,L
+tks,Takestani,I,L
+tkt,Kathoriya Tharu,I,L
+tku,Upper Necaxa Totonac,I,L
+tkv,Mur Pano,I,L
+tkw,Teanu,I,L
+tkx,Tangko,I,L
+tkz,Takua,I,L
+tla,Southwestern Tepehuan,I,L
+tlb,Tobelo,I,L
+tlc,Yecuatla Totonac,I,L
+tld,Talaud,I,L
+tlf,Telefol,I,L
+tlg,Tofanma,I,L
+tlh,Klingon,I,C
+tli,Tlingit,I,L
+tlj,Talinga-Bwisi,I,L
+tlk,Taloki,I,L
+tll,Tetela,I,L
+tlm,Tolomako,I,L
+tln,Talondo',I,L
+tlo,Talodi,I,L
+tlp,Filomena Mata-Coahuitlán Totonac,I,L
+tlq,Tai Loi,I,L
+tlr,Talise,I,L
+tls,Tambotalo,I,L
+tlt,Sou Nama,I,L
+tlu,Tulehu,I,L
+tlv,Taliabu,I,L
+tlx,Khehek,I,L
+tly,Talysh,I,L
+tma,Tama (Chad),I,L
+tmb,Katbol,I,L
+tmc,Tumak,I,L
+tmd,Haruai,I,L
+tme,Tremembé,I,E
+tmf,Toba-Maskoy,I,L
+tmg,Ternateño,I,E
+tmh,Tamashek,M,L
+tmi,Tutuba,I,L
+tmj,Samarokena,I,L
+tmk,Northwestern Tamang,I,L
+tml,Tamnim Citak,I,L
+tmm,Tai Thanh,I,L
+tmn,Taman (Indonesia),I,L
+tmo,Temoq,I,L
+tmq,Tumleo,I,L
+tmr,Jewish Babylonian Aramaic (ca. 200-1200 CE),I,E
+tms,Tima,I,L
+tmt,Tasmate,I,L
+tmu,Iau,I,L
+tmv,Tembo (Motembo),I,L
+tmw,Temuan,I,L
+tmy,Tami,I,L
+tmz,Tamanaku,I,E
+tna,Tacana,I,L
+tnb,Western Tunebo,I,L
+tnc,Tanimuca-Retuarã,I,L
+tnd,Angosturas Tunebo,I,L
+tng,Tobanga,I,L
+tnh,Maiani,I,L
+tni,Tandia,I,L
+tnk,Kwamera,I,L
+tnl,Lenakel,I,L
+tnm,Tabla,I,L
+tnn,North Tanna,I,L
+tno,Toromono,I,L
+tnp,Whitesands,I,L
+tnq,Taino,I,E
+tnr,Ménik,I,L
+tns,Tenis,I,L
+tnt,Tontemboan,I,L
+tnu,Tay Khang,I,L
+tnv,Tangchangya,I,L
+tnw,Tonsawang,I,L
+tnx,Tanema,I,L
+tny,Tongwe,I,L
+tnz,Ten'edn,I,L
+tob,Toba,I,L
+toc,Coyutla Totonac,I,L
+tod,Toma,I,L
+tof,Gizrra,I,L
+tog,Tonga (Nyasa),I,L
+toh,Gitonga,I,L
+toi,Tonga (Zambia),I,L
+toj,Tojolabal,I,L
+tok,Toki Pona,I,C
+tol,Tolowa,I,E
+tom,Tombulu,I,L
+ton,Tonga (Tonga Islands),I,L
+too,Xicotepec De Juárez Totonac,I,L
+top,Papantla Totonac,I,L
+toq,Toposa,I,L
+tor,Togbo-Vara Banda,I,L
+tos,Highland Totonac,I,L
+tou,Tho,I,L
+tov,Upper Taromi,I,L
+tow,Jemez,I,L
+tox,Tobian,I,L
+toy,Topoiyo,I,L
+toz,To,I,L
+tpa,Taupota,I,L
+tpc,Azoyú Me'phaa,I,L
+tpe,Tippera,I,L
+tpf,Tarpia,I,L
+tpg,Kula,I,L
+tpi,Tok Pisin,I,L
+tpj,Tapieté,I,L
+tpk,Tupinikin,I,E
+tpl,Tlacoapa Me'phaa,I,L
+tpm,Tampulma,I,L
+tpn,Tupinambá,I,E
+tpo,Tai Pao,I,L
+tpp,Pisaflores Tepehua,I,L
+tpq,Tukpa,I,L
+tpr,Tuparí,I,L
+tpt,Tlachichilco Tepehua,I,L
+tpu,Tampuan,I,L
+tpv,Tanapag,I,L
+tpw,Tupí,I,E
+tpx,Acatepec Me'phaa,I,L
+tpy,Trumai,I,L
+tpz,Tinputz,I,L
+tqb,Tembé,I,L
+tql,Lehali,I,L
+tqm,Turumsa,I,L
+tqn,Tenino,I,L
+tqo,Toaripi,I,L
+tqp,Tomoip,I,L
+tqq,Tunni,I,L
+tqr,Torona,I,E
+tqt,Western Totonac,I,L
+tqu,Touo,I,L
+tqw,Tonkawa,I,E
+tra,Tirahi,I,L
+trb,Terebu,I,L
+trc,Copala Triqui,I,L
+trd,Turi,I,L
+tre,East Tarangan,I,L
+trf,Trinidadian Creole English,I,L
+trg,Lishán Didán,I,L
+trh,Turaka,I,L
+tri,Trió,I,L
+trj,Toram,I,L
+trl,Traveller Scottish,I,L
+trm,Tregami,I,L
+trn,Trinitario,I,L
+tro,Tarao Naga,I,L
+trp,Kok Borok,I,L
+trq,San Martín Itunyoso Triqui,I,L
+trr,Taushiro,I,L
+trs,Chicahuaxtla Triqui,I,L
+trt,Tunggare,I,L
+tru,Turoyo,I,L
+trv,Sediq,I,L
+trw,Torwali,I,L
+trx,Tringgus-Sembaan Bidayuh,I,L
+try,Turung,I,E
+trz,Torá,I,E
+tsa,Tsaangi,I,L
+tsb,Tsamai,I,L
+tsc,Tswa,I,L
+tsd,Tsakonian,I,L
+tse,Tunisian Sign Language,I,L
+tsg,Tausug,I,L
+tsh,Tsuvan,I,L
+tsi,Tsimshian,I,L
+tsj,Tshangla,I,L
+tsk,Tseku,I,L
+tsl,Ts'ün-Lao,I,L
+tsm,Turkish Sign Language,I,L
+tsn,Tswana,I,L
+tso,Tsonga,I,L
+tsp,Northern Toussian,I,L
+tsq,Thai Sign Language,I,L
+tsr,Akei,I,L
+tss,Taiwan Sign Language,I,L
+tst,Tondi Songway Kiini,I,L
+tsu,Tsou,I,L
+tsv,Tsogo,I,L
+tsw,Tsishingini,I,L
+tsx,Mubami,I,L
+tsy,Tebul Sign Language,I,L
+tsz,Purepecha,I,L
+tta,Tutelo,I,E
+ttb,Gaa,I,L
+ttc,Tektiteko,I,L
+ttd,Tauade,I,L
+tte,Bwanabwana,I,L
+ttf,Tuotomb,I,L
+ttg,Tutong,I,L
+tth,Upper Ta'oih,I,L
+tti,Tobati,I,L
+ttj,Tooro,I,L
+ttk,Totoro,I,L
+ttl,Totela,I,L
+ttm,Northern Tutchone,I,L
+ttn,Towei,I,L
+tto,Lower Ta'oih,I,L
+ttp,Tombelala,I,L
+ttq,Tawallammat Tamajaq,I,L
+ttr,Tera,I,L
+tts,Northeastern Thai,I,L
+ttt,Muslim Tat,I,L
+ttu,Torau,I,L
+ttv,Titan,I,L
+ttw,Long Wat,I,L
+tty,Sikaritai,I,L
+ttz,Tsum,I,L
+tua,Wiarumus,I,L
+tub,Tübatulabal,I,E
+tuc,Mutu,I,L
+tud,Tuxá,I,E
+tue,Tuyuca,I,L
+tuf,Central Tunebo,I,L
+tug,Tunia,I,L
+tuh,Taulil,I,L
+tui,Tupuri,I,L
+tuj,Tugutil,I,L
+tuk,Turkmen,I,L
+tul,Tula,I,L
+tum,Tumbuka,I,L
+tun,Tunica,I,L
+tuo,Tucano,I,L
+tuq,Tedaga,I,L
+tur,Turkish,I,L
+tus,Tuscarora,I,L
+tuu,Tututni,I,L
+tuv,Turkana,I,L
+tux,Tuxináwa,I,E
+tuy,Tugen,I,L
+tuz,Turka,I,L
+tva,Vaghua,I,L
+tvd,Tsuvadi,I,L
+tve,Te'un,I,L
+tvk,Southeast Ambrym,I,L
+tvl,Tuvalu,I,L
+tvm,Tela-Masbuar,I,L
+tvn,Tavoyan,I,L
+tvo,Tidore,I,L
+tvs,Taveta,I,L
+tvt,Tutsa Naga,I,L
+tvu,Tunen,I,L
+tvw,Sedoa,I,L
+tvx,Taivoan,I,E
+tvy,Timor Pidgin,I,E
+twa,Twana,I,E
+twb,Western Tawbuid,I,L
+twc,Teshenawa,I,E
+twd,Twents,I,L
+twe,Tewa (Indonesia),I,L
+twf,Northern Tiwa,I,L
+twg,Tereweng,I,L
+twh,Tai Dón,I,L
+twi,Twi,I,L
+twl,Tawara,I,L
+twm,Tawang Monpa,I,L
+twn,Twendi,I,L
+two,Tswapong,I,L
+twp,Ere,I,L
+twq,Tasawaq,I,L
+twr,Southwestern Tarahumara,I,L
+twt,Turiwára,I,E
+twu,Termanu,I,L
+tww,Tuwari,I,L
+twx,Tewe,I,L
+twy,Tawoyan,I,L
+txa,Tombonuo,I,L
+txb,Tokharian B,I,A
+txc,Tsetsaut,I,E
+txe,Totoli,I,L
+txg,Tangut,I,A
+txh,Thracian,I,A
+txi,Ikpeng,I,L
+txj,Tarjumo,I,L
+txm,Tomini,I,L
+txn,West Tarangan,I,L
+txo,Toto,I,L
+txq,Tii,I,L
+txr,Tartessian,I,A
+txs,Tonsea,I,L
+txt,Citak,I,L
+txu,Kayapó,I,L
+txx,Tatana,I,L
+txy,Tanosy Malagasy,I,L
+tya,Tauya,I,L
+tye,Kyanga,I,L
+tyh,O'du,I,L
+tyi,Teke-Tsaayi,I,L
+tyj,Tai Do,I,L
+tyl,Thu Lao,I,L
+tyn,Kombai,I,L
+typ,Thaypan,I,E
+tyr,Tai Daeng,I,L
+tys,Tày Sa Pa,I,L
+tyt,Tày Tac,I,L
+tyu,Kua,I,L
+tyv,Tuvinian,I,L
+tyx,Teke-Tyee,I,L
+tyy,Tiyaa,I,L
+tyz,Tày,I,L
+tza,Tanzanian Sign Language,I,L
+tzh,Tzeltal,I,L
+tzj,Tz'utujil,I,L
+tzl,Talossan,I,C
+tzm,Central Atlas Tamazight,I,L
+tzn,Tugun,I,L
+tzo,Tzotzil,I,L
+tzx,Tabriak,I,L
+uam,Uamué,I,E
+uan,Kuan,I,L
+uar,Tairuma,I,L
+uba,Ubang,I,L
+ubi,Ubi,I,L
+ubl,Buhi'non Bikol,I,L
+ubr,Ubir,I,L
+ubu,Umbu-Ungu,I,L
+uby,Ubykh,I,E
+uda,Uda,I,L
+ude,Udihe,I,L
+udg,Muduga,I,L
+udi,Udi,I,L
+udj,Ujir,I,L
+udl,Wuzlam,I,L
+udm,Udmurt,I,L
+udu,Uduk,I,L
+ues,Kioko,I,L
+ufi,Ufim,I,L
+uga,Ugaritic,I,A
+ugb,Kuku-Ugbanh,I,E
+uge,Ughele,I,L
+ugh,Kubachi,I,L
+ugn,Ugandan Sign Language,I,L
+ugo,Ugong,I,L
+ugy,Uruguayan Sign Language,I,L
+uha,Uhami,I,L
+uhn,Damal,I,L
+uig,Uighur,I,L
+uis,Uisai,I,L
+uiv,Iyive,I,L
+uji,Tanjijili,I,L
+uka,Kaburi,I,L
+ukg,Ukuriguma,I,L
+ukh,Ukhwejo,I,L
+uki,Kui (India),I,L
+ukk,Muak Sa-aak,I,L
+ukl,Ukrainian Sign Language,I,L
+ukp,Ukpe-Bayobiri,I,L
+ukq,Ukwa,I,L
+ukr,Ukrainian,I,L
+uks,Urubú-Kaapor Sign Language,I,L
+uku,Ukue,I,L
+ukv,Kuku,I,L
+ukw,Ukwuani-Aboh-Ndoni,I,L
+uky,Kuuk-Yak,I,E
+ula,Fungwa,I,L
+ulb,Ulukwumi,I,L
+ulc,Ulch,I,L
+ule,Lule,I,E
+ulf,Usku,I,L
+uli,Ulithian,I,L
+ulk,Meriam Mir,I,L
+ull,Ullatan,I,L
+ulm,Ulumanda',I,L
+uln,Unserdeutsch,I,L
+ulu,Uma' Lung,I,L
+ulw,Ulwa,I,L
+uma,Umatilla,I,L
+umb,Umbundu,I,L
+umc,Marrucinian,I,A
+umd,Umbindhamu,I,E
+umg,Morrobalama,I,E
+umi,Ukit,I,L
+umm,Umon,I,L
+umn,Makyan Naga,I,L
+umo,Umotína,I,E
+ump,Umpila,I,L
+umr,Umbugarla,I,E
+ums,Pendau,I,L
+umu,Munsee,I,L
+una,North Watut,I,L
+und,Undetermined,S,S
+une,Uneme,I,L
+ung,Ngarinyin,I,L
+uni,Uni,I,L
+unk,Enawené-Nawé,I,L
+unm,Unami,I,E
+unn,Kurnai,I,L
+unr,Mundari,I,L
+unu,Unubahe,I,L
+unx,Munda,I,L
+unz,Unde Kaili,I,L
+uon,Kulon,I,E
+upi,Umeda,I,L
+upv,Uripiv-Wala-Rano-Atchin,I,L
+ura,Urarina,I,L
+urb,Urubú-Kaapor,I,L
+urc,Urningangg,I,E
+urd,Urdu,I,L
+ure,Uru,I,L
+urf,Uradhi,I,E
+urg,Urigina,I,L
+urh,Urhobo,I,L
+uri,Urim,I,L
+urk,Urak Lawoi',I,L
+url,Urali,I,L
+urm,Urapmin,I,L
+urn,Uruangnirin,I,L
+uro,Ura (Papua New Guinea),I,L
+urp,Uru-Pa-In,I,L
+urr,Lehalurup,I,L
+urt,Urat,I,L
+uru,Urumi,I,E
+urv,Uruava,I,E
+urw,Sop,I,L
+urx,Urimo,I,L
+ury,Orya,I,L
+urz,Uru-Eu-Wau-Wau,I,L
+usa,Usarufa,I,L
+ush,Ushojo,I,L
+usi,Usui,I,L
+usk,Usaghade,I,L
+usp,Uspanteco,I,L
+uss,us-Saare,I,L
+usu,Uya,I,L
+uta,Otank,I,L
+ute,Ute-Southern Paiute,I,L
+uth,ut-Hun,I,L
+utp,Amba (Solomon Islands),I,L
+utr,Etulo,I,L
+utu,Utu,I,L
+uum,Urum,I,L
+uur,Ura (Vanuatu),I,L
+uuu,U,I,L
+uve,West Uvean,I,L
+uvh,Uri,I,L
+uvl,Lote,I,L
+uwa,Kuku-Uwanh,I,L
+uya,Doko-Uyanga,I,L
+uzb,Uzbek,M,L
+uzn,Northern Uzbek,I,L
+uzs,Southern Uzbek,I,L
+vaa,Vaagri Booli,I,L
+vae,Vale,I,L
+vaf,Vafsi,I,L
+vag,Vagla,I,L
+vah,Varhadi-Nagpuri,I,L
+vai,Vai,I,L
+vaj,Sekele,I,L
+val,Vehes,I,L
+vam,Vanimo,I,L
+van,Valman,I,L
+vao,Vao,I,L
+vap,Vaiphei,I,L
+var,Huarijio,I,L
+vas,Vasavi,I,L
+vau,Vanuma,I,L
+vav,Varli,I,L
+vay,Wayu,I,L
+vbb,Southeast Babar,I,L
+vbk,Southwestern Bontok,I,L
+vec,Venetian,I,L
+ved,Veddah,I,L
+vel,Veluws,I,L
+vem,Vemgo-Mabas,I,L
+ven,Venda,I,L
+veo,Ventureño,I,E
+vep,Veps,I,L
+ver,Mom Jango,I,L
+vgr,Vaghri,I,L
+vgt,Vlaamse Gebarentaal,I,L
+vic,Virgin Islands Creole English,I,L
+vid,Vidunda,I,L
+vie,Vietnamese,I,L
+vif,Vili,I,L
+vig,Viemo,I,L
+vil,Vilela,I,L
+vin,Vinza,I,L
+vis,Vishavan,I,L
+vit,Viti,I,L
+viv,Iduna,I,L
+vka,Kariyarra,I,E
+vkj,Kujarge,I,L
+vkk,Kaur,I,L
+vkl,Kulisusu,I,L
+vkm,Kamakan,I,E
+vkn,Koro Nulu,I,L
+vko,Kodeoha,I,L
+vkp,Korlai Creole Portuguese,I,L
+vkt,Tenggarong Kutai Malay,I,L
+vku,Kurrama,I,L
+vkz,Koro Zuba,I,L
+vlp,Valpei,I,L
+vls,Vlaams,I,L
+vma,Martuyhunira,I,L
+vmb,Barbaram,I,E
+vmc,Juxtlahuaca Mixtec,I,L
+vmd,Mudu Koraga,I,L
+vme,East Masela,I,L
+vmf,Mainfränkisch,I,L
+vmg,Lungalunga,I,L
+vmh,Maraghei,I,L
+vmi,Miwa,I,E
+vmj,Ixtayutla Mixtec,I,L
+vmk,Makhuwa-Shirima,I,L
+vml,Malgana,I,E
+vmm,Mitlatongo Mixtec,I,L
+vmp,Soyaltepec Mazatec,I,L
+vmq,Soyaltepec Mixtec,I,L
+vmr,Marenje,I,L
+vms,Moksela,I,E
+vmu,Muluridyi,I,E
+vmv,Valley Maidu,I,E
+vmw,Makhuwa,I,L
+vmx,Tamazola Mixtec,I,L
+vmy,Ayautla Mazatec,I,L
+vmz,Mazatlán Mazatec,I,L
+vnk,Vano,I,L
+vnm,Vinmavis,I,L
+vnp,Vunapu,I,L
+vol,Volapük,I,C
+vor,Voro,I,L
+vot,Votic,I,L
+vra,Vera'a,I,L
+vro,Võro,I,L
+vrs,Varisi,I,L
+vrt,Burmbar,I,L
+vsi,Moldova Sign Language,I,L
+vsl,Venezuelan Sign Language,I,L
+vsv,Valencian Sign Language,I,L
+vto,Vitou,I,L
+vum,Vumbu,I,L
+vun,Vunjo,I,L
+vut,Vute,I,L
+vwa,Awa (China),I,L
+waa,Walla Walla,I,L
+wab,Wab,I,L
+wac,Wasco-Wishram,I,E
+wad,Wamesa,I,L
+wae,Walser,I,L
+waf,Wakoná,I,E
+wag,Wa'ema,I,L
+wah,Watubela,I,L
+wai,Wares,I,L
+waj,Waffa,I,L
+wal,Wolaytta,I,L
+wam,Wampanoag,I,E
+wan,Wan,I,L
+wao,Wappo,I,E
+wap,Wapishana,I,L
+waq,Wagiman,I,L
+war,Waray (Philippines),I,L
+was,Washo,I,L
+wat,Kaninuwa,I,L
+wau,Waurá,I,L
+wav,Waka,I,L
+waw,Waiwai,I,L
+wax,Watam,I,L
+way,Wayana,I,L
+waz,Wampur,I,L
+wba,Warao,I,L
+wbb,Wabo,I,L
+wbe,Waritai,I,L
+wbf,Wara,I,L
+wbh,Wanda,I,L
+wbi,Vwanji,I,L
+wbj,Alagwa,I,L
+wbk,Waigali,I,L
+wbl,Wakhi,I,L
+wbm,Wa,I,L
+wbp,Warlpiri,I,L
+wbq,Waddar,I,L
+wbr,Wagdi,I,L
+wbs,West Bengal Sign Language,I,L
+wbt,Warnman,I,L
+wbv,Wajarri,I,L
+wbw,Woi,I,L
+wca,Yanomámi,I,L
+wci,Waci Gbe,I,L
+wdd,Wandji,I,L
+wdg,Wadaginam,I,L
+wdj,Wadjiginy,I,L
+wdk,Wadikali,I,E
+wdt,Wendat,I,L
+wdu,Wadjigu,I,E
+wdy,Wadjabangayi,I,E
+wea,Wewaw,I,E
+wec,Wè Western,I,L
+wed,Wedau,I,L
+weg,Wergaia,I,L
+weh,Weh,I,L
+wei,Kiunum,I,L
+wem,Weme Gbe,I,L
+weo,Wemale,I,L
+wep,Westphalien,I,L
+wer,Weri,I,L
+wes,Cameroon Pidgin,I,L
+wet,Perai,I,L
+weu,Rawngtu Chin,I,L
+wew,Wejewa,I,L
+wfg,Yafi,I,L
+wga,Wagaya,I,E
+wgb,Wagawaga,I,L
+wgg,Wangkangurru,I,E
+wgi,Wahgi,I,L
+wgo,Waigeo,I,L
+wgu,Wirangu,I,E
+wgy,Warrgamay,I,L
+wha,Sou Upaa,I,L
+whg,North Wahgi,I,L
+whk,Wahau Kenyah,I,L
+whu,Wahau Kayan,I,L
+wib,Southern Toussian,I,L
+wic,Wichita,I,E
+wie,Wik-Epa,I,E
+wif,Wik-Keyangan,I,E
+wig,Wik Ngathan,I,L
+wih,Wik-Me'anha,I,L
+wii,Minidien,I,L
+wij,Wik-Iiyanh,I,L
+wik,Wikalkan,I,L
+wil,Wilawila,I,E
+wim,Wik-Mungkan,I,L
+win,Ho-Chunk,I,L
+wir,Wiraféd,I,E
+wiu,Wiru,I,L
+wiv,Vitu,I,L
+wiy,Wiyot,I,E
+wja,Waja,I,L
+wji,Warji,I,L
+wka,Kw'adza,I,E
+wkb,Kumbaran,I,L
+wkd,Wakde,I,L
+wkl,Kalanadi,I,L
+wkr,Keerray-Woorroong,I,L
+wku,Kunduvadi,I,L
+wkw,Wakawaka,I,E
+wky,Wangkayutyuru,I,E
+wla,Walio,I,L
+wlc,Mwali Comorian,I,L
+wle,Wolane,I,L
+wlg,Kunbarlang,I,L
+wlh,Welaun,I,L
+wli,Waioli,I,L
+wlk,Wailaki,I,E
+wll,Wali (Sudan),I,L
+wlm,Middle Welsh,I,H
+wln,Walloon,I,L
+wlo,Wolio,I,L
+wlr,Wailapa,I,L
+wls,Wallisian,I,L
+wlu,Wuliwuli,I,E
+wlv,Wichí Lhamtés Vejoz,I,L
+wlw,Walak,I,L
+wlx,Wali (Ghana),I,L
+wly,Waling,I,E
+wma,Mawa (Nigeria),I,E
+wmb,Wambaya,I,L
+wmc,Wamas,I,L
+wmd,Mamaindé,I,L
+wme,Wambule,I,L
+wmg,Western Minyag,I,L
+wmh,Waima'a,I,L
+wmi,Wamin,I,E
+wmm,Maiwa (Indonesia),I,L
+wmn,Waamwang,I,E
+wmo,Wom (Papua New Guinea),I,L
+wms,Wambon,I,L
+wmt,Walmajarri,I,L
+wmw,Mwani,I,L
+wmx,Womo,I,L
+wnb,Wanambre,I,L
+wnc,Wantoat,I,L
+wnd,Wandarang,I,E
+wne,Waneci,I,L
+wng,Wanggom,I,L
+wni,Ndzwani Comorian,I,L
+wnk,Wanukaka,I,L
+wnm,Wanggamala,I,E
+wnn,Wunumara,I,E
+wno,Wano,I,L
+wnp,Wanap,I,L
+wnu,Usan,I,L
+wnw,Wintu,I,L
+wny,Wanyi,I,L
+woa,Kuwema,I,L
+wob,Wè Northern,I,L
+woc,Wogeo,I,L
+wod,Wolani,I,L
+woe,Woleaian,I,L
+wof,Gambian Wolof,I,L
+wog,Wogamusin,I,L
+woi,Kamang,I,L
+wok,Longto,I,L
+wol,Wolof,I,L
+wom,Wom (Nigeria),I,L
+won,Wongo,I,L
+woo,Manombai,I,L
+wor,Woria,I,L
+wos,Hanga Hundi,I,L
+wow,Wawonii,I,L
+woy,Weyto,I,E
+wpc,Maco,I,L
+wrb,Waluwarra,I,E
+wrg,Warungu,I,E
+wrh,Wiradjuri,I,E
+wri,Wariyangga,I,E
+wrk,Garrwa,I,L
+wrl,Warlmanpa,I,L
+wrm,Warumungu,I,L
+wrn,Warnang,I,L
+wro,Worrorra,I,E
+wrp,Waropen,I,L
+wrr,Wardaman,I,L
+wrs,Waris,I,L
+wru,Waru,I,L
+wrv,Waruna,I,L
+wrw,Gugu Warra,I,E
+wrx,Wae Rana,I,L
+wry,Merwari,I,L
+wrz,Waray (Australia),I,E
+wsa,Warembori,I,L
+wsg,Adilabad Gondi,I,L
+wsi,Wusi,I,L
+wsk,Waskia,I,L
+wsr,Owenia,I,L
+wss,Wasa,I,L
+wsu,Wasu,I,E
+wsv,Wotapuri-Katarqalai,I,E
+wtf,Watiwa,I,L
+wth,Wathawurrung,I,E
+wti,Berta,I,L
+wtk,Watakataui,I,L
+wtm,Mewati,I,L
+wtw,Wotu,I,L
+wua,Wikngenchera,I,L
+wub,Wunambal,I,L
+wud,Wudu,I,L
+wuh,Wutunhua,I,L
+wul,Silimo,I,L
+wum,Wumbvu,I,L
+wun,Bungu,I,L
+wur,Wurrugu,I,E
+wut,Wutung,I,L
+wuu,Wu Chinese,I,L
+wuv,Wuvulu-Aua,I,L
+wux,Wulna,I,L
+wuy,Wauyai,I,L
+wwa,Waama,I,L
+wwb,Wakabunga,I,E
+wwo,Wetamut,I,L
+wwr,Warrwa,I,E
+www,Wawa,I,L
+wxa,Waxianghua,I,L
+wxw,Wardandi,I,E
+wyb,Wangaaybuwan-Ngiyambaa,I,L
+wyi,Woiwurrung,I,E
+wym,Wymysorys,I,L
+wyn,Wyandot,I,L
+wyr,Wayoró,I,L
+wyy,Western Fijian,I,L
+xaa,Andalusian Arabic,I,H
+xab,Sambe,I,L
+xac,Kachari,I,L
+xad,Adai,I,E
+xae,Aequian,I,A
+xag,Aghwan,I,A
+xai,Kaimbé,I,E
+xaj,Ararandewára,I,E
+xak,Máku,I,E
+xal,Kalmyk,I,L
+xam,ǀXam,I,E
+xan,Xamtanga,I,L
+xao,Khao,I,L
+xap,Apalachee,I,E
+xaq,Aquitanian,I,A
+xar,Karami,I,E
+xas,Kamas,I,E
+xat,Katawixi,I,L
+xau,Kauwera,I,L
+xav,Xavánte,I,L
+xaw,Kawaiisu,I,L
+xay,Kayan Mahakam,I,L
+xbb,Lower Burdekin,I,E
+xbc,Bactrian,I,A
+xbd,Bindal,I,E
+xbe,Bigambal,I,E
+xbg,Bunganditj,I,E
+xbi,Kombio,I,L
+xbj,Birrpayi,I,E
+xbm,Middle Breton,I,H
+xbn,Kenaboi,I,E
+xbo,Bolgarian,I,H
+xbp,Bibbulman,I,E
+xbr,Kambera,I,L
+xbw,Kambiwá,I,E
+xby,Batjala,I,L
+xcb,Cumbric,I,H
+xcc,Camunic,I,A
+xce,Celtiberian,I,A
+xcg,Cisalpine Gaulish,I,A
+xch,Chemakum,I,E
+xcl,Classical Armenian,I,H
+xcm,Comecrudo,I,E
+xcn,Cotoname,I,E
+xco,Chorasmian,I,A
+xcr,Carian,I,A
+xct,Classical Tibetan,I,H
+xcu,Curonian,I,H
+xcv,Chuvantsy,I,E
+xcw,Coahuilteco,I,E
+xcy,Cayuse,I,E
+xda,Darkinyung,I,L
+xdc,Dacian,I,A
+xdk,Dharuk,I,E
+xdm,Edomite,I,A
+xdo,Kwandu,I,L
+xdq,Kaitag,I,L
+xdy,Malayic Dayak,I,L
+xeb,Eblan,I,A
+xed,Hdi,I,L
+xeg,ǁXegwi,I,E
+xel,Kelo,I,L
+xem,Kembayan,I,L
+xep,Epi-Olmec,I,A
+xer,Xerénte,I,L
+xes,Kesawai,I,L
+xet,Xetá,I,L
+xeu,Keoru-Ahia,I,L
+xfa,Faliscan,I,A
+xga,Galatian,I,A
+xgb,Gbin,I,E
+xgd,Gudang,I,E
+xgf,Gabrielino-Fernandeño,I,E
+xgg,Goreng,I,E
+xgi,Garingbal,I,E
+xgl,Galindan,I,H
+xgm,Dharumbal,I,E
+xgr,Garza,I,E
+xgu,Unggumi,I,L
+xgw,Guwa,I,E
+xha,Harami,I,A
+xhc,Hunnic,I,A
+xhd,Hadrami,I,A
+xhe,Khetrani,I,L
+xhm,Middle Khmer (1400 to 1850 CE),I,H
+xho,Xhosa,I,L
+xhr,Hernican,I,A
+xht,Hattic,I,A
+xhu,Hurrian,I,A
+xhv,Khua,I,L
+xib,Iberian,I,A
+xii,Xiri,I,L
+xil,Illyrian,I,A
+xin,Xinca,I,E
+xir,Xiriâna,I,E
+xis,Kisan,I,L
+xiv,Indus Valley Language,I,A
+xiy,Xipaya,I,L
+xjb,Minjungbal,I,E
+xjt,Jaitmatang,I,E
+xka,Kalkoti,I,L
+xkb,Northern Nago,I,L
+xkc,Kho'ini,I,L
+xkd,Mendalam Kayan,I,L
+xke,Kereho,I,L
+xkf,Khengkha,I,L
+xkg,Kagoro,I,L
+xki,Kenyan Sign Language,I,L
+xkj,Kajali,I,L
+xkk,Kachok,I,L
+xkl,Mainstream Kenyah,I,L
+xkn,Kayan River Kayan,I,L
+xko,Kiorr,I,L
+xkp,Kabatei,I,L
+xkq,Koroni,I,L
+xkr,Xakriabá,I,E
+xks,Kumbewaha,I,L
+xkt,Kantosi,I,L
+xku,Kaamba,I,L
+xkv,Kgalagadi,I,L
+xkw,Kembra,I,L
+xkx,Karore,I,L
+xky,Uma' Lasan,I,L
+xkz,Kurtokha,I,L
+xla,Kamula,I,L
+xlb,Loup B,I,E
+xlc,Lycian,I,A
+xld,Lydian,I,A
+xle,Lemnian,I,A
+xlg,Ligurian (Ancient),I,A
+xli,Liburnian,I,A
+xln,Alanic,I,A
+xlo,Loup A,I,E
+xlp,Lepontic,I,A
+xls,Lusitanian,I,A
+xlu,Cuneiform Luwian,I,A
+xly,Elymian,I,A
+xma,Mushungulu,I,L
+xmb,Mbonga,I,L
+xmc,Makhuwa-Marrevone,I,L
+xmd,Mbudum,I,L
+xme,Median,I,A
+xmf,Mingrelian,I,L
+xmg,Mengaka,I,L
+xmh,Kugu-Muminh,I,L
+xmj,Majera,I,L
+xmk,Ancient Macedonian,I,A
+xml,Malaysian Sign Language,I,L
+xmm,Manado Malay,I,L
+xmn,Manichaean Middle Persian,I,H
+xmo,Morerebi,I,L
+xmp,Kuku-Mu'inh,I,E
+xmq,Kuku-Mangk,I,E
+xmr,Meroitic,I,A
+xms,Moroccan Sign Language,I,L
+xmt,Matbat,I,L
+xmu,Kamu,I,E
+xmv,Antankarana Malagasy,I,L
+xmw,Tsimihety Malagasy,I,L
+xmx,Salawati,I,L
+xmy,Mayaguduna,I,L
+xmz,Mori Bawah,I,L
+xna,Ancient North Arabian,I,A
+xnb,Kanakanabu,I,L
+xng,Middle Mongolian,I,H
+xnh,Kuanhua,I,L
+xni,Ngarigu,I,E
+xnj,Ngoni (Tanzania),I,L
+xnk,Nganakarti,I,E
+xnm,Ngumbarl,I,E
+xnn,Northern Kankanay,I,L
+xno,Anglo-Norman,I,H
+xnq,Ngoni (Mozambique),I,L
+xnr,Kangri,I,L
+xns,Kanashi,I,L
+xnt,Narragansett,I,E
+xnu,Nukunul,I,E
+xny,Nyiyaparli,I,L
+xnz,Kenzi,I,L
+xoc,O'chi'chi',I,E
+xod,Kokoda,I,L
+xog,Soga,I,L
+xoi,Kominimung,I,L
+xok,Xokleng,I,L
+xom,Komo (Sudan),I,L
+xon,Konkomba,I,L
+xoo,Xukurú,I,E
+xop,Kopar,I,L
+xor,Korubo,I,L
+xow,Kowaki,I,L
+xpa,Pirriya,I,E
+xpb,Northeastern Tasmanian,I,E
+xpc,Pecheneg,I,H
+xpd,Oyster Bay Tasmanian,I,E
+xpe,Liberia Kpelle,I,L
+xpf,Southeast Tasmanian,I,E
+xpg,Phrygian,I,A
+xph,North Midlands Tasmanian,I,E
+xpi,Pictish,I,H
+xpj,Mpalitjanh,I,E
+xpk,Kulina Pano,I,L
+xpl,Port Sorell Tasmanian,I,E
+xpm,Pumpokol,I,E
+xpn,Kapinawá,I,E
+xpo,Pochutec,I,E
+xpp,Puyo-Paekche,I,A
+xpq,Mohegan-Pequot,I,E
+xpr,Parthian,I,A
+xps,Pisidian,I,A
+xpt,Punthamara,I,E
+xpu,Punic,I,A
+xpv,Northern Tasmanian,I,E
+xpw,Northwestern Tasmanian,I,E
+xpx,Southwestern Tasmanian,I,E
+xpy,Puyo,I,A
+xpz,Bruny Island Tasmanian,I,E
+xqa,Karakhanid,I,H
+xqt,Qatabanian,I,A
+xra,Krahô,I,L
+xrb,Eastern Karaboro,I,L
+xrd,Gundungurra,I,E
+xre,Kreye,I,L
+xrg,Minang,I,E
+xri,Krikati-Timbira,I,L
+xrm,Armazic,I,A
+xrn,Arin,I,E
+xrr,Raetic,I,A
+xrt,Aranama-Tamique,I,E
+xru,Marriammu,I,L
+xrw,Karawa,I,L
+xsa,Sabaean,I,A
+xsb,Sambal,I,L
+xsc,Scythian,I,A
+xsd,Sidetic,I,A
+xse,Sempan,I,L
+xsh,Shamang,I,L
+xsi,Sio,I,L
+xsj,Subi,I,L
+xsl,South Slavey,I,L
+xsm,Kasem,I,L
+xsn,Sanga (Nigeria),I,L
+xso,Solano,I,E
+xsp,Silopi,I,L
+xsq,Makhuwa-Saka,I,L
+xsr,Sherpa,I,L
+xss,Assan,I,E
+xsu,Sanumá,I,L
+xsv,Sudovian,I,E
+xsy,Saisiyat,I,L
+xta,Alcozauca Mixtec,I,L
+xtb,Chazumba Mixtec,I,L
+xtc,Katcha-Kadugli-Miri,I,L
+xtd,Diuxi-Tilantongo Mixtec,I,L
+xte,Ketengban,I,L
+xtg,Transalpine Gaulish,I,A
+xth,Yitha Yitha,I,E
+xti,Sinicahua Mixtec,I,L
+xtj,San Juan Teita Mixtec,I,L
+xtl,Tijaltepec Mixtec,I,L
+xtm,Magdalena Peñasco Mixtec,I,L
+xtn,Northern Tlaxiaco Mixtec,I,L
+xto,Tokharian A,I,A
+xtp,San Miguel Piedras Mixtec,I,L
+xtq,Tumshuqese,I,H
+xtr,Early Tripuri,I,A
+xts,Sindihui Mixtec,I,L
+xtt,Tacahua Mixtec,I,L
+xtu,Cuyamecalco Mixtec,I,L
+xtv,Thawa,I,E
+xtw,Tawandê,I,L
+xty,Yoloxochitl Mixtec,I,L
+xua,Alu Kurumba,I,L
+xub,Betta Kurumba,I,L
+xud,Umiida,I,E
+xug,Kunigami,I,L
+xuj,Jennu Kurumba,I,L
+xul,Ngunawal,I,E
+xum,Umbrian,I,A
+xun,Unggaranggu,I,E
+xuo,Kuo,I,L
+xup,Upper Umpqua,I,E
+xur,Urartian,I,A
+xut,Kuthant,I,E
+xuu,Kxoe,I,L
+xve,Venetic,I,A
+xvi,Kamviri,I,L
+xvn,Vandalic,I,A
+xvo,Volscian,I,A
+xvs,Vestinian,I,A
+xwa,Kwaza,I,L
+xwc,Woccon,I,E
+xwd,Wadi Wadi,I,E
+xwe,Xwela Gbe,I,L
+xwg,Kwegu,I,L
+xwj,Wajuk,I,E
+xwk,Wangkumara,I,E
+xwl,Western Xwla Gbe,I,L
+xwo,Written Oirat,I,E
+xwr,Kwerba Mamberamo,I,L
+xwt,Wotjobaluk,I,E
+xww,Wemba Wemba,I,E
+xxb,Boro (Ghana),I,E
+xxk,Ke'o,I,L
+xxm,Minkin,I,E
+xxr,Koropó,I,E
+xxt,Tambora,I,E
+xya,Yaygir,I,E
+xyb,Yandjibara,I,E
+xyj,Mayi-Yapi,I,E
+xyk,Mayi-Kulan,I,E
+xyl,Yalakalore,I,E
+xyt,Mayi-Thakurti,I,E
+xyy,Yorta Yorta,I,L
+xzh,Zhang-Zhung,I,A
+xzm,Zemgalian,I,E
+xzp,Ancient Zapotec,I,H
+yaa,Yaminahua,I,L
+yab,Yuhup,I,L
+yac,Pass Valley Yali,I,L
+yad,Yagua,I,L
+yae,Pumé,I,L
+yaf,Yaka (Democratic Republic of Congo),I,L
+yag,Yámana,I,L
+yah,Yazgulyam,I,L
+yai,Yagnobi,I,L
+yaj,Banda-Yangere,I,L
+yak,Yakama,I,L
+yal,Yalunka,I,L
+yam,Yamba,I,L
+yan,Mayangna,I,L
+yao,Yao,I,L
+yap,Yapese,I,L
+yaq,Yaqui,I,L
+yar,Yabarana,I,L
+yas,Nugunu (Cameroon),I,L
+yat,Yambeta,I,L
+yau,Yuwana,I,L
+yav,Yangben,I,L
+yaw,Yawalapití,I,L
+yax,Yauma,I,L
+yay,Agwagwune,I,L
+yaz,Lokaa,I,L
+yba,Yala,I,L
+ybb,Yemba,I,L
+ybe,West Yugur,I,L
+ybh,Yakha,I,L
+ybi,Yamphu,I,L
+ybj,Hasha,I,L
+ybk,Bokha,I,L
+ybl,Yukuben,I,L
+ybm,Yaben,I,L
+ybn,Yabaâna,I,E
+ybo,Yabong,I,L
+ybx,Yawiyo,I,L
+yby,Yaweyuha,I,L
+ych,Chesu,I,L
+ycl,Lolopo,I,L
+ycn,Yucuna,I,L
+ycp,Chepya,I,L
+yda,Yanda,I,E
+ydd,Eastern Yiddish,I,L
+yde,Yangum Dey,I,L
+ydg,Yidgha,I,L
+ydk,Yoidik,I,L
+yea,Ravula,I,L
+yec,Yeniche,I,L
+yee,Yimas,I,L
+yei,Yeni,I,E
+yej,Yevanic,I,L
+yel,Yela,I,L
+yer,Tarok,I,L
+yes,Nyankpa,I,L
+yet,Yetfa,I,L
+yeu,Yerukula,I,L
+yev,Yapunda,I,L
+yey,Yeyi,I,L
+yga,Malyangapa,I,E
+ygi,Yiningayi,I,E
+ygl,Yangum Gel,I,L
+ygm,Yagomi,I,L
+ygp,Gepo,I,L
+ygr,Yagaria,I,L
+ygs,Yolŋu Sign Language,I,L
+ygu,Yugul,I,L
+ygw,Yagwoia,I,L
+yha,Baha Buyang,I,L
+yhd,Judeo-Iraqi Arabic,I,L
+yhl,Hlepho Phowa,I,L
+yhs,Yan-nhaŋu Sign Language,I,L
+yia,Yinggarda,I,L
+yid,Yiddish,M,L
+yif,Ache,I,L
+yig,Wusa Nasu,I,L
+yih,Western Yiddish,I,E
+yii,Yidiny,I,L
+yij,Yindjibarndi,I,L
+yik,Dongshanba Lalo,I,L
+yil,Yindjilandji,I,E
+yim,Yimchungru Naga,I,L
+yin,Riang Lai,I,L
+yip,Pholo,I,L
+yiq,Miqie,I,L
+yir,North Awyu,I,L
+yis,Yis,I,L
+yit,Eastern Lalu,I,L
+yiu,Awu,I,L
+yiv,Northern Nisu,I,L
+yix,Axi Yi,I,L
+yiz,Azhe,I,L
+yka,Yakan,I,L
+ykg,Northern Yukaghir,I,L
+yki,Yoke,I,L
+ykk,Yakaikeke,I,L
+ykl,Khlula,I,L
+ykm,Kap,I,L
+ykn,Kua-nsi,I,L
+yko,Yasa,I,L
+ykr,Yekora,I,L
+ykt,Kathu,I,L
+yku,Kuamasi,I,L
+yky,Yakoma,I,L
+yla,Yaul,I,L
+ylb,Yaleba,I,L
+yle,Yele,I,L
+ylg,Yelogu,I,L
+yli,Angguruk Yali,I,L
+yll,Yil,I,L
+ylm,Limi,I,L
+yln,Langnian Buyang,I,L
+ylo,Naluo Yi,I,L
+ylr,Yalarnnga,I,E
+ylu,Aribwaung,I,L
+yly,Nyâlayu,I,L
+ymb,Yambes,I,L
+ymc,Southern Muji,I,L
+ymd,Muda,I,L
+yme,Yameo,I,E
+ymg,Yamongeri,I,L
+ymh,Mili,I,L
+ymi,Moji,I,L
+ymk,Makwe,I,L
+yml,Iamalele,I,L
+ymm,Maay,I,L
+ymn,Yamna,I,L
+ymo,Yangum Mon,I,L
+ymp,Yamap,I,L
+ymq,Qila Muji,I,L
+ymr,Malasar,I,L
+yms,Mysian,I,A
+ymx,Northern Muji,I,L
+ymz,Muzi,I,L
+yna,Aluo,I,L
+ynd,Yandruwandha,I,E
+yne,Lang'e,I,L
+yng,Yango,I,L
+ynk,Naukan Yupik,I,L
+ynl,Yangulam,I,L
+ynn,Yana,I,E
+yno,Yong,I,L
+ynq,Yendang,I,L
+yns,Yansi,I,L
+ynu,Yahuna,I,E
+yob,Yoba,I,E
+yog,Yogad,I,L
+yoi,Yonaguni,I,L
+yok,Yokuts,I,L
+yol,Yola,I,E
+yom,Yombe,I,L
+yon,Yongkom,I,L
+yor,Yoruba,I,L
+yot,Yotti,I,L
+yox,Yoron,I,L
+yoy,Yoy,I,L
+ypa,Phala,I,L
+ypb,Labo Phowa,I,L
+ypg,Phola,I,L
+yph,Phupha,I,L
+ypm,Phuma,I,L
+ypn,Ani Phowa,I,L
+ypo,Alo Phola,I,L
+ypp,Phupa,I,L
+ypz,Phuza,I,L
+yra,Yerakai,I,L
+yrb,Yareba,I,L
+yre,Yaouré,I,L
+yrk,Nenets,I,L
+yrl,Nhengatu,I,L
+yrm,Yirrk-Mel,I,L
+yrn,Yerong,I,L
+yro,Yaroamë,I,L
+yrs,Yarsun,I,L
+yrw,Yarawata,I,L
+yry,Yarluyandi,I,L
+ysc,Yassic,I,E
+ysd,Samatao,I,L
+ysg,Sonaga,I,L
+ysl,Yugoslavian Sign Language,I,L
+ysm,Myanmar Sign Language,I,L
+ysn,Sani,I,L
+yso,Nisi (China),I,L
+ysp,Southern Lolopo,I,L
+ysr,Sirenik Yupik,I,E
+yss,Yessan-Mayo,I,L
+ysy,Sanie,I,L
+yta,Talu,I,L
+ytl,Tanglang,I,L
+ytp,Thopho,I,L
+ytw,Yout Wam,I,L
+yty,Yatay,I,E
+yua,Yucateco,I,L
+yub,Yugambal,I,E
+yuc,Yuchi,I,L
+yud,Judeo-Tripolitanian Arabic,I,L
+yue,Yue Chinese,I,L
+yuf,Havasupai-Walapai-Yavapai,I,L
+yug,Yug,I,E
+yui,Yurutí,I,L
+yuj,Karkar-Yuri,I,L
+yuk,Yuki,I,E
+yul,Yulu,I,L
+yum,Quechan,I,L
+yun,Bena (Nigeria),I,L
+yup,Yukpa,I,L
+yuq,Yuqui,I,L
+yur,Yurok,I,E
+yut,Yopno,I,L
+yuw,Yau (Morobe Province),I,L
+yux,Southern Yukaghir,I,L
+yuy,East Yugur,I,L
+yuz,Yuracare,I,L
+yva,Yawa,I,L
+yvt,Yavitero,I,E
+ywa,Kalou,I,L
+ywg,Yinhawangka,I,L
+ywl,Western Lalu,I,L
+ywn,Yawanawa,I,L
+ywq,Wuding-Luquan Yi,I,L
+ywr,Yawuru,I,L
+ywt,Xishanba Lalo,I,L
+ywu,Wumeng Nasu,I,L
+yww,Yawarawarga,I,E
+yxa,Mayawali,I,E
+yxg,Yagara,I,E
+yxl,Yardliyawarra,I,E
+yxm,Yinwum,I,E
+yxu,Yuyu,I,E
+yxy,Yabula Yabula,I,E
+yyr,Yir Yoront,I,E
+yyu,Yau (Sandaun Province),I,L
+yyz,Ayizi,I,L
+yzg,E'ma Buyang,I,L
+yzk,Zokhuo,I,L
+zaa,Sierra de Juárez Zapotec,I,L
+zab,Western Tlacolula Valley Zapotec,I,L
+zac,Ocotlán Zapotec,I,L
+zad,Cajonos Zapotec,I,L
+zae,Yareni Zapotec,I,L
+zaf,Ayoquesco Zapotec,I,L
+zag,Zaghawa,I,L
+zah,Zangwal,I,L
+zai,Isthmus Zapotec,I,L
+zaj,Zaramo,I,L
+zak,Zanaki,I,L
+zal,Zauzou,I,L
+zam,Miahuatlán Zapotec,I,L
+zao,Ozolotepec Zapotec,I,L
+zap,Zapotec,M,L
+zaq,Aloápam Zapotec,I,L
+zar,Rincón Zapotec,I,L
+zas,Santo Domingo Albarradas Zapotec,I,L
+zat,Tabaa Zapotec,I,L
+zau,Zangskari,I,L
+zav,Yatzachi Zapotec,I,L
+zaw,Mitla Zapotec,I,L
+zax,Xadani Zapotec,I,L
+zay,Zayse-Zergulla,I,L
+zaz,Zari,I,L
+zba,Balaibalan,I,C
+zbc,Central Berawan,I,L
+zbe,East Berawan,I,L
+zbl,Blissymbols,I,C
+zbt,Batui,I,L
+zbu,Bu (Bauchi State),I,L
+zbw,West Berawan,I,L
+zca,Coatecas Altas Zapotec,I,L
+zcd,Las Delicias Zapotec,I,L
+zch,Central Hongshuihe Zhuang,I,L
+zdj,Ngazidja Comorian,I,L
+zea,Zeeuws,I,L
+zeg,Zenag,I,L
+zeh,Eastern Hongshuihe Zhuang,I,L
+zen,Zenaga,I,L
+zga,Kinga,I,L
+zgb,Guibei Zhuang,I,L
+zgh,Standard Moroccan Tamazight,I,L
+zgm,Minz Zhuang,I,L
+zgn,Guibian Zhuang,I,L
+zgr,Magori,I,L
+zha,Zhuang,M,L
+zhb,Zhaba,I,L
+zhd,Dai Zhuang,I,L
+zhi,Zhire,I,L
+zhn,Nong Zhuang,I,L
+zho,Chinese,M,L
+zhw,Zhoa,I,L
+zia,Zia,I,L
+zib,Zimbabwe Sign Language,I,L
+zik,Zimakani,I,L
+zil,Zialo,I,L
+zim,Mesme,I,L
+zin,Zinza,I,L
+ziw,Zigula,I,L
+ziz,Zizilivakan,I,L
+zka,Kaimbulawa,I,L
+zkb,Koibal,I,E
+zkd,Kadu,I,L
+zkg,Koguryo,I,A
+zkh,Khorezmian,I,H
+zkk,Karankawa,I,E
+zkn,Kanan,I,L
+zko,Kott,I,E
+zkp,São Paulo Kaingáng,I,E
+zkr,Zakhring,I,L
+zkt,Kitan,I,H
+zku,Kaurna,I,L
+zkv,Krevinian,I,E
+zkz,Khazar,I,H
+zla,Zula,I,L
+zlj,Liujiang Zhuang,I,L
+zlm,Malay (individual language),I,L
+zln,Lianshan Zhuang,I,L
+zlq,Liuqian Zhuang,I,L
+zma,Manda (Australia),I,L
+zmb,Zimba,I,L
+zmc,Margany,I,E
+zmd,Maridan,I,L
+zme,Mangerr,I,E
+zmf,Mfinu,I,L
+zmg,Marti Ke,I,L
+zmh,Makolkol,I,E
+zmi,Negeri Sembilan Malay,I,L
+zmj,Maridjabin,I,L
+zmk,Mandandanyi,I,E
+zml,Matngala,I,E
+zmm,Marimanindji,I,L
+zmn,Mbangwe,I,L
+zmo,Molo,I,L
+zmp,Mpuono,I,L
+zmq,Mituku,I,L
+zmr,Maranunggu,I,L
+zms,Mbesa,I,L
+zmt,Maringarr,I,L
+zmu,Muruwari,I,E
+zmv,Mbariman-Gudhinma,I,E
+zmw,Mbo (Democratic Republic of Congo),I,L
+zmx,Bomitaba,I,L
+zmy,Mariyedi,I,L
+zmz,Mbandja,I,L
+zna,Zan Gula,I,L
+zne,Zande (individual language),I,L
+zng,Mang,I,L
+znk,Manangkari,I,E
+zns,Mangas,I,L
+zoc,Copainalá Zoque,I,L
+zoh,Chimalapa Zoque,I,L
+zom,Zou,I,L
+zoo,Asunción Mixtepec Zapotec,I,L
+zoq,Tabasco Zoque,I,L
+zor,Rayón Zoque,I,L
+zos,Francisco León Zoque,I,L
+zpa,Lachiguiri Zapotec,I,L
+zpb,Yautepec Zapotec,I,L
+zpc,Choapan Zapotec,I,L
+zpd,Southeastern Ixtlán Zapotec,I,L
+zpe,Petapa Zapotec,I,L
+zpf,San Pedro Quiatoni Zapotec,I,L
+zpg,Guevea De Humboldt Zapotec,I,L
+zph,Totomachapan Zapotec,I,L
+zpi,Santa María Quiegolani Zapotec,I,L
+zpj,Quiavicuzas Zapotec,I,L
+zpk,Tlacolulita Zapotec,I,L
+zpl,Lachixío Zapotec,I,L
+zpm,Mixtepec Zapotec,I,L
+zpn,Santa Inés Yatzechi Zapotec,I,L
+zpo,Amatlán Zapotec,I,L
+zpp,El Alto Zapotec,I,L
+zpq,Zoogocho Zapotec,I,L
+zpr,Santiago Xanica Zapotec,I,L
+zps,Coatlán Zapotec,I,L
+zpt,San Vicente Coatlán Zapotec,I,L
+zpu,Yalálag Zapotec,I,L
+zpv,Chichicapan Zapotec,I,L
+zpw,Zaniza Zapotec,I,L
+zpx,San Baltazar Loxicha Zapotec,I,L
+zpy,Mazaltepec Zapotec,I,L
+zpz,Texmelucan Zapotec,I,L
+zqe,Qiubei Zhuang,I,L
+zra,Kara (Korea),I,A
+zrg,Mirgan,I,L
+zrn,Zerenkel,I,L
+zro,Záparo,I,L
+zrp,Zarphatic,I,E
+zrs,Mairasi,I,L
+zsa,Sarasira,I,L
+zsk,Kaskean,I,A
+zsl,Zambian Sign Language,I,L
+zsm,Standard Malay,I,L
+zsr,Southern Rincon Zapotec,I,L
+zsu,Sukurum,I,L
+zte,Elotepec Zapotec,I,L
+ztg,Xanaguía Zapotec,I,L
+ztl,Lapaguía-Guivini Zapotec,I,L
+ztm,San Agustín Mixtepec Zapotec,I,L
+ztn,Santa Catarina Albarradas Zapotec,I,L
+ztp,Loxicha Zapotec,I,L
+ztq,Quioquitani-Quierí Zapotec,I,L
+zts,Tilquiapan Zapotec,I,L
+ztt,Tejalapan Zapotec,I,L
+ztu,Güilá Zapotec,I,L
+ztx,Zaachila Zapotec,I,L
+zty,Yatee Zapotec,I,L
+zua,Zeem,I,L
+zuh,Tokano,I,L
+zul,Zulu,I,L
+zum,Kumzari,I,L
+zun,Zuni,I,L
+zuy,Zumaya,I,L
+zwa,Zay,I,L
+zxx,No linguistic content,S,S
+zyb,Yongbei Zhuang,I,L
+zyg,Yang Zhuang,I,L
+zyj,Youjiang Zhuang,I,L
+zyn,Yongnan Zhuang,I,L
+zyp,Zyphe Chin,I,L
+zza,Zaza,M,L
+zzj,Zuojiang Zhuang,I,L
