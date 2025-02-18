@@ -25,7 +25,7 @@ desc_columnas=[
     {"agent": "Identificación de la agencia de viajes que realizó la reserva"},
     {"company": "Identificación de la empresa/entidad que ha realizado la reserva o que ha sido responsable del pago de la misma. Se presenta la identificación en lugar de la designación por razones de anonimato."},
     {"days_in_waiting_list": "Número de días que la reserva estuvo en lista de espera antes de ser confirmada al cliente."},
-    {"customer_type": ""},
+    {"customer_type": "Tipo de cliente"},
     {"adr": "Tarifa diaria promedio (calculada dividiendo la suma de todas las transacciones de alojamiento por el número total de noches de estadía)"},
     {"required_car_parking_spaces": "Número de plazas de aparcamiento solicitadas por el cliente"},
     {"total_of_special_requests": "Número de peticiones especiales realizadas por el cliente (p. ej. cama doble o piso alto)"},
@@ -34,5 +34,6 @@ desc_columnas=[
     {"name": "Nombre del Invitado (No Real)."},
     {"email": "Correo electrónico (No Real)."},
     {"phone-number": "Número de teléfono (No Real)"},
-    {"credit_card": "Número de tarjeta de crédito (No Real)"}
+    {"credit_card": "Número de tarjeta de crédito (No Real)"},
+    {"country": "Continente del Pais natal."}
 ]

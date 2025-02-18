@@ -454,7 +454,7 @@ def CSV(operacion,NombreFichero,df=None,ruta="",carpeta="",VisualizarResultado=T
     match operacion:
         case "LEER":
             # Cargamos el csv en un dataframe
-            df = pd.read_csv(ruta_fichero_modificada, encoding= encoding)
+            df = pd.read_csv(ruta_fichero_modificada, encoding= encoding, low_memory=False)
         case "GRABAR":
             #Guardar el DataFrame como un archivo CSV
             #df.to_csv(f"{carpeta}/{NombreFichero}", index=False, encoding=encoding)  # index=False para no guardar el índice como columna
