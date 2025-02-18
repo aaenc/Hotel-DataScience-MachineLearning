@@ -1,8 +1,8 @@
 ﻿cod_continente,nombre_continente
-AF,África
-EU,Europa
-AS,Asia
 NA,América del Norte
-OC,Oceanía
+EU,Europa
 SA,América del Sur
+AF,África
+OC,Oceanía
 AN,Antártica
+AS,Asia
